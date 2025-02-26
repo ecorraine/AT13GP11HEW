@@ -1,0 +1,76 @@
+@charset "UTF-8";
+
+.collapsible {
+    background-color: #0f359d;
+    width: auto;
+    color: #ffffff;
+    text-align: left;
+    padding: 16px;
+    border: none;
+    outline: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+}
+  
+.active, .collapsible:hover {
+    background-color: #426bda; 
+}
+
+.arrow {
+    transition: transform 0.2s ease;
+    display: inline-block;
+}
+
+.collapsible.active .arrow {
+    transform: rotate(-90deg);
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 50% 50%; /* Two equal columns */
+    grid-gap: 8px; /* Adjust gap between grid items */
+    padding: 8px;
+    background-color: #f2f2f2;
+    border: 1px solid #000000;
+}
+
+.grid-item {
+    background-color: #b7dcf1;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+    padding: 24px;
+    margin: 24px;
+    position: relative;
+}
+
+.grid-item:hover {
+    background-color: #0f359d;
+}
+
+.grid-item ::before {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: -8px;
+    left: -8px;
+    text-align: center;
+    content: "";
+    border: 1px solid #0f359d;
+}
+
+.grid-item:hover ::before {
+    border: 1px solid #b7dcf1;
+}
+
+.grid-item a, a:visited {
+    text-decoration: none;
+    color: #0f359d;
+}
+
+.grid-item a:hover {
+    text-decoration: none;
+    color: #ffffff;
+}

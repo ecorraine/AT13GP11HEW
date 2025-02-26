@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project>
+	<ProjectDetails>
+		<ExhibitCode>AT3001</ExhibitCode>
+		<ClassId>AT13A430</ClassId>
+		<ClassNo>1</ClassNo>
+		<Surname>大阪</Surname>
+		<FirstName>春太郎</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>タイトル！</Title>
+		<Thumbnail>https://drive.google.com/file/d/1jj5Cxb40w6kN62GHhB_L_7r_5lu_QlRA/view?usp=drive_link</Thumbnail>
+		<Description>紹介！</Description>
+		<Video>https://drive.google.com/file/d/199xXf98C_POnWwgWtmUYexND5WNGBJVy/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1kLEZikDQqIUFZgBU54MDJxrVyHzHbb0z?usp=drive_link</GDriveURL>
+		<AppealPoint>セーブポイント！</AppealPoint>
+		<Profile>プロフィール！</Profile>
+		<Image1>https://drive.google.com/file/d/10KHDiJbSd2DhegHJr53S7w61K4zirNrH/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/10KHDiJbSd2DhegHJr53S7w61K4zirNrH/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/10KHDiJbSd2DhegHJr53S7w61K4zirNrH/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/10KHDiJbSd2DhegHJr53S7w61K4zirNrH/view?usp=drive_link</Image4>
+	</ProjectDetails>
+</Project>

@@ -1,0 +1,131 @@
+@charset "UTF-8";
+
+.student-info {
+  height: 105px;
+  display: flex;
+  align-items: stretch;
+  justify-content: flex-start;
+  border-top: solid 1px #0f359d;
+  border-bottom: solid 1px #0f359d;
+  padding: 16px 32px;
+  color: #0f359d;
+  margin-bottom: 16px;
+  position: relative;
+}
+
+.student-info-label {
+  font-weight: bold;
+  font-size: 12px;
+  margin-bottom: 8px;
+}
+
+.student-info-data {
+  font-size: 14px;
+}
+
+.exhibit-details {
+  position: absolute;
+  right: 32px;
+  font-size: 12px;
+}
+
+.project-summary {
+  border-top: dashed 1px #808080;
+  border-bottom: dashed 1px #808080;
+  padding: 8px 32px;
+  margin-bottom: 16px;
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+}
+
+.project-summary h6 {
+  color: #0f359d;
+}
+
+#proj-description {
+  font-size: 14px;
+}
+
+.redirect-links {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.redirect-btn {
+  width: 50%;
+  text-align: center;
+  padding: 16px 32px;
+  margin: 0 auto;
+  margin-bottom: 32px;
+  border: solid 1px #0f359d;
+  font-size: 14px;
+  font-weight: bold;
+  background-color: #ffffff;
+  color: #0f359d;
+}
+
+.redirect-btn:hover {
+  background-color: #09214f;
+  color: #ffffff;
+}
+
+.project-content {
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+}
+
+.proj-images {
+  width: 60%;
+  margin: 0 32px;
+}
+
+.proj-images img {
+  height: auto;
+  margin: 8px 0;
+}
+
+.proj-details {
+  width: 40%;
+  margin: 0 32px;
+}
+
+.proj-details h5 {
+  position: relative;
+  background-color: #e0f1ff;
+  color: #0f359d;
+  padding: 12px;
+  padding-bottom: 24px;
+  margin: 12px 0;
+}
+
+.proj-details h5::before {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: -8px;
+  left: -8px;
+  text-align: center;
+  content: "";
+  border: 1px solid #0f359d;
+}
+
+.proj-details-content {
+  margin: 0 16px;
+  margin-bottom: 32px;
+  font-size: 14px;
+}
+
+.feedback-btn {
+  display: block;
+  background-color: #0f359d;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  padding: 20px;
+}
+
+.feedback-btn:hover {
+  background-color: #09214f;
+}

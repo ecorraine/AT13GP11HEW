@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="preconnect" href="https://fonts.gstatic.com/">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css">
+    <link rel="stylesheet" href="./styles/font.css">
+
+    <title>HAL大阪2025年度 AT13 HAL EVENT WEEK</title>
+    <link rel="icon" type="image/x-icon" href="./media/icon.png">
+
+    <link rel="stylesheet" href="./styles/destyle.css">
+    <link rel="stylesheet" href="./styles/default-style.css">
+    <link rel="stylesheet" href="./styles/collapsible.css">
+
+    <style type="text/css">
+        [v-cloak] {
+            opacity: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="page">
+        <!-- ヘッダー部分 -->
+        <header>
+            <div class="header-logo">
+                <img src="./media/logo.png" alt="">
+                <span style="text-align: center;">大阪校　2025年度 AT・GP学科 HAL EVENT WEEK</span>
+            </div>
+            <div class="breadcrumbs">
+                <ul>
+                    <li class="active-crumb">HAL大阪2025年度 AT・GP学科</li>
+                </ul>
+            </div>
+        </header>
+        <!-- 内容部分 -->
+        <section id="body">
+            <div class="page-body">
+                <div class="body-title">
+                    <h1>HAL大阪2025年度 AT・GP学科 HAL EVENT WEEK</h1>
+                </div>
+                <div class="body-container">
+                    <div class="collapsible active">
+                        <h3>ゲーム4年制　3年生</h3>
+                        <div class="arrow">&#9664;</div>
+                    </div>
+                    <div class="content" style="display: block;">
+                        <div class="grid-container">
+                            <div class="grid-item"><a href="./class/at13a.html" target="_self">AT13A出展者</a></div>
+                            <div class="grid-item"><a href="./class/at13b.html" target="_self">AT13B出展者</a></div>
+                            <div class="grid-item"><a href="./class/at13c.html" target="_self">AT13C出展者</a></div>
+                            <div class="grid-item"><a href="./class/at13d.html" target="_self">AT13D出展者</a></div>
+                        </div>
+                    </div>
+                    <div class="collapsible active">
+                        <h3>ゲーム2年制　1年生</h3>
+                        <div class="arrow">&#9664;</div>
+                    </div>
+                    <div class="content" style="display: block;">
+                        <div class="grid-container">
+                            <div class="grid-item"><a href="./class/gp11.html" target="_self">GP11出展者</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <footer><small>大阪校 HEW 2025</small></footer>
+    </div>
+</body>
+<script>
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+
+    for (i = 0; i < coll.length; i++) {
+        coll[i].addEventListener("click", function () {
+            this.classList.toggle("active");
+            var content = this.nextElementSibling;
+            if (this.classList.contains("active")) {
+                content.style.display = "block";
+            } else {
+                content.style.display = "none";
+            }
+        });
+    }
+</script>
+
+</html>
