@@ -1,18 +1,14 @@
-// Fetch the XML file when the page is loaded
-// ページがロードされた際に実行
+// Fetch the XML file when the page is loaded｜ページがロードされた際に実行
 window.onload = function () {
     const path = window.location.pathname;
-    // console.log(path);
-    const segments = path.split('/');
+    let segments = path.split('/');
     
-    // Get the second-to-last segment of the URL
-    // URLの最後から2番目のセグメントを取得
+    // Get the second-to-last segment of the URL｜URLの最後から2番目のセグメントを取得
     const classSegment = segments[segments.length - 2];
 
     const fileName = path.substring(path.lastIndexOf('/') + 1);
-    // console.log(fileName);
-    // omit file extension
-    // 拡張子を無視
+    console.log(fileName);
+    // omit file extension｜拡張子を無視
     const file = fileName.substring(0, fileName.lastIndexOf('.'));
 
     fetch('/AT13/class/' + classSegment + '-details.xml')
@@ -20,28 +16,22 @@ window.onload = function () {
             if (!response.ok) {
                 throw new Error('Failed to load XML file');
             }
-            // Get the text content of the XML file
-            // XMLの内容を返す
             return response.text();
         })
         .then(xmlContent => {
             const parser = new DOMParser();
             const xmlDoc = parser.parseFromString(xmlContent, 'application/xml');
 
-            // Check for errors in XML parsing
-            // エラー検査
             const parseError = xmlDoc.querySelector('parsererror');
             if (parseError) {
                 throw new Error('Error parsing XML');
             }
 
-            // Extract data from the XML
-            // XMLファイルからデータを抽出
+            // Extract data from the XML｜XMLファイルからデータを抽出
             const projectArray = xmlDoc.getElementsByTagName('ProjectDetails');
 
             let output = '';
-            // Iterate through each <ProjectDetails> element using a for loop
-            // forループを使用して、各<ProjectDetails>要素を繰り返し処理
+            // Iterate through each <ProjectDetails> element using a for loop｜forループを使用して、各<ProjectDetails>要素を繰り返し処理
             for (let i = 0; i < projectArray.length; i++) {
                 let student = projectArray[i];
                 // Student Info 学生情報
@@ -69,8 +59,7 @@ window.onload = function () {
                 let img3 = student.getElementsByTagName('Image3')[0].textContent;
                 let img4 = student.getElementsByTagName('Image4')[0].textContent;
                 
-                // Replace the result on the page
-                // 情報を入れ替える
+                // Replace the result on the page｜ページに結果を表示
                 document.getElementById('class-crumb').href = "/AT13/class/" + shortClassId + ".html";
                 document.getElementById('class-crumb').innerHTML = shortClassId + "出展者一覧";
                 document.getElementById('student-crumb').innerHTML = exhibitcode;

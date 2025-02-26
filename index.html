@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css">
     <link rel="stylesheet" href="./styles/font.css">
 
-    <title>HAL大阪2025年度 AT13 HAL EVENT WEEK</title>
+    <!-- <title>HAL大阪 AT13 HAL EVENT WEEK</title> -->
     <link rel="icon" type="image/x-icon" href="./media/icon.png">
 
     <link rel="stylesheet" href="./styles/destyle.css">
@@ -29,11 +29,11 @@
         <header>
             <div class="header-logo">
                 <img src="./media/logo.png" alt="">
-                <span style="text-align: center;">大阪校　2025年度 AT・GP学科 HAL EVENT WEEK</span>
+                <span style="text-align: center;">大阪校　<span class="current-year"></span>年度 AT・GP学科 HAL EVENT WEEK</span>
             </div>
             <div class="breadcrumbs">
                 <ul>
-                    <li class="active-crumb">HAL大阪2025年度 AT・GP学科</li>
+                    <li class="active-crumb">HAL大阪<span class="current-year"></span>年度 AT・GP学科</li>
                 </ul>
             </div>
         </header>
@@ -41,14 +41,14 @@
         <section id="body">
             <div class="page-body">
                 <div class="body-title">
-                    <h1>HAL大阪2025年度 AT・GP学科 HAL EVENT WEEK</h1>
+                    <h1>HAL大阪<span class="current-year"></span>年度 AT・GP学科 HAL EVENT WEEK</h1>
                 </div>
                 <div class="body-container">
                     <div class="collapsible active">
                         <h3>ゲーム4年制　3年生</h3>
                         <div class="arrow">&#9664;</div>
                     </div>
-                    <div class="content" style="display: block;">
+                    <div class="content">
                         <div class="grid-container">
                             <div class="grid-item"><a href="./class/at13a.html" target="_self">AT13A出展者</a></div>
                             <div class="grid-item"><a href="./class/at13b.html" target="_self">AT13B出展者</a></div>
@@ -60,7 +60,7 @@
                         <h3>ゲーム2年制　1年生</h3>
                         <div class="arrow">&#9664;</div>
                     </div>
-                    <div class="content" style="display: block;">
+                    <div class="content">
                         <div class="grid-container">
                             <div class="grid-item"><a href="./class/gp11.html" target="_self">GP11出展者</a></div>
                         </div>
@@ -68,9 +68,10 @@
                 </div>
             </div>
         </section>
-        <footer><small>大阪校 HEW 2025</small></footer>
+        <footer><small>大阪校 HEW <span class="current-year"></span></small></footer>
     </div>
 </body>
+<script src="/AT13/scripts/get-year-on-load.js"></script>
 <script>
     var coll = document.getElementsByClassName("collapsible");
     var i;
