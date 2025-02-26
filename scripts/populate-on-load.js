@@ -2,11 +2,12 @@
 // ページがロードされた際に実行
 window.onload = function () {
     const path = window.location.pathname;
-    const pathName = path.substring(path.lastIndexOf('/') + 1);
+    let pathName = path.substring(path.lastIndexOf('/') + 1);
     // omit file extension
     // 拡張子を無視
-    const classname = pathName.substring(0, pathName.lastIndexOf('.'));
-    // console.log(classname);
+    pathName = pathName.substring(0, pathName.lastIndexOf('.'));
+    const classname = pathName.toUpperCase();
+    console.log(classname);
 
     // fetch StudentList XML file
     // StudentList XMLファイルを取得
