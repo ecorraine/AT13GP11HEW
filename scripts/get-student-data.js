@@ -37,6 +37,7 @@ window.onload = function () {
                 
                 let exhibitcode = student.getElementsByTagName('ExhibitCode')[0].textContent;
                 if (exhibitcode == currentFile) {
+                    console.log('Exhibit Code:', exhibitcode + ' found');
                     // Student Info 学生情報
                     let location = student.getElementsByTagName('Location')[0].textContent;
                     let classid = student.getElementsByTagName('ClassId')[0].textContent;
@@ -122,13 +123,7 @@ window.onload = function () {
 雨上がりの澄んだ空気の中で見る虹は、ひときわ美しく、希望に満ち溢れている。この美しい景色を、いつまでも覚えていたい。</pre>`;
 
                     for (let j = 1; j < 5; j++) {
-                        if (student.getElementsByTagName('Image'+j)[0].textContent != "") {
-                            document.getElementById('proj-img'+j).src = generateThumbnailURL(student.getElementsByTagName('Image'+j)[0].textContent);
-                            // console.log('Image' + j + ': ' + student.getElementsByTagName('Image'+j)[0].textContent);
-                        }
-                        else {
-                            document.getElementById('proj-img'+j).src = "/AT13/media/sampleimage.png";
-                        }
+                        document.getElementById('proj-img' + j).src = "/AT13/media/sampleimage.png";
                     }
                 }
             }
