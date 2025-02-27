@@ -116,16 +116,3 @@
   margin-bottom: 32px;
   font-size: 14px;
 }
-
-.feedback-btn {
-  display: block;
-  background-color: #0f359d;
-  color: #ffffff;
-  font-size: 14px;
-  text-align: center;
-  padding: 20px;
-}
-
-.feedback-btn:hover {
-  background-color: #09214f;
-}

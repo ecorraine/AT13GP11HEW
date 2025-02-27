@@ -31,19 +31,20 @@ window.onload = function () {
 
             // Extract data from the XML｜XMLファイルからデータを抽出
             const projectArray = xmlDoc.getElementsByTagName('ProjectDetails');
+            let found = false;
             // Iterate through each <ProjectDetails> element using a for loop｜forループを使用して、各<ProjectDetails>要素を繰り返し処理
-            for (let i = 0; i < projectArray.length; i++) {
+            for (let i = 0; i < projectArray.length && !found; i++) {
                 let student = projectArray[i];
                 
                 let exhibitcode = student.getElementsByTagName('ExhibitCode')[0].textContent;
                 if (exhibitcode == currentFile) {
-                    console.log('Exhibit Code:', exhibitcode + ' found');
+                    console.log('Exhibit Code:', exhibitcode + ' found.');
                     // Student Info 学生情報
-                    let location = student.getElementsByTagName('Location')[0].textContent;
                     let classid = student.getElementsByTagName('ClassId')[0].textContent;
                     let classno = student.getElementsByTagName('ClassNo')[0].textContent;
                     let surname = student.getElementsByTagName('Surname')[0].textContent;
                     let firstname = student.getElementsByTagName('FirstName')[0].textContent;
+                    let location = student.getElementsByTagName('Location')[0].textContent;
                     // let surnamepho = student.getElementsByTagName('SurnamePhonetic')[0].textContent;
                     // let firstnamepho = student.getElementsByTagName('FirstNamePhonetic')[0].textContent;
 
@@ -87,6 +88,8 @@ window.onload = function () {
                             document.getElementById('proj-img'+j).src = "/AT13GP11HEW/media/sampleimage.png";
                         }
                     }
+
+                    found = true;
                     /*
                     document.getElementById('proj-img1').src = "/AT13/HEWデータ提出先/" + shortClassId + "/" + exhibitcode +"/image1.png";
                     document.getElementById('proj-img2').src = "/AT13/HEWデータ提出先/" + shortClassId + "/" + exhibitcode +"/image2.png";
@@ -100,27 +103,12 @@ window.onload = function () {
                     document.getElementById('exhibit-code').innerHTML = "XX9999";
                     document.getElementById('exhibit-location').innerHTML = "未定";
                     document.getElementById('student-name').innerHTML = "大阪" + ' ' + "春太郎";
-                    document.getElementById('proj-title').innerHTML = "春の息吹、萌黄色（もえぎいろ）の輝き";
-                    document.getElementById('proj-description').innerHTML = `<pre style="white-space: pre-wrap;">
-空は、さっきまでの雨が嘘のように晴れ渡り、陽光が再び地上に降り注ぐ。
-濡れたアスファルトがキラキラと輝き、空気は澄み切っている。
-水滴を纏った草木は、まるで宝石のように美しい。ふと見上げれば、空には鮮やかな虹が！
-赤、橙、黄、緑、青、藍、紫。七色のアーチが、まるで空に架かる橋のようだ。
-雨上がりの澄んだ空気の中で見る虹は、ひときわ美しく、希望に満ち溢れている。この美しい景色を、いつまでも覚えていたい。</pre>`;
+                    document.getElementById('proj-title').innerHTML = "未定";
+                    document.getElementById('proj-description').innerHTML = `<pre style="white-space: pre-wrap;">未定</pre>`;
                     document.getElementById('proj-video-url').href = '';
                     document.getElementById('storage-url').href = '';
-                    document.getElementById('appeal-point').innerHTML = `<pre style="white-space: pre-wrap;">
-空は、さっきまでの雨が嘘のように晴れ渡り、陽光が再び地上に降り注ぐ。
-濡れたアスファルトがキラキラと輝き、空気は澄み切っている。
-水滴を纏った草木は、まるで宝石のように美しい。ふと見上げれば、空には鮮やかな虹が！
-赤、橙、黄、緑、青、藍、紫。七色のアーチが、まるで空に架かる橋のようだ。
-雨上がりの澄んだ空気の中で見る虹は、ひときわ美しく、希望に満ち溢れている。この美しい景色を、いつまでも覚えていたい。</pre>`;
-                    document.getElementById('student-profile').innerHTML = `<pre style="white-space: pre-wrap;">
-空は、さっきまでの雨が嘘のように晴れ渡り、陽光が再び地上に降り注ぐ。
-濡れたアスファルトがキラキラと輝き、空気は澄み切っている。
-水滴を纏った草木は、まるで宝石のように美しい。ふと見上げれば、空には鮮やかな虹が！
-赤、橙、黄、緑、青、藍、紫。七色のアーチが、まるで空に架かる橋のようだ。
-雨上がりの澄んだ空気の中で見る虹は、ひときわ美しく、希望に満ち溢れている。この美しい景色を、いつまでも覚えていたい。</pre>`;
+                    document.getElementById('appeal-point').innerHTML = `<pre style="white-space: pre-wrap;">未定</pre>`;
+                    document.getElementById('student-profile').innerHTML = `<pre style="white-space: pre-wrap;">未定</pre>`;
 
                     for (let j = 1; j < 5; j++) {
                         document.getElementById('proj-img' + j).src = "/AT13GP11HEW/media/sampleimage.png";
@@ -142,10 +130,9 @@ function generateThumbnailURL(url) {
         const newURL = `https://drive.google.com/thumbnail?id=${fileId}&sz=w650`;
         return newURL;
     }
-    /*
     else {
         // If no match was found, return an error message
-        return 'Invalid URL';
+        console.log('Invalid Thumbnail URL: ' + url);
+        return '#';
     }
-    */
 }

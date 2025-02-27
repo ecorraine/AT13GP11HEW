@@ -82,6 +82,7 @@ function PopFromXML(xmlList, xmlDetails) {
                 let projtitle = details.getElementsByTagName('Title')[0].textContent;
                 let thumburl = details.getElementsByTagName('Thumbnail')[0].textContent;
                 let projdesc = details.getElementsByTagName('Description')[0].textContent;
+                console.log('Student', exhibitcode, 'match found.');
                 
                 // Create HTML for each item｜各アイテムのHTMLを作成
                 output += `
@@ -107,6 +108,7 @@ function PopFromXML(xmlList, xmlDetails) {
                 `;
             }
             else {
+                console.log('Student', exhibitcode, 'match not found.');
                 output += `
                     <div class="carousel-item">
                         <div class="item-label">
@@ -139,7 +141,7 @@ function PopFromXML(xmlList, xmlDetails) {
             }
         }
         else {
-            console.log('Student', exhibitcode, 'is not active');
+            console.log('Student', exhibitcode, 'is not active.');
         }
     }
     // Display the result on the carousel｜結果をカルーセルに表示
@@ -159,6 +161,6 @@ function generateThumbnailURL(url) {
         return newURL;
     } else {
         // If no match was found, return an error message
-        return 'Invalid URL';
+        return '#';
     }
 }
