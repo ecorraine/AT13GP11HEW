@@ -200,3 +200,9 @@ a:visited {
 .feedback-btn:hover {
     background-color: #09214f;
 }
+
+@media screen and (max-width: 640px) {
+  .feedback-btn-wrapper {
+    width: 30%;
+  }
+}

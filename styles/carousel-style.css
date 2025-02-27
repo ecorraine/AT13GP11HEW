@@ -54,8 +54,8 @@
 }
 
 .item-thumbnail {
-    width: 500px;
-    height: 313px;
+    max-width: 500px;
+    max-height: 313px;
     border-right: 1px solid #b7dcf1;
     border-bottom: 1px solid #b7dcf1;
     background-position: center;
@@ -150,4 +150,62 @@ a:visited {
 
 #btn-next {
     right: 0;
+}
+
+@media screen and (max-width: 1600px) {
+    .carousel-item {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    #carousel {
+        margin: 16px;
+    }
+    
+    .carousel-item {
+        width: 50%;
+    }
+
+    .item-thumbnail {
+        width: 360px;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    #carousel {
+        margin: 8px 24px;
+    }
+
+    .carousel-item {
+        width: 100%;
+    }
+
+    .item-thumbnail {
+        width: 360px;
+    }
+
+    .carousel-nav {
+        padding: 14px;
+        font-size: 24px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    #carousel {
+        margin: 8px 24px;
+    }
+
+    .carousel-item {
+        width: 100%;
+    }
+
+    .item-thumbnail {
+        width: 315px;
+    }
+
+    .carousel-nav {
+        padding: 12px;
+        font-size: 20px;
+    }
 }
