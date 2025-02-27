@@ -123,13 +123,13 @@ function RetrieveFromXML(xmlList, xmlDetails) {
                             <div id="label-right">${surname} ${firstname}(${surnamepho} ${firstnamepho})</div>
                         </div>
                         <div class="item-thumbnail">
-                            <a href="/AT13GP11HEW/class/${shortClassId}/${exhibitcode}.html" target="_self">
+                            <a href="/AT13GP11HEW/class/${shortClassId}/${classno}.html" target="_self">
                                 <img class="StudentThumb" src="/AT13GP11HEW/media/samplethumbnail.png" />
                                 <span class="StudentThumbLabel">${exhibitcode} - ${surname} ${firstname}</span>
                             </a>
                         </div>
                         <div class="item-title">
-                            <a href="/AT13GP11HEW/class/${shortClassId}/${exhibitcode}.html" target="_self">
+                            <a href="/AT13GP11HEW/class/${shortClassId}/${classno}.html" target="_self">
                                 春の息吹、萌黄色（もえぎいろ）の輝き
                             </a>
                         </div>
