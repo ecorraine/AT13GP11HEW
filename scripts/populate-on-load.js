@@ -1,5 +1,6 @@
 // Fetch the XML file when the page is loaded｜ページがロードされた際に実行
 window.onload = function () {
+    const currentYear = new Date().getFullYear();
     const path = window.location.pathname;
     let pathName = path.substring(path.lastIndexOf('/') + 1);
     // omit file extension｜拡張子を無視
@@ -7,8 +8,9 @@ window.onload = function () {
     const classname = pathName.toUpperCase();
     console.log(classname);
 
+    // Create the promises for fetching and parsing XML files in parallel｜XMLファイルを取得して解析するためのプロミスを並列で作成
     // fetch StudentList XML file｜StudentList XMLファイルを取得
-    fetch('/AT13GP11HEW/class/2025/' + classname + '-list.xml')
+    const studentListXMLPromise = fetch('/AT13GP11HEW/class/' + currentYear + '/' + classname + '-list.xml')
         .then(response => {
             if (!response.ok) {
                 throw new Error('Failed to load StudentList XML file');
@@ -17,39 +19,44 @@ window.onload = function () {
         })
         .then(xmlContent1 => {
             const parser = new DOMParser();
-
             const xmlStudentList = parser.parseFromString(xmlContent1, 'application/xml');
             const parseError1 = xmlStudentList.querySelector('parsererror');
             if (parseError1) {
                 throw new Error('Error parsing XML');
             }
+            return xmlStudentList;
+        });
 
-            // fetch ProjectDetails XML file｜ProjectDetails XMLファイルを取得
-            return fetch('/AT13GP11HEW/class/2025/' + classname + '-details.xml')
-                .then(response => {
-                    if (!response.ok) {
-                        throw new Error('Failed to load ProjectDetails XML file');
-                    }
-                    return response.text();
-                })
-                .then(xmlContent2 => {
-                    const xmlProjectDetails = parser.parseFromString(xmlContent2, 'application/xml');
-                    const parseError2 = xmlProjectDetails.querySelector('parsererror');
-                    if (parseError2) {
-                        throw new Error('Error parsing second XML');
-                    }
+    const projectDetailsXMLPromise = fetch('/AT13GP11HEW/class/' + currentYear + '/' + classname + '-details.xml')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Failed to load ProjectDetails XML file');
+            }
+            return response.text();
+        })
+        .then(xmlContent2 => {
+            const parser = new DOMParser();
+            const xmlProjectDetails = parser.parseFromString(xmlContent2, 'application/xml');
+            const parseError2 = xmlProjectDetails.querySelector('parsererror');
+            if (parseError2) {
+                throw new Error('Error parsing second XML');
+            }
+            return xmlProjectDetails;
+        });
 
-                    // extract data from XMLs｜XMLファイルからデータを抽出
-                    PopFromXML(xmlStudentList, xmlProjectDetails);
-                });
+    // Use Promise.all to run both fetch operations in parallel
+    Promise.all([studentListXMLPromise, projectDetailsXMLPromise])
+        .then(([xmlStudentList, xmlProjectDetails]) => {
+            // extract data from XMLs｜XMLファイルからデータを抽出
+            RetrieveFromXML(xmlStudentList, xmlProjectDetails);
         })
         .catch(error => {
-            document.getElementById('carousel').textContent = 'Error: ' + error.message;
+            alert('Error: ' + error.message);
         });
 };
 
 // Extract data from the XML｜XMLファイルからデータを抽出
-function PopFromXML(xmlList, xmlDetails) {
+function RetrieveFromXML(xmlList, xmlDetails) {
     const studentArray = xmlList.getElementsByTagName('StudentInfo');
     console.log('Number of students found in XML:', studentArray.length);
 
@@ -59,9 +66,9 @@ function PopFromXML(xmlList, xmlDetails) {
     // Iterate through each <StudentInfo> element using a for loop｜forループを使用して、各<StudentInfo>要素を繰り返し処理
     for (let i = 0; i < studentArray.length; i++) {
         let student = studentArray[i];
-        
+
         let exhibitcode = student.getElementsByTagName('ExhibitCode')[0].textContent;
-        
+
         let classid = student.getElementsByTagName('ClassId')[0].textContent;
         let classno = student.getElementsByTagName('ClassNo')[0].textContent;
         let surname = student.getElementsByTagName('Surname')[0].textContent;
@@ -69,21 +76,21 @@ function PopFromXML(xmlList, xmlDetails) {
         let surnamepho = student.getElementsByTagName('SurnamePhonetic')[0].textContent;
         let firstnamepho = student.getElementsByTagName('FirstNamePhonetic')[0].textContent;
         let status = student.getElementsByTagName('Status')[0].textContent;
-        
+
         let shortClassId = classid.substring(0, 5);
         // console.log('Student', exhibitcode, 'is in class', classid, shortClassId);
-        
+
         // Check if status os active and the ExhibitCode matches in both XMLs｜ステータスが1で（'退学'若しくは、'休学'されていない学生であれば）、ExhibitCodeが一致するか確認
         if (status == '1') {
             var details = detailsArray[i];
 
-            if(details && exhibitcode == details.getElementsByTagName('ExhibitCode')[0].textContent) {
+            if (details && exhibitcode == details.getElementsByTagName('ExhibitCode')[0].textContent) {
                 let location = details.getElementsByTagName('Location')[0].textContent;
                 let projtitle = details.getElementsByTagName('Title')[0].textContent;
                 let thumburl = details.getElementsByTagName('Thumbnail')[0].textContent;
                 let projdesc = details.getElementsByTagName('Description')[0].textContent;
                 console.log('Student', exhibitcode, 'match found.');
-                
+
                 // Create HTML for each item｜各アイテムのHTMLを作成
                 output += `
                     <div class="carousel-item">
@@ -92,14 +99,14 @@ function PopFromXML(xmlList, xmlDetails) {
                             <div id="label-right">${surname} ${firstname}(${surnamepho} ${firstnamepho})</div>
                         </div>
                         <div class="item-thumbnail">
-                            <a href="/AT13GP11HEW/class/${shortClassId}/${exhibitcode}.html" target="_self">
+                            <a href="/AT13GP11HEW/class/${shortClassId}/${classno}.html" target="_self">
                                 <img class="StudentThumb" src="${generateThumbnailURL(thumburl)}" />
                                 <!-- <img class="StudentThumb" src="/AT13GP11HEW/HEWデータ提出先/${shortClassId}/${exhibitcode}/image0.png" /> -->
                                 <span class="StudentThumbLabel">${exhibitcode} - ${surname} ${firstname}</span>
                             </a>
                         </div>
                         <div class="item-title">
-                            <a href="/AT13GP11HEW/class/${shortClassId}/${exhibitcode}.html" target="_self">${projtitle}</a>
+                            <a href="/AT13GP11HEW/class/${shortClassId}/${classno}.html" target="_self">${projtitle}</a>
                         </div>
                         <div class="item-description"><pre style="white-space: pre-wrap;">${projdesc}</pre></div>
                         <div class="item-foot">${location}</div>

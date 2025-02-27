@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Class>
+	<ExhibitSchedule>3月7日(金) 10:00～14:00</ExhibitSchedule>
 	<StudentInfo>
-		<ExhibitCode>AT3001</ExhibitCode>
+		<ExhibitCode>AT3101</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>1</ClassNo>
 		<Surname>荒井</Surname>
@@ -11,7 +12,7 @@
 		<Status>1</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3002</ExhibitCode>
+		<ExhibitCode>AT3102</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>2</ClassNo>
 		<Surname>板谷</Surname>
@@ -21,7 +22,7 @@
 		<Status>1</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3003</ExhibitCode>
+		<ExhibitCode>AT3103</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>3</ClassNo>
 		<Surname>奥江</Surname>
@@ -31,7 +32,7 @@
 		<Status>1</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3004</ExhibitCode>
+		<ExhibitCode>AT3104</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>4</ClassNo>
 		<Surname>郭</Surname>
@@ -41,7 +42,7 @@
 		<Status>1</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3005</ExhibitCode>
+		<ExhibitCode>AT3105</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>5</ClassNo>
 		<Surname>角谷</Surname>
@@ -51,7 +52,7 @@
 		<Status>0</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3006</ExhibitCode>
+		<ExhibitCode>AT3106</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>6</ClassNo>
 		<Surname>河田</Surname>
@@ -61,7 +62,7 @@
 		<Status>1</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3007</ExhibitCode>
+		<ExhibitCode>AT3107</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>7</ClassNo>
 		<Surname>岸本</Surname>
@@ -71,7 +72,7 @@
 		<Status>1</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3008</ExhibitCode>
+		<ExhibitCode>AT3108</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>8</ClassNo>
 		<Surname>小谷</Surname>
@@ -81,7 +82,7 @@
 		<Status>1</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3009</ExhibitCode>
+		<ExhibitCode>AT3109</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>9</ClassNo>
 		<Surname>小西</Surname>
@@ -91,7 +92,7 @@
 		<Status>1</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3010</ExhibitCode>
+		<ExhibitCode>AT3110</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>10</ClassNo>
 		<Surname>阪尾</Surname>
@@ -101,7 +102,7 @@
 		<Status>1</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3011</ExhibitCode>
+		<ExhibitCode>AT3111</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>11</ClassNo>
 		<Surname>澤田</Surname>
@@ -111,7 +112,7 @@
 		<Status>1</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3012</ExhibitCode>
+		<ExhibitCode>AT3112</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>12</ClassNo>
 		<Surname>菅村</Surname>
@@ -121,7 +122,7 @@
 		<Status>1</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3013</ExhibitCode>
+		<ExhibitCode>AT3113</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>13</ClassNo>
 		<Surname>田尻</Surname>
@@ -131,7 +132,7 @@
 		<Status>1</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3014</ExhibitCode>
+		<ExhibitCode>AT3114</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>14</ClassNo>
 		<Surname>立脇</Surname>
@@ -141,7 +142,7 @@
 		<Status>1</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3015</ExhibitCode>
+		<ExhibitCode>AT3115</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>15</ClassNo>
 		<Surname>田中</Surname>
@@ -151,7 +152,7 @@
 		<Status>1</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3016</ExhibitCode>
+		<ExhibitCode>AT3116</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>16</ClassNo>
 		<Surname>田中</Surname>
@@ -161,7 +162,7 @@
 		<Status>0</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3017</ExhibitCode>
+		<ExhibitCode>AT3117</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>17</ClassNo>
 		<Surname>辻</Surname>
@@ -171,7 +172,7 @@
 		<Status>1</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3018</ExhibitCode>
+		<ExhibitCode>AT3118</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>18</ClassNo>
 		<Surname>中濱</Surname>
@@ -181,7 +182,7 @@
 		<Status>1</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3019</ExhibitCode>
+		<ExhibitCode>AT3119</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>19</ClassNo>
 		<Surname>野村</Surname>
@@ -191,7 +192,7 @@
 		<Status>1</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3020</ExhibitCode>
+		<ExhibitCode>AT3120</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>20</ClassNo>
 		<Surname>廣垣</Surname>
@@ -201,7 +202,7 @@
 		<Status>1</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3021</ExhibitCode>
+		<ExhibitCode>AT3121</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>21</ClassNo>
 		<Surname>藤原</Surname>
@@ -211,7 +212,7 @@
 		<Status>1</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3022</ExhibitCode>
+		<ExhibitCode>AT3122</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>22</ClassNo>
 		<Surname>本郷</Surname>
@@ -221,7 +222,7 @@
 		<Status>1</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3023</ExhibitCode>
+		<ExhibitCode>AT3123</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>23</ClassNo>
 		<Surname>松浦</Surname>
@@ -231,7 +232,7 @@
 		<Status>1</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3024</ExhibitCode>
+		<ExhibitCode>AT3124</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>24</ClassNo>
 		<Surname>松本</Surname>
@@ -241,7 +242,7 @@
 		<Status>1</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3025</ExhibitCode>
+		<ExhibitCode>AT3125</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>25</ClassNo>
 		<Surname>道久</Surname>
@@ -251,7 +252,7 @@
 		<Status>1</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3026</ExhibitCode>
+		<ExhibitCode>AT3126</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>26</ClassNo>
 		<Surname>宮林</Surname>
@@ -261,7 +262,7 @@
 		<Status>1</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3027</ExhibitCode>
+		<ExhibitCode>AT3127</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>27</ClassNo>
 		<Surname>森脇</Surname>
@@ -271,7 +272,7 @@
 		<Status>1</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3028</ExhibitCode>
+		<ExhibitCode>AT3128</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>28</ClassNo>
 		<Surname>山内</Surname>
@@ -281,7 +282,7 @@
 		<Status>1</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3029</ExhibitCode>
+		<ExhibitCode>AT3129</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>29</ClassNo>
 		<Surname>楊</Surname>
@@ -291,7 +292,7 @@
 		<Status>1</Status>
 	</StudentInfo>
 	<StudentInfo>
-		<ExhibitCode>AT3030</ExhibitCode>
+		<ExhibitCode>AT3130</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>30</ClassNo>
 		<Surname>劉</Surname>
