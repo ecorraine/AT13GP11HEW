@@ -121,7 +121,7 @@ function RetrieveFromXML(xmlList, xmlDetails) {
             for (let j = 1; j < 5; j++) {
                 if (studentdata.getElementsByTagName('Image' + j)[0].textContent != "") {
                     document.getElementById('proj-img' + j).src = generateThumbnailURL(studentdata.getElementsByTagName('Image' + j)[0].textContent);
-                    // console.log('Image' + j + ': ' + student.getElementsByTagName('Image'+j)[0].textContent);
+                    // console.log('Image' + j + ': ' + studentdata.getElementsByTagName('Image'+j)[0].textContent);
                 }
                 else {
                     document.getElementById('proj-img' + j).src = "/AT13GP11HEW/media/sampleimage.png";
@@ -130,6 +130,7 @@ function RetrieveFromXML(xmlList, xmlDetails) {
 
             found = true;
         }
+        /*
         else {
             // Replace the result on the page｜ページに結果を表示
             document.getElementById('student-crumb').innerHTML = "XX9999";
@@ -147,6 +148,7 @@ function RetrieveFromXML(xmlList, xmlDetails) {
                 document.getElementById('proj-img' + j).src = "/AT13GP11HEW/media/sampleimage.png";
             }
         }
+        */
     }
 };
 
