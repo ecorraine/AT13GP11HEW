@@ -143,7 +143,7 @@ a:visited {
     /* border: 1px solid #000000; */
 }
 
-.close-btn {
+.back-btn {
     position: fixed;
     z-index: 2;
     left: 12px;
@@ -152,25 +152,38 @@ a:visited {
     cursor: pointer;
 }
 
-.close-btn:hover {
+.back-btn:hover {
     transition: 0.2s;
 }
 
-.close-btn i {
+.back-btn i {
     position: relative;
     font-size: 32px;
     color: #9b9b9b;
 }
 
-.close-btn i:hover {
+.back-btn i:hover {
     transition: 0.2s;
     color: #00369d;
     text-shadow: -1px -1px 0 #ffffff, 1px -1px 0 #ffffff, -1px 1px 0 #ffffff, 1px 1px 0 #ffffff;
     /* 黒い枠線を作成 */
 }
 
-.close-btn i span {
+.back-btn i span {
     display: block;
     font-size: 16px;
     margin-top: 8px;
+}
+
+.feedback-btn-wrapper {
+    position: fixed;
+    z-index: 2;
+    right: 16px;
+    bottom: 48px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.feedback-spacer {
+    height: 24px;
 }

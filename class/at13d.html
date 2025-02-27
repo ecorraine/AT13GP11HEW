@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="preconnect" href="https://fonts.gstatic.com/">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css">
+    <link rel="stylesheet" href="/AT13/styles/font.css">
+
+    <!-- <title>HAL大阪 AT13 HAL EVENT WEEK｜AT13A出展者リスト</title> -->
+    <link rel="icon" type="image/x-icon" href="/AT13/media/icon.png">
+
+    <link rel="stylesheet" href="/AT13/styles/destyle.css">
+    <link rel="stylesheet" href="/AT13/styles/default-style.css">
+    <link rel="stylesheet" href="/AT13/styles/carousel-style.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.4/tiny-slider.css"
+        integrity="sha512-eMxdaSf5XW3ZW1wZCrWItO2jZ7A9FhuZfjVdztr7ZsKNOmt6TUMTQgfpNoVRyfPE5S9BC0A4suXzsGSrAOWcoQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.4/min/tiny-slider.js"
+        integrity="sha512-j+F4W//4Pu39at5I8HC8q2l1BNz4OF3ju39HyWeqKQagW6ww3ZF9gFcu8rzUbyTDY7gEo/vqqzGte0UPpo65QQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <style type="text/css">
+        [v-cloak] {
+            opacity: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="page">
+        <!-- ヘッダー部分 -->
+        <header>
+            <div class="header-logo">
+                <img src="/AT13/media/logo.png" alt="">
+                <span style="text-align: center;">大阪校　<span class="current-year"></span>年度 AT・GP学科 HAL EVENT WEEK</span>
+            </div>
+            <div class="breadcrumbs">
+                <ul>
+                    <li><a href="/AT13/index.html" target="_self">HAL大阪<span class="current-year"></span>年度 AT・GP学科</a></li>
+                    <li> > </li>
+                    <li class="active-crumb">Dクラス出展者</li>
+                </ul>
+            </div>
+        </header>
+        <!-- 内容部分 -->
+        <section id="body">
+            <div class="page-body">
+                <div class="body-title">
+                    <h1>Dクラス出展者</h1>
+                </div>
+                <div class="body-container">
+                    <section id="carousel-container">
+                        <div class="carousel-wrapper">
+                            <div id="carousel">
+                            </div>
+                        </div>
+                    </section>
+                    <button class="carousel-nav" id="btn-prev" onclick="moveSlide(-1)">&#10094;</button>
+                    <button class="carousel-nav" id="btn-next" onclick="moveSlide(1)">&#10095;</button>
+                </div>
+                <section id="grid-container">
+                </section>
+            </div>
+            <script src="/AT13/scripts/carousel.js"></script>
+        </section>
+        <footer><small>大阪校 HEW <span class="current-year"></span></small></footer>
+    </div>
+</body>
+<script src="/AT13/scripts/get-year-on-load.js"></script>
+<script src="/AT13/scripts/populate-on-load.js"></script>
+</html>

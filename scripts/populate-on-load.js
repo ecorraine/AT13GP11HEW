@@ -71,6 +71,7 @@ function PopFromXML(xmlList, xmlDetails) {
         let status = student.getElementsByTagName('Status')[0].textContent;
         
         let shortClassId = classid.substring(0, 5);
+        // console.log('Student', exhibitcode, 'is in class', classid, shortClassId);
         
         // Check if status os active and the ExhibitCode matches in both XMLs｜ステータスが1で（'退学'若しくは、'休学'されていない学生であれば）、ExhibitCodeが一致するか確認
         if (status == '1') {
@@ -91,7 +92,7 @@ function PopFromXML(xmlList, xmlDetails) {
                         </div>
                         <div class="item-thumbnail">
                             <a href="/AT13/class/${shortClassId}/${exhibitcode}.html" target="_self">
-                                <!-- <img class="StudentThumb" src="https://drive.google.com/thumbnail?id=1jj5Cxb40w6kN62GHhB_L_7r_5lu_QlRA&sz=w500" /> -->
+                                <!-- <img class="StudentThumb" src="${generateThumbnailURL(thumburl)}" /> -->
                                 <img class="StudentThumb" src="/AT13/HEWデータ提出先/${shortClassId}/${exhibitcode}/image0.png" />
                                 <span class="StudentThumbLabel">${exhibitcode} - ${surname} ${firstname}</span>
                             </a>
@@ -99,7 +100,7 @@ function PopFromXML(xmlList, xmlDetails) {
                         <div class="item-title">
                             <a href="/AT13/class/${shortClassId}/${exhibitcode}.html" target="_self">${projtitle}</a>
                         </div>
-                        <div class="item-description"><pre>${projdesc}</pre></div>
+                        <div class="item-description"><pre style="white-space: pre-wrap;">${projdesc}</pre></div>
                         <div class="item-foot">${location}</div>
                     </div>
                     <div class="carousel-spacer">　　</div>
@@ -114,7 +115,7 @@ function PopFromXML(xmlList, xmlDetails) {
                         </div>
                         <div class="item-thumbnail">
                             <a href="/AT13/class/${shortClassId}/${exhibitcode}.html" target="_self">
-                                <img class="StudentThumb" src="https://drive.google.com/thumbnail?id=1jj5Cxb40w6kN62GHhB_L_7r_5lu_QlRA&sz=w500" />
+                                <img class="StudentThumb" src="/AT13/media/samplethumbnail.png" />
                                 <span class="StudentThumbLabel">${exhibitcode} - ${surname} ${firstname}</span>
                             </a>
                         </div>
@@ -129,10 +130,9 @@ function PopFromXML(xmlList, xmlDetails) {
 濡れたアスファルトがキラキラと輝き、空気は澄み切っている。
 水滴を纏った草木は、まるで宝石のように美しい。ふと見上げれば、空には鮮やかな虹が！
 赤、橙、黄、緑、青、藍、紫。七色のアーチが、まるで空に架かる橋のようだ。
-雨上がりの澄んだ空気の中で見る虹は、ひときわ美しく、希望に満ち溢れている。この美しい景色を、いつまでも覚えていたい。
-                            </pre>
+雨上がりの澄んだ空気の中で見る虹は、ひときわ美しく、希望に満ち溢れている。この美しい景色を、いつまでも覚えていたい。</pre>
                         </div>
-                        <div class="item-foot">12F マシーンルーム</div>
+                        <div class="item-foot">未定</div>
                     </div>
                     <div class="carousel-spacer">　　</div>
                 `;
@@ -145,3 +145,20 @@ function PopFromXML(xmlList, xmlDetails) {
     // Display the result on the carousel｜結果をカルーセルに表示
     document.getElementById('carousel').innerHTML = output;
 };
+
+function generateThumbnailURL(url) {
+    // Use a regular expression to extract the file ID from the Link A
+    const regex = /\/d\/([a-zA-Z0-9-_]+)\//;
+    const match = url.match(regex);
+
+    // Check if a match was found
+    if (match && match[1]) {
+        const fileId = match[1];
+        // Construct the Link B using the extracted file ID
+        const newURL = `https://drive.google.com/thumbnail?id=${fileId}&sz=w500`;
+        return newURL;
+    } else {
+        // If no match was found, return an error message
+        return 'Invalid URL';
+    }
+}
