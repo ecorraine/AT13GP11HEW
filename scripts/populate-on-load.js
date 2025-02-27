@@ -8,7 +8,7 @@ window.onload = function () {
     console.log(classname);
 
     // fetch StudentList XML file｜StudentList XMLファイルを取得
-    fetch('/AT13/class/' + classname + '-list.xml')
+    fetch('/AT13GP11HEW/class/2025/' + classname + '-list.xml')
         .then(response => {
             if (!response.ok) {
                 throw new Error('Failed to load StudentList XML file');
@@ -25,7 +25,7 @@ window.onload = function () {
             }
 
             // fetch ProjectDetails XML file｜ProjectDetails XMLファイルを取得
-            return fetch('/AT13/class/' + classname + '-details.xml')
+            return fetch('/AT13GP11HEW/class/2025/' + classname + '-details.xml')
                 .then(response => {
                     if (!response.ok) {
                         throw new Error('Failed to load ProjectDetails XML file');
@@ -91,14 +91,14 @@ function PopFromXML(xmlList, xmlDetails) {
                             <div id="label-right">${surname} ${firstname}(${surnamepho} ${firstnamepho})</div>
                         </div>
                         <div class="item-thumbnail">
-                            <a href="/AT13/class/${shortClassId}/${exhibitcode}.html" target="_self">
-                                <!-- <img class="StudentThumb" src="${generateThumbnailURL(thumburl)}" /> -->
-                                <img class="StudentThumb" src="/AT13/HEWデータ提出先/${shortClassId}/${exhibitcode}/image0.png" />
+                            <a href="/AT13GP11HEW/class/${shortClassId}/${exhibitcode}.html" target="_self">
+                                <img class="StudentThumb" src="${generateThumbnailURL(thumburl)}" />
+                                <!-- <img class="StudentThumb" src="/AT13GP11HEW/HEWデータ提出先/${shortClassId}/${exhibitcode}/image0.png" /> -->
                                 <span class="StudentThumbLabel">${exhibitcode} - ${surname} ${firstname}</span>
                             </a>
                         </div>
                         <div class="item-title">
-                            <a href="/AT13/class/${shortClassId}/${exhibitcode}.html" target="_self">${projtitle}</a>
+                            <a href="/AT13GP11HEW/class/${shortClassId}/${exhibitcode}.html" target="_self">${projtitle}</a>
                         </div>
                         <div class="item-description"><pre style="white-space: pre-wrap;">${projdesc}</pre></div>
                         <div class="item-foot">${location}</div>
@@ -114,13 +114,13 @@ function PopFromXML(xmlList, xmlDetails) {
                             <div id="label-right">${surname} ${firstname}(${surnamepho} ${firstnamepho})</div>
                         </div>
                         <div class="item-thumbnail">
-                            <a href="/AT13/class/${shortClassId}/${exhibitcode}.html" target="_self">
-                                <img class="StudentThumb" src="/AT13/media/samplethumbnail.png" />
+                            <a href="/AT13GP11HEW/class/${shortClassId}/${exhibitcode}.html" target="_self">
+                                <img class="StudentThumb" src="/AT13GP11HEW/media/samplethumbnail.png" />
                                 <span class="StudentThumbLabel">${exhibitcode} - ${surname} ${firstname}</span>
                             </a>
                         </div>
                         <div class="item-title">
-                            <a href="/AT13/class/${shortClassId}/${exhibitcode}.html" target="_self">
+                            <a href="/AT13GP11HEW/class/${shortClassId}/${exhibitcode}.html" target="_self">
                                 春の息吹、萌黄色（もえぎいろ）の輝き
                             </a>
                         </div>

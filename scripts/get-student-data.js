@@ -10,7 +10,7 @@ window.onload = function () {
     const currentFile = file.substring(0, file.lastIndexOf('.'));
     console.log(currentFile);
 
-    fetch('/AT13/class/' + classSegment + '-details.xml')
+    fetch('/AT13GP11HEW/class/2025/' + classSegment + '-details.xml')
         .then(response => {
             if (!response.ok) {
                 throw new Error('Failed to load XML file');
@@ -26,7 +26,7 @@ window.onload = function () {
                 throw new Error('Error parsing XML');
             }
 
-            document.getElementById('class-crumb').href = "/AT13/class/" + classSegment + ".html";
+            document.getElementById('class-crumb').href = "/AT13GP11HEW/class/" + classSegment + ".html";
             document.getElementById('class-crumb').innerHTML = classSegment + "出展者一覧";
 
             // Extract data from the XML｜XMLファイルからデータを抽出
@@ -65,7 +65,7 @@ window.onload = function () {
                     */
 
                     // Replace the result on the page｜ページに結果を表示
-                    document.getElementById('class-crumb').href = "/AT13/class/" + shortClassId + ".html";
+                    document.getElementById('class-crumb').href = "/AT13GP11HEW/class/" + shortClassId + ".html";
                     document.getElementById('class-crumb').innerHTML = shortClassId + "出展者一覧";
                     document.getElementById('student-crumb').innerHTML = exhibitcode;
                     document.getElementById('exhibit-code').innerHTML = exhibitcode;
@@ -84,7 +84,7 @@ window.onload = function () {
                             // console.log('Image' + j + ': ' + student.getElementsByTagName('Image'+j)[0].textContent);
                         }
                         else {
-                            document.getElementById('proj-img'+j).src = "/AT13/media/sampleimage.png";
+                            document.getElementById('proj-img'+j).src = "/AT13GP11HEW/media/sampleimage.png";
                         }
                     }
                     /*
@@ -123,7 +123,7 @@ window.onload = function () {
 雨上がりの澄んだ空気の中で見る虹は、ひときわ美しく、希望に満ち溢れている。この美しい景色を、いつまでも覚えていたい。</pre>`;
 
                     for (let j = 1; j < 5; j++) {
-                        document.getElementById('proj-img' + j).src = "/AT13/media/sampleimage.png";
+                        document.getElementById('proj-img' + j).src = "/AT13GP11HEW/media/sampleimage.png";
                     }
                 }
             }
