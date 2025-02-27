@@ -2,7 +2,7 @@
 <Project>
 	<ProjectDetails>
 		<ExhibitCode>AT3400</ExhibitCode>
-		<ClassId>AT13D432</ClassId>
+		<ClassId>AT13C432</ClassId>
 		<ClassNo>00</ClassNo>
 		<Surname>辰巳</Surname>
 		<FirstName>恵生</FirstName>
@@ -21,7 +21,7 @@
 	<ProjectDetails>
 		<ExhibitCode>AT3301</ExhibitCode>
 		<ClassId>AT13C432</ClassId>
-		<ClassNo>01</ClassNo>
+		<ClassNo>1</ClassNo>
 		<Surname>テスト</Surname>
 		<FirstName>太郎</FirstName>
 		<Location>11F教務室</Location>
