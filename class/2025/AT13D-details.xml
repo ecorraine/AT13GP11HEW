@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Project>
 	<ProjectDetails>
+		<ExhibitCode>AT3400</ExhibitCode>
+		<ClassId>AT13D432</ClassId>
+		<ClassNo>0</ClassNo>
+		<Surname>辰巳</Surname>
+		<FirstName>恵生</FirstName>
+		<Location>11F教務室</Location>
+		<Title>HEW2025 AT13 提出フォーム</Title>
+		<Thumbnail>https://drive.google.com/file/d/1jj5Cxb40w6kN62GHhB_L_7r_5lu_QlRA/view?usp=drive_link</Thumbnail>
+		<Description>HEW用の提出フォーム</Description>
+		<Video>https://drive.google.com/file/d/199xXf98C_POnWwgWtmUYexND5WNGBJVy/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1kLEZikDQqIUFZgBU54MDJxrVyHzHbb0z?usp=drive_link</GDriveURL>
+		<AppealPoint>就プレ参加者は使いまわせる</AppealPoint>
+		<Profile>字数制限を無視できます</Profile>
+		<Image1>https://drive.google.com/file/d/10KHDiJbSd2DhegHJr53S7w61K4zirNrH/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/10KHDiJbSd2DhegHJr53S7w61K4zirNrH/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/10KHDiJbSd2DhegHJr53S7w61K4zirNrH/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/10KHDiJbSd2DhegHJr53S7w61K4zirNrH/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
 		<ExhibitCode>AT3326</ExhibitCode>
 		<ClassId>AT13C432</ClassId>
 		<ClassNo>26</ClassNo>
@@ -47,7 +66,7 @@
 私の強みは好奇心旺盛で何事にも
 積極的に取り組む「フットワークの軽さ」です。
 今興味がある「ゲームAI」の知識をつけるため、
-生成AI合宿やCEDEC、オープンカンファレンスに参加し、知識を広げてきました。</Profile>
+生成AI合宿やCEDEC、オープンカンファレンスに参加し、知識を広げてきました。。</Profile>
 		<Image1>https://drive.google.com/file/d/19f7A6lhOqVk9WGh6_nuw3kUdIDs1Qz9I/view?usp=drive_link</Image1>
 		<Image2>https://drive.google.com/file/d/14D3T4QK0-y75Kz78iyBANqzBdQylnds7/view?usp=drive_link</Image2>
 		<Image3>https://drive.google.com/file/d/18imacoNtj1AgnQbqO0WNg4u6z1rNm0sA/view?usp=drive_link</Image3>
@@ -250,5 +269,217 @@ JSON形式での編集とバイナリ形式での運用を切り替えられる�
 		<Image2>https://drive.google.com/file/d/1VL2nY8raI6B1o1UE17s7Rww6IwlWVVpJ/view?usp=drive_link</Image2>
 		<Image3>https://drive.google.com/file/d/1SKAbArJeWEZBfrV01SyZv0UndFwPG3PQ/view?usp=drive_link</Image3>
 		<Image4>https://drive.google.com/file/d/1DMlgHoE_hybVg_5GSNRnuUke-QlEQTtr/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3115</ExhibitCode>
+		<ClassId>AT13A430</ClassId>
+		<ClassNo>15</ClassNo>
+		<Surname>田中</Surname>
+		<FirstName>淳士</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>Retro Hant</Title>
+		<Thumbnail>https://drive.google.com/file/d/1SNZkbCW1YHQLm2Y8eKQ-rQP_AWVeKFfR/view?usp=drive_link</Thumbnail>
+		<Description>本作は、レトロ風のアクションゲームで、DirectXを用いて開発しています。シンプルながら奥深いゲーム性を持ち、スコアランキング機能を実装し、プレイヤーがハイスコアを競える仕組みを採用。直感的な操作性と戦略性を兼ね備え、繰り返し遊びたくなるゲーム体験を提供することを目指していまます。</Description>
+		<Video>https://drive.google.com/file/d/1MuO7m9xiuoeF6B_AUWs9ZTVWL-1jXO0q/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1FWV2oRlNezZ3lmswa7k8hQvzVjSHEMc5?usp=drive_link</GDriveURL>
+		<AppealPoint>本作は、レトロ風のアクションゲームです。
+シンプルな操作で誰でも楽しめる一方、スコアを伸ばすためには工夫が求められる奥深さが魅力です。
+
+【こだわりポイント】
+• スコアランキング機能 を搭載し、プレイヤー同士でハイスコアを競える！
+• 直感的な操作性×戦略性 で、繰り返し遊びたくなるバランス調整！
+
+シンプルだけど奥が深い、遊ぶたびに新しい発見がある。
+そんなゲーム体験を提供します！</AppealPoint>
+		<Profile>DirectXを使ってレトロスタイルのゲームを開発しています！スコアランキング機能を取り入れ、何度も挑戦したくなるゲーム作りを目指しています。シンプルだけど奥が深い、そんなゲーム体験を大切にしています。
+
+また、ゲームの操作性や手触り感にもこだわっており、直感的で気持ちよく遊べるように細かい調整を重ねています。サウンドやエフェクトの演出にも力を入れ、プレイヤーが没入できるようなゲーム作りを心がけています。</Profile>
+		<Image1>https://drive.google.com/file/d/1JNw0h_lwmPkbmbLEvPzNPqMn8HC8pNSp/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1u03KnaC-WhxEgNhoELsQ0DV-X5EoWZoY/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1JPMrkQ2mEDUJTuhtl4LGLQtSnHSUmY50/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1zMSWgyYYlkUQ0gLyB5BzJH_W7u1dXOm5/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3323</ExhibitCode>
+		<ClassId>AT13C432</ClassId>
+		<ClassNo>23</ClassNo>
+		<Surname>武藤</Surname>
+		<FirstName>兵吾</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>CarShooting</Title>
+		<Thumbnail>https://drive.google.com/file/d/1kWEKASGrTDNhIvztDgE7i5lFpFt8T0MI/view?usp=drive_link</Thumbnail>
+		<Description>全てのステージで出現する敵を全て弾で倒すとゲームクリアになる。今回実装したステージの数は全部で５つであり、その中で登場する敵の種類は、「敵・強敵」の２種類にわけられる。ただし、強敵は最初からではなく、ステージの進行状況に応じて少しずつ登場するようになる。</Description>
+		<Video>https://drive.google.com/file/d/1gx47uBuL_BLC2FzP8fZ7RdQghg9Dq7Bv/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/16TTHka2w5xgrO7fjROvHilnnFjrS_p-Z?usp=drive_link</GDriveURL>
+		<AppealPoint>ステージの進行状況によってプレイヤーがしないといけないことが増える。
+
+ステージ２であれば車（操作キャラクター）がある程度敵に近い距離まで来ないと弾がそもそも当たらないような仕様を実現させるために、岩を「ジャンプ台」としてステージ上に配置することで車がジャンプしながら移動できる等の工夫をした。
+
+ファイナルステージでは、他のステージでも使っていた岩を今度は「エレベーター」のような動きにすることで車を運ばせ、目的地に着くことで敵が前進できるようにした。これは、最初から敵全体が移動してしまうと車が敵に接近することなくステージの外に出てしまう事態を避けるため。</AppealPoint>
+		<Profile>こんにちは。HAL大阪に在籍しているゲーム４年制学科（３年生）の武藤兵吾と申します。
+
+私の強みは、授業中に不明な点があればその場で放置せずに自分で調べて解決できることです。私は小学生の頃にまだ未知だった単語はすぐに辞書などで調べる癖がありましたが、結果的にはその成果をテストで発揮でき、高得点に繋げることができました。
+
+そこから今でもこの経験は継続して活きており、特にゲーム制作でのコーディングで苦しくなってもインターネットの情報を見て理解を深めることができるように日々精進しています。</Profile>
+		<Image1>https://drive.google.com/file/d/1ve9q5MZNJGv7rlC988xVaL2MqwLGNCJT/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/161XN7rmlcBmjju3FX3vi8CpCNkLyhfI_/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/19fZXGsZfgL0iK0tYV_kvvRICiOgID0_e/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1dtGNCbirYzrWVCC5BiLw6PDIgbkRPXiY/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3112</ExhibitCode>
+		<ClassId>AT13A430</ClassId>
+		<ClassNo>12</ClassNo>
+		<Surname>菅村</Surname>
+		<FirstName>勇作</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>撞球場</Title>
+		<Thumbnail>https://drive.google.com/file/d/1Qb0MX3ZeK1mLm1oy33Ohc7hVN5BCTeKh/view?usp=drive_link</Thumbnail>
+		<Description>ステージに配置されたピン１０本を一度のショットでいくつ倒せるかを競うボウリングゲームです。ボールを投げたときの現実では味わえないような速度感を体験出来るよう、自分なりに工夫し実装しました。</Description>
+		<Video>https://drive.google.com/file/d/1-dpMmiTHPT_-b5xPmMDBdVgXkF6m51j5/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1QoMXi6A-OfBkoL_lNUvKta20KhKjqxGT?usp=drive_link</GDriveURL>
+		<AppealPoint>「プレイヤーを最大限楽しませるためのゲームの操作・見せ方」にこだわって制作しました。
+１つ目は、ボールの回転の仕方についてです。当初は物理エンジンを使用してボールの回転を行っていましたがボールを投げた際に回転しているように見えませんでした。私はこのゲームで「現実では味わえないような速度感」の演出を行いたかったので、自身で回転速度の計算式を組み立て、ボールの回転を誇張した表現に変更しました。さらにボールを投げた際に不要な情報を遮断し、集中線を表示を表示させることで「現実では味わえないような速度感」の演出を強めました。
+２つ目はプレイヤーが今何を出来るのか、何をしてほしいのかが簡潔に分かりやすく伝えられるようにUIの配置などを工夫しています。
+当初は、ボールの位置・速度を決める際に操作説明を表示するだけでしたが、これだけだとプレイヤーに操作説明が伝わらず、どうすれば簡潔に分かりやすく操作を伝えられるのかを考え、適切な場所でUIの表示・非表示を切り替える、UIに動きを与える等、細かく調整を加えています。
+他にもゲーム開発の部分で、オブジェクトのパラメータを変更できるツールを作成しました。理由としては、ゲームの難易度調整の際に定数が宣言されている箇所まで移動し変更するという課程が非常に面倒で、シーン内のパラメータを一括管理できるようにしたかった為です。</AppealPoint>
+		<Profile>初めまして。HAL大阪ゲーム制作学科３年の菅村勇作と申します。
+私の強みは、何事もコツコツと努力を続けられる継続力です。理由として、私は中学生のころ明確な目標や夢を持っていませんでした。
+何か打ち込めるものを模索する中、学校に通っていればいつか打ち込めるものが見つかると信じて、学校には毎日行こうと心に決めていました。
+日々体調を崩さないように体調管理や軽い筋力トレーニングなどを毎日続け、中学３年間すべてで皆勤賞を受賞することができました。
+高校に上がってからもこれらを継続し、ついには私の通っていた高校で唯一、３年間すべて皆勤賞を受賞することができました。そして２０２５年１月現在もこれらを継続しており、８年以上けがや病気を患っておらず、皆勤賞も受賞しております。</Profile>
+		<Image1>https://drive.google.com/file/d/1AI-OOV5XEQBzJKa0vfmz31wcQc2o0Kit/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1bZlKX2anEoZ3ivI2e9mk-2kjdzuoLfyC/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1YX-1t6cJnTOj-IzvKtv3Y0ACuz3Y-Ub2/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1FLdPfi604_MICD84Nbe__U7bq9JCPJW1/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3124</ExhibitCode>
+		<ClassId>AT13A430</ClassId>
+		<ClassNo>24</ClassNo>
+		<Surname>松本</Surname>
+		<FirstName>翔馬</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>マルチシューター</Title>
+		<Thumbnail>https://drive.google.com/file/d/1334tzPAGjjKle0McScX7pKfoTQI1bmKF/view?usp=sharing</Thumbnail>
+		<Description>プレイヤーvsプレイヤーを想定しているゲームで、タイム制でスコアを競い合うゲームになってます。P2P型のUDP通信を使用したマルチゲームです。プレイヤーの位置情報やアクションをリアルタイムで同期しています。</Description>
+		<Video>https://drive.google.com/file/d/1CTsGzUWwaSSm6USxQF9QdePKvG2pXxm3/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1UpPw_abmDbaKCCV0bxIzPUQKqvmw1cAy?usp=sharing</GDriveURL>
+		<AppealPoint>本ゲームは、P2P型UDP通信を採用し、プレイヤー同士の位置やアクションをリアルタイム同期することで、ラグの少ない快適な対戦を実現。タイム制スコアバトルにより、緊張感のある駆け引きを楽しめます。シンプルながら奥深い競技性が魅力です。</AppealPoint>
+		<Profile>ゲームプログラマーを目指している松本翔馬です。趣味は格闘ゲームとツーリング。チーム制細工の作品でHAL EVENT WEEK　企画賞を受賞。目標は、世代を超えて熱狂できるゲームを作ること。プレイヤーとの対話を大切にし、より多くの人に愛される作品を生み出すことを目指しています。</Profile>
+		<Image1>https://drive.google.com/file/d/1QnE5ZvFkyS76PddS_4WIO5JA4qapjHel/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1itknjGZxv54-EqGvjkTnMyW5yyEyLn49/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/10Xio3bDqwtgegArkn-74r1w9I3XyqXaF/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/15xQM4_Cl7mnwt9f-rBBUNZj4XZhT7fXK/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3204</ExhibitCode>
+		<ClassId>AT13B430</ClassId>
+		<ClassNo>4</ClassNo>
+		<Surname>鵜川</Surname>
+		<FirstName>瑛介</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>DirectX12フレームワーク</Title>
+		<Thumbnail>https://drive.google.com/file/d/1xGBGGNykN3OP5NdHlqxU7iiRtTbJNyiw/view?usp=sharing</Thumbnail>
+		<Description>独学で作成したDirectX12のフレームワークです、モデルの読み込みから描画、レンダーパイプラインをjsonで管理しやすく、簡易的なポストエフェクトなんかも実装しています。技術的な面でDirectX12に引かれて制作いたしました</Description>
+		<Video>https://drive.google.com/file/d/1i3_370U95PQDXcGzlAMC2OA8qTUEYxwH/view?usp=sharing</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/14FP1eXkcuoAgRNUsr_SGBoqdWLtvlWyv?usp=sharing</GDriveURL>
+		<AppealPoint>セールスポイントとして頑張ったところは、フレームワークを使った描画するまでの手軽さだと思っています、細かいところまでいじれるDirectX12に対してどこまで簡略化とわかりやすさを持たせるところが難しいポイントでした、まだまだ粗削りで出来ることも少ないですがもっと発展させていきたいと思います。</AppealPoint>
+		<Profile>3学年始まりにロマンでDirectX12を自己学習しはじめ早1年、現在はコーディングルールを学習してそれに則ったソースに変更していくことを頑張っています。4年目に向けて新たなフレームワークへの機能の試案とチーム制作の両方を両立しつつ、頑張っていこうと思います。</Profile>
+		<Image1>https://drive.google.com/file/d/10nNvdP_8YAlBBScmEOGNxZeLP4_e3adv/view?usp=sharing</Image1>
+		<Image2>https://drive.google.com/file/d/13QyiiYlIZYaiVsP6O_ZvhpXqk84fLEIS/view?usp=sharing</Image2>
+		<Image3>https://drive.google.com/file/d/1NUqCULwrYy4xrQIJVJ_kSAuvn8ElA5EU/view?usp=sharing</Image3>
+		<Image4>https://drive.google.com/file/d/1uZQS2BWA-ycDi_RXfnrrbxJxZWCuFwdh/view?usp=sharing</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>GP1014</ExhibitCode>
+		<ClassId>GP11A423</ClassId>
+		<ClassNo>14</ClassNo>
+		<Surname>周</Surname>
+		<FirstName>凱</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>アルパカのドレーム大作戦</Title>
+		<Thumbnail>https://drive.google.com/file/d/1KBdE2znz1yxFiZc2cU-UiG4ISx6TR8eL/view?usp=sharing</Thumbnail>
+		<Description>牧場のアルパカは本来、何も心配せずに過ごすはずだった。しかし最近、主人公のシロは毎晩悪夢に悩まされている。その夢の中で、無数の影のアルパカたちが牧場を侵略している。シロは夢の中でのみ立ち上がり、これらの歓迎されざる侵入者を追い払わなければならない。</Description>
+		<Video>https://drive.google.com/file/d/1ujyJ_t6bVhQK7t-JXqXxmzxhkdZnfiQB/view?usp=sharing</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1WwyuRrnaD08U2LNc3Nxp0MJqbQkfKZnd?usp=sharing</GDriveURL>
+		<AppealPoint>WASDキーでアルパカの方向を操作し、Lキーで加速します。
+主人公のシロは、速度に応じて影のアルパカを吹き飛ばす力が変わり、吹き飛ばす距離が長いほど得点が高くなります。フィールド内では敵が定期的に出現し、シロは様々なバフを取得して自分を強化することができます。規定の時間内にできるだけ多くの影のアルパカを追い払おう！
+</AppealPoint>
+		<Profile>数学や論理に得意で、アルゴリズムの研究が好きです。HALでの一年間でC++の基本的な使い方を固め、DirectXのレンダリングパイプラインや簡単なゲーム制作の流れを学びました。それに加えて、Unity、Unreal、Maya、3ds Maxなどのソフトウェアも基本的な操作ができ、より良いゲーム制作のために知識を常に広げています。</Profile>
+		<Image1>https://drive.google.com/file/d/1v2PI5Fm04ZLRuyIjmChvjQJ_NJK8l9X6/view?usp=sharing</Image1>
+		<Image2>https://drive.google.com/file/d/1KlXM5GhsjlMdhhyCOxA1NfPMrbsPBQ1G/view?usp=sharing</Image2>
+		<Image3>https://drive.google.com/file/d/1rrQYQa6ldiBR47NZlHALCBg8A1BZs_fg/view?usp=sharing</Image3>
+		<Image4>https://drive.google.com/file/d/15pjuXvd71b9H7xHO0aEttFChy7irFl3U/view?usp=sharing</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3121</ExhibitCode>
+		<ClassId>AT13A430</ClassId>
+		<ClassNo>21</ClassNo>
+		<Surname>藤原</Surname>
+		<FirstName>壮吾</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>Run and Jump</Title>
+		<Thumbnail>https://drive.google.com/file/d/1-IhyYrv2JZjUeYsTnE297nYuu1C1Owj8/view?usp=drive_link</Thumbnail>
+		<Description>移動とジャンプの2つを駆使してゴールを目指す3Dアクションゲームです。</Description>
+		<Video>https://drive.google.com/file/d/1SxviCm9ElJ4YYJu8lbF3QT64LKY0x_Yy/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/file/d/1ct74ydgqIHEcU-FjzPnIqy74Efdu4Ovo/view?usp=drive_link</GDriveURL>
+		<AppealPoint>「操作していて動かしやすくストレスを与えないプレイヤー」を軸にして制作していました。
+こだわった点は、操作面では、「プレイヤーの滑らかな移動、方向転換時の回転や移動に不自然さを出さない」などの自分らしい工夫を行いました。これによってストレスを感じづらい手触りの良いプレイヤーの実装を実現しました。</AppealPoint>
+		<Profile>私の長所は、継続力と挑戦する力です。
+小学生の頃、5,6年生は金管演奏をする文化がありました。1年で運動会と文化祭の2回発表する機会がありました。私は唯一のドラム担当で、テンポを取る重要な役割と念押しされてたので、休みも返上して練習しました。結果、たくさんの人に印象に残る演奏をすることが出来ました。この経験で、継続して物事をする力を得ました。
+挑戦する力は、専門学校で身に着けました。専門学校では、体験入学などのイベント事をサポートするボランティアに所属しました。最初はなかなか一歩踏み出すことが出来ませんでしたが、様々なイベントを手伝うにつれて次第に挑戦することが増え、挑戦する力を身に着けました。
+以上から、私の様々な長所が、HALへ入学し、プログラマーを目指す重要な基礎となったと考えています。</Profile>
+		<Image1>https://drive.google.com/file/d/1uKfLdP5ZaEMOBxVYn3YgjFC7LawPz5XE/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/13shgpSyE4xScF4tnL9ET3BMCBk3aygcK/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1L_193pJ-rM93XVadPpVftRLAG942NnNe/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1lI-o5uU82JeP0OQsKdO_3PVLq_M793C-/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3110</ExhibitCode>
+		<ClassId>AT13A430</ClassId>
+		<ClassNo>10</ClassNo>
+		<Surname>阪尾</Surname>
+		<FirstName>柚</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>Fruit Score Jump Game</Title>
+		<Thumbnail>https://drive.google.com/file/d/1rbdjhghmXl_DAqGNFslI6W2MR3uL5FZW/view?usp=drive_link</Thumbnail>
+		<Description>プレイヤーはキャラクターを操作し、ジャンプして画面内に散らばったフルーツを集め、スコアを稼ぐことが目的のゲームです。シンプルな操作で楽しめる設計となっており、スコアを競う要素もあります。</Description>
+		<Video>https://drive.google.com/file/d/1qhlqsB772v_GLSnAjb_oCvcoUt9LpV_F/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1lGYuVWh5BurWamlcjdrXmMgkEJMX8iAT?usp=drive_link</GDriveURL>
+		<AppealPoint>１．シンプルだけどハマる！
+
+操作はジャンプだけ！だけど、タイミングを見極めてフルーツを取るのが意外と奥深い。
+直感的に遊べるので、子どもから大人まで誰でも楽しめる！
+スコアアタックで繰り返し遊べる！
+
+２．高スコアを目指すための工夫が必要！ジャンプの精度やルート選びがカギになる。
+自分の記録を更新する楽しみがあり、何度もプレイしたくなる設計。
+レトロなドット絵とサウンドが魅力！
+
+３．Pyxelならではの8ビット風のグラフィックで、昔ながらのゲームのような懐かしさを演出。
+レトロなピコピコサウンドがゲームの世界観を盛り上げる！
+ランダム要素で毎回新鮮！
+
+４．フルーツの配置がランダムだから、毎回違うプレイ感を楽しめる。
+同じルートで繰り返し遊ぶだけではない、戦略性もプラス！
+短時間でサクッと遊べる！
+
+５．ちょっとした空き時間にも楽しめるカジュアルゲーム。
+1プレイ数分で終わるので、隙間時間に何度でもチャレンジできる。
+Python × Pyxelで手軽に遊べる＆学べる！
+
+６．Pythonで作られているので、プログラミングに興味がある人にもオススメ！
+Pyxelを使ったゲーム開発の参考としても活用できる。</AppealPoint>
+		<Profile>阪尾 柚（サカオ ユズ）
+
+高校生にJavaを勉強してからプログラミングを深く学ぼうと思い、HAL大阪に来ました。
+元はIT学科に入学予定でしたが、ゲーム学科の方が多くの言語を学べると聞き、ゲーム学科に入学しました。
+元々IT学科入学希望もあり、３年間HALで勉強し、就職はIT業界にしようと決めました。
+現在、IT業界を主に就職活動に励んでいます。</Profile>
+		<Image1>https://drive.google.com/file/d/1GIMmRSk-TYq3zPEFYvNLW4YlvXTIpXPm/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1CzDRjvA5KNVfthWuoGG_-8UsRLKlrQuF/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1iT6GLMRzmP5Xxo-WZZbXzCct2csOfFYh/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1fIuKMhi4c1qQ3PDqRYSN9ihxDG2PzfPB/view?usp=drive_link</Image4>
 	</ProjectDetails>
 </Project>
