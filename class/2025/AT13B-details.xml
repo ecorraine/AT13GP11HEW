@@ -1,22 +1,254 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Project>
 	<ProjectDetails>
-		<ExhibitCode>AT3001</ExhibitCode>
-		<ClassId>AT13A430</ClassId>
-		<ClassNo>1</ClassNo>
-		<Surname>大阪</Surname>
-		<FirstName>春太郎</FirstName>
+		<ExhibitCode>AT3326</ExhibitCode>
+		<ClassId>AT13C432</ClassId>
+		<ClassNo>26</ClassNo>
+		<Surname>山口</Surname>
+		<FirstName>雄大</FirstName>
 		<Location>12Fマシンルーム</Location>
-		<Title>タイトル！</Title>
-		<Thumbnail>https://drive.google.com/file/d/1jj5Cxb40w6kN62GHhB_L_7r_5lu_QlRA/view?usp=drive_link</Thumbnail>
-		<Description>紹介！</Description>
-		<Video>https://drive.google.com/file/d/199xXf98C_POnWwgWtmUYexND5WNGBJVy/view?usp=drive_link</Video>
-		<GDriveURL>https://drive.google.com/drive/folders/1kLEZikDQqIUFZgBU54MDJxrVyHzHbb0z?usp=drive_link</GDriveURL>
-		<AppealPoint>セーブポイント！</AppealPoint>
-		<Profile>プロフィール！</Profile>
-		<Image1>https://drive.google.com/file/d/10KHDiJbSd2DhegHJr53S7w61K4zirNrH/view?usp=drive_link</Image1>
-		<Image2>https://drive.google.com/file/d/10KHDiJbSd2DhegHJr53S7w61K4zirNrH/view?usp=drive_link</Image2>
-		<Image3>https://drive.google.com/file/d/10KHDiJbSd2DhegHJr53S7w61K4zirNrH/view?usp=drive_link</Image3>
-		<Image4>https://drive.google.com/file/d/10KHDiJbSd2DhegHJr53S7w61K4zirNrH/view?usp=drive_link</Image4>
+		<Title>Finccer</Title>
+		<Thumbnail>https://drive.google.com/file/d/1YO7pUNPaszjGkHhz19L-xlaU7EsxMmeB/view?usp=drive_link</Thumbnail>
+		<Description>「一切合切を右手に込めろ」というのをコンセプトに全ての操作を右手に集約したアクションゲーム。マウスの操作で画面上でなぞるようにプレイヤーを動かすことで進行していき、カメラ操作は自動で行われその他操作も全て右手で行います。</Description>
+		<Video>https://drive.google.com/file/d/1rpWdSfGNiL7S-d5weBoJC_B41c0NshSI/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1Yr6WpDBHIZD6XtkLqdfMnYjtxSY0GwK8?usp=drive_link</GDriveURL>
+		<AppealPoint>このゲームの特徴は、プレイアビリティを徹底的に追求した操作性にあります。
+初期段階ではキーボード操作を想定して開発を進めていましたが、実際に物体を動かしている感覚や、ボールを転がす楽しさを体験していただきたいという思いから、右手のみで操作できる設計をコンセプトに制作しました。その中でも特に工夫したのがカメラ操作です。右手だけでの操作ではカメラ操作が難しくなるため、プレイヤーの入力に基づいて向きを補正し、酔いを最小限に抑えつつ自然に追従するカメラ挙動を実現しています。</AppealPoint>
+		<Profile>初めまして、山口雄大（やまぐち ゆうだい）と申します。
+趣味は模型製作や料理で、前職の和菓子職人としての経験からお菓子作りも得意です。また、ゲームが大好きで、特にRPGジャンルを好んでいます。
+
+私の強みは、どのような状況にも挑戦心を持って取り組めることです。この姿勢があれば、困難な課題にも柔軟に対応し、乗り越えることができると信じています。過去のチーム制作では、10名のメンバーの中でプログラマーが3名と限られ、実力差や短い制作期間が課題となりました。そこで、5名のプランナーを制作に参加させる方法を考案し、外部ファイルからステージを構築できる仕組みを初めて挑戦、開発しました。この取り組みの結果、描写面の完成度が評価され、学内コンテストでビジュアル賞を受賞しました。
+
+今回の就職作品では、「右手のみでプレイできるゲーム」というコンセプトに挑戦しました。この作品を通じて、ゲームプレイにおける新しい体験を提供することを目指し、実際に物を転がす感覚を楽しめる操作性を追求しました。右手だけでの操作を可能にするため、入力に基づいてカメラが自然に追従する仕組みを設計し、快適なプレイ体験を実現しました。
+
+挑戦心を持って目の前の課題に全力で取り組む姿勢を大切にしながら、より一層成長できるよう努めてまいります。何卒よろしくお願いいたします。</Profile>
+		<Image1>https://drive.google.com/file/d/1LJY-OVdODbWEdcNM5aReGpAE6g8rdZKo/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1I0FxRdJeM83fucdcwjY7h9lqz4jL0mTI/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1f66bK2mFaVXV_R8mKbyWaoiUU36Duyel/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1dqyMSO_bPwKpYxtpvC46SgLC9AAFXx1I/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3107</ExhibitCode>
+		<ClassId>AT13A430</ClassId>
+		<ClassNo>7</ClassNo>
+		<Surname>岸本</Surname>
+		<FirstName>明翔</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>MouseDefense&amp;AIEngine</Title>
+		<Thumbnail>https://drive.google.com/file/d/1V0CVTc4aJFb0DEGLZpd569KBqpRqsnLS/view?usp=drive_link</Thumbnail>
+		<Description>「プレイヤーの個性を引き出すAI」をコンセプトに、AI技術にこだわった作品を作りました。遺伝的アルゴリズムを活用したステージの自動生成、A*アルゴリズムによる経路探索、そして視覚的に扱いやすいノード形式のAIエンジンを実装しました。</Description>
+		<Video>https://drive.google.com/file/d/1sN5m3teRCAkyC7yit4bBpYc5xAzpBgJe/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1F-lKsQj1GVyeiRyO705Qh1TuBkxHyRZ_?usp=drive_link</GDriveURL>
+		<AppealPoint>プレイヤーの個性を引き出すために、遺伝的アルゴリズムを用いたステージ自動生成を導入。評価関数を活用し、最適なステージ構造を生成します。経路探索には、処理負荷を軽減したA*アルゴリズムを採用し、NPCの移動だけでなく音の伝播にも活用。さらに、AIエンジンにはノード形式のビヘイビアツリーを採用し、視覚的に直感的な設計を実現。他の開発者にも使いやすいように、デバッグ機能やTips表示を実装し、開発の効率化を図りました。</AppealPoint>
+		<Profile>こんにちは！岸本明翔と申します。
+
+趣味はライブ鑑賞、映画鑑賞、テーマパークに行くことです。
+
+私の強みは好奇心旺盛で何事にも
+積極的に取り組む「フットワークの軽さ」です。
+今興味がある「ゲームAI」の知識をつけるため、
+生成AI合宿やCEDEC、オープンカンファレンスに参加し、知識を広げてきました。</Profile>
+		<Image1>https://drive.google.com/file/d/19f7A6lhOqVk9WGh6_nuw3kUdIDs1Qz9I/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/14D3T4QK0-y75Kz78iyBANqzBdQylnds7/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/18imacoNtj1AgnQbqO0WNg4u6z1rNm0sA/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1FDTHf6ysW5Dowfjp7Id6k1KtKjCt6XC_/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3104</ExhibitCode>
+		<ClassId>AT13A430</ClassId>
+		<ClassNo>4</ClassNo>
+		<Surname>郭</Surname>
+		<FirstName>寧</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>MyBlender</Title>
+		<Thumbnail>https://drive.google.com/file/d/1H_WO3FtfQ0CiHXrI0JnjOEQdVAjpj3rq/view?usp=drive_link</Thumbnail>
+		<Description>色の混合をテーマにしたシミュレーションゲームです。さまざまな色を混ぜ合わせ、魔法の薬を作成する過程を体験できます。リアルな水の変化とインタラクティブ性を追求しており、プレイヤーに没入感を与えることを目的としています。</Description>
+		<Video>https://drive.google.com/file/d/1uQnflUX8UoDlByL7V9ZoQIDAPoDy_xBb/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1l9eEQomWh8MrQtNRpTkbB7glK7KpxTIT?usp=drive_link</GDriveURL>
+		<AppealPoint>本ゲームのセールスポイントは以下の３つであるます。
+1.リアルなポーションの表現： 水と顔料を混ぜ合わせることによる色彩変化を再現するため、効率を重視しつつ水のシミュレーションに注力しました。波動方程式に基づく流体シミュレーションと最適化された頂点法線計算により、水面の動的表現を向上させ、没入感を高めています。また、直感的な色混合を実現する独自の計算方法を実装しています。
+2.ゲームインタラクション： 世界観を損なわない、シンプルかつ効果的なインタラクションを実現するため、オブジェクトによる情報伝達、ライティング、オブジェクトの挙動、カメラワークなどを組み合わせ、没入感を高めつつ、効果的なゲーム体験を提供します。
+3.効率的な開発ツール： ImGuiとJsonを活用し、ゲームオブジェクトやUI等のデータをリアルタイムに編集・ロード・保存可能なツールを開発。開発効率の大幅な向上に貢献しています。</AppealPoint>
+		<Profile>こんにちは、郭寧（かくねい）と申します。中国から来た留学生です。私の夢は、言語や文化の壁を越えて、多くの人々に楽しんでもらえるゲームを制作することです。
+私は、ゲームは単なる娯楽ではなく、プレイヤーの心を動かす体験を提供するものだと考えています。そのため、ゲーム開発においては、細部にこだわり、プレイヤーが没入できるような世界観を創出することに力を入れています。
+</Profile>
+		<Image1>https://drive.google.com/file/d/1p0oF_XTzInxqdCAe84e91EhcJnsNdYAU/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/17vD6q5j4fR2QmOaXY_Zmhf56MStUTIc_/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/11ynoFAPIvZ1DYG8nUMJ0VEXzfg0jSVR2/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1nrVnNB30BvrM5yGdJz6XI0SR2CbFc72I/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3114</ExhibitCode>
+		<ClassId>AT13A430</ClassId>
+		<ClassNo>14</ClassNo>
+		<Surname>立脇</Surname>
+		<FirstName>龍海</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>2D3D</Title>
+		<Thumbnail>https://drive.google.com/file/d/1Tk-GrCf5mQG9dkHAhozB0kQbJUKJ_6Tn/view?usp=drive_link</Thumbnail>
+		<Description>ステージを2Dと3Dで切り替えつつゴールを目指すゲームです。プレイヤーはジャンプと前後に移動させることができます。ステージは2Dの時はX軸の奥行きがなくなり全てのオブジェクトが平面上に存在するような振る舞いになります。その振る舞いを活かしつつステージを進んで行き虹色の星ブロックに触れるとクリアになります。</Description>
+		<Video>https://drive.google.com/file/d/1DdqXPZ4jyKc34SwfmyId6N4Dw9OTLSQG/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1qEmyf-GcQ-shWTNcy84v1Ks0raEsOalY?usp=drive_link</GDriveURL>
+		<AppealPoint>2Dと3Dの要素を活かすことを考えました。3Dの時はフリーカメラやアルファディザを行いキャラクターがオブジェクトに隠れてしまい見えないようにならないようにしたりとプレイヤーのストレスにつながる要素をできる限り減らすことを目指しました。他にもテストプレイしてもらった人から2Dと3Dの切り替え時にオブジェクトの位置関係がわかりにくいというフィードバックをもらったのでわかりやすくなるようにカメラを動かしながら遷移することにしました。ポーズ中に画面にぼかしをかけUIを目立たせたり、2Dと3Dの切り替え中に右から左に前の状態の画面を透明化していく処理を行うことでスムーズな遷移を実装しました。ステージ設計を手打ちしてしまうとステージ一つ追加するのにも1日や2日かかってしまうところをUnity上で設計した後にオブジェクトデータを全てCSVに書き出し、ゲーム中に読み込むことでステージ設計を1時間くらいで終わらせられるようになりました。</AppealPoint>
+		<Profile>私の強みは年間ゲームプレイ本数を45本ほどやっており、ゲーム体験多くしています。その中でユーザーのゲーム体験につながる工夫や技術を見つけたら、それを自分なりにどう実装するかを考え自分のゲームに取り入れてきました。例えばステージ上の移動可能スペースの外にプレイヤーが移動しようとしているときにカメラが追従したままだとどこまでも移動できるとプレイヤーに勘違いさせてしまうことがあります。それを防ぐためにカメラの移動範囲に制限を付けることでいざプレイヤーが行動したときに行けなかった時に残念と思わせるのではなくまずカメラに制限があるのでまず行けると思わせないようにします。</Profile>
+		<Image1>https://drive.google.com/file/d/1d0Z29eFUhZmnD-XbNaAlfk_SRvw-JSY_/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1-TUwXcjf2IEKTL0R98d_6iD8cshrLw7k/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1El-nTFZJrUUmy3dshuAIKgL4DomAfSX4/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1lhCWW4b68pUglwt_sdJrWOYhNageByCI/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3316</ExhibitCode>
+		<ClassId>AT13C432</ClassId>
+		<ClassNo>16</ClassNo>
+		<Surname>平岡</Surname>
+		<FirstName>大輝</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>Resonance Engine</Title>
+		<Thumbnail>https://drive.google.com/file/d/1FJktGFVQiGiaGjPU8h83uFUGDAX-R3pD/view?usp=drive_link</Thumbnail>
+		<Description>リソース管理に重点を置いたゲームエンジンを作成しました。リソースの内容からハッシュ値を生成し、同じリソースが2度生成されないようにリソース管理クラスを作成したり、リソースファイルを独自ファイルに変換し、リソースの読み込み速度の上昇とファイル容量を削減をしたりしています。</Description>
+		<Video>https://drive.google.com/file/d/1Wufud8MLTLvJ9WQ7UEiTzvfxULSFHEBV/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/164s0LzbczxNntov9RZFvqyaVDLFTl09c?usp=drive_link</GDriveURL>
+		<AppealPoint>こだわった点はリソース管理と、リソースの読み込み速度です。
+リソース管理では、リソースの内容からハッシュ値を生成し、それをキー値にリソース管理クラスがリソースを一元管理します。
+キー値が被った場合はリソースを再利用することで、同じリソースが2度生成されないようにしています。
+4バイトのハッシュ値を使用することでリソースの検索コストを下げるような工夫をしています。
+また、リソースの読み込み速度を早くするためにリソースファイルの必要なデータのみを抜き出し独自ファイルに変換しています。
+独自ファイルに変換することでリソースファイルのサイズを削減することができます。
+エディタ環境でリソースの識別子がハッシュ値のみだと視覚的に分かりずらいので、エディタ環境でのみリソースファイル管理クラスを使用し、
+リソースファイル名とリソースを紐づけることで画面上で、どのリソースを使用しているのか分かりやすくしています。</AppealPoint>
+		<Profile>諦めない心が私の強みです。
+高校生の時、プロゲーマーになりたくてEスポーツ専門学校に通っていました。
+起きているほとんどの時間をゲームに費やしましたが大会に出場しても良い結果をだせずにいました。ゲームをプレーするのが辛くなり、もう諦めてしまおうかとも思いました。
+それでも自分はゲームが好きだし、プロゲーマーになりたいという強い意志がモチベーションを高めました。
+その結果ステージ０という高校生大会で５０組中７位という成績を収めることができました。
+仕事において、思い通り行かず挫けそうになっても、この経験を活かして諦めずに問題を解決していけると思います。
+どうぞよろしくお願いいたします。</Profile>
+		<Image1>https://drive.google.com/file/d/1Sp4RqaOxgZiIrRm5wcU8qq5e5NUcr9PI/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1NJgDYVmw0cGD0bm8biiLlD2kONB5yH3u/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1UwNS72IiIswCEkXH1A5fjPfU6ZvqSpzH/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1HgUC9V10vOjPVDBtjDVK0E_smg9Zo1R0/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3119</ExhibitCode>
+		<ClassId>AT13A430</ClassId>
+		<ClassNo>19</ClassNo>
+		<Surname>野村</Surname>
+		<FirstName>璃久</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>Hesitate</Title>
+		<Thumbnail>https://drive.google.com/file/d/1ZnlVb7gbcGEHCwEPgwkSHhFBjmkfYOh_/view?usp=sharing</Thumbnail>
+		<Description>街を歩きながら会話を楽しみ、選択肢によって変化を体験するゲームです。
+「選択によって変わる自身と周囲の反応」をコンセプトにしており、プレイヤーが選んだ行動は主人公の考え方や周囲の対応に影響を与えます。例えば周囲の対応が冷たくなったり、優しくなったりするなど、キャラクターがプレイヤーの行動をどう感じたかは反映されます。この変化を通じて自分の選択がどのように影響を与えるかを楽しむゲームです。</Description>
+		<Video>https://drive.google.com/file/d/14ZbCmm-wjYZoyXFaNEYtpwE9bdnDBXws/view?usp=sharing</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1mXFnCB3OxzHod3YXngQy04ZPlDFsVEcR?usp=sharing</GDriveURL>
+		<AppealPoint>アピールポイントである「開発効率化のための各種システム・ツール」に沿ってお話します。
+まずは会話内容をノードで作るエディターになります。会話内容のテキストを読み込んで表示するだけだとプランナーさんの「ここはフォントサイズを変えたい」「ここで選択肢を出したい」などが判別できないので一度相談を挟まないといけなくて、実装に手間がかかってしまいます。
+なのでその解決策として、ノードを使って視覚的に制作を行えるエディターを作成しました。文字入力、出力、コマンドの三種のノードを使い分けて制作するシンプルな作りになっています。実行中に作って確認できるので、各段に制作しやすくなっていると感じます。
+続いてカメラの画角についてです。
+私はフィールド探索において、カメラの動きは面白さに直結すると考えます。
+ずっとプレイヤーの周囲を移すだけだとつまらないので、カメラ座標と見ている座標を変更できるものを作ったら表現の幅が広がって面白いと考えました。そこで、箱型の範囲に入ると設定した座標に変更させるCameraFieldを作成しました。
+ターゲット(例：プレイヤー)を追従するか、固定した座標にするか、など設定項目を切り替えて使用します。
+</AppealPoint>
+		<Profile>自分の強み、また自分を表すとしたら「会話」と「手助け」の二つになります。
+幼少期から周りの様子を見ながら成長してきたため、空気や雰囲気には敏感です。そのため、相手が過ごしやすい会話量や雰囲気を自然に提供することができます。
+これを発揮できたのが「神ゲー創造主エボリューション」というコンテストでした。チームにリードプログラマーとして誘われたのですが、10人中2人しか知り合いがいない状況でした。それでも普段の会話や会議で積極的に話したり、1対1のコミュニケーションを心掛けたことでチームの雰囲気がよくなり、一丸となって制作に取り組むことができました。その結果、第二次審査まで通過することができました。受賞こそできませんでしたが、自分にとってこの制作はとても大きな経験と学びになりました。
+</Profile>
+		<Image1>https://drive.google.com/file/d/1T5GaNCCOpLXUyhsQLFwEG2BUOdGDwCr_/view?usp=sharing</Image1>
+		<Image2>https://drive.google.com/file/d/1PREKHjISpFl1U3cHCpAJwqcPQ378VLgO/view?usp=sharing</Image2>
+		<Image3>https://drive.google.com/file/d/1xG1s6PwLNbdLdwQBx9BVpRBRFirSGbW9/view?usp=sharing</Image3>
+		<Image4>https://drive.google.com/file/d/1lu17GBdbTn1OD4vWyMvU20M9xYwER4_x/view?usp=sharing</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3309</ExhibitCode>
+		<ClassId>AT13C432</ClassId>
+		<ClassNo>9</ClassNo>
+		<Surname>辻里</Surname>
+		<FirstName>健太</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>TsujikenEnjine</Title>
+		<Thumbnail>https://drive.google.com/file/d/1kgq-rMVgauqKoWe-bA-1H6mLaDIAMP-C/view?usp=drive_link</Thumbnail>
+		<Description>現在制作中のゲームエンジンです。「Tsujiken Engine」は、柔軟性と強さを兼ね備えた開発環境を提供し、開発者のアイデアを実現する「剣」となることを目指しています。「Tsuji(辻)」は交差点や道の交わる場所を意味し、ゲーム開発者がアイデアや技術を交わし、集約するプラットフォームとなるエンジンを象徴。「Ken（剣）」に見立て、開発者のクリエイティビティを鋭く切り開く力をイメージ。</Description>
+		<Video>https://drive.google.com/file/d/1BNG4lzfn1dsZl25L2OWLuWKrGp3cnD0c/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/101pFwT-Ke5psC_PTsyp8F5pNSItp_EVX?usp=drive_link</GDriveURL>
+		<AppealPoint>・柔軟な拡張性
+コンポーネント設計やデバッグ機能のモジュール化で直感的なデバッグが可能に。デバッグ作業を効率化し、開発スピードを向上させます。デバッグUIのリストを動的に管理することで、新しいデバッグ機能を簡単に追加でき、機能ごとにメソッドを分割し、コードの見通しを良くしています。
+
+・効率的なデータ管理
+JSON形式での編集とバイナリ形式での運用を切り替えられるため、開発時の可読性と製品版の性能を最大化。
+
+・豊富なデバッグ機能
+①シーンビュー
+現在のゲームシーンを視覚的に表示し、オブジェクトの配置や状態をリアルタイムで確認。
+②FPSカウンター
+現在のフレームレートを表示し、パフォーマンスのボトルネックを特定。
+③デバッグログ
+実行中のイベントやエラーメッセージを記録・表示し、問題を迅速に特定。
+④ヒエラルキー
+シーン内のオブジェクトの親子関係を視覚的に確認し、選択や操作を容易に。
+⑤インスペクター
+選択したオブジェクトの詳細情報を表示・編集し、プロパティを調整可能。
+⑥カメラコントロール
+シーンビュー内のカメラの位置や向きを操作し、任意の視点から確認可能。
+⑦コンテンツブラウザ
+プロジェクト内のアセットを表示・管理し、インポートや配置を容易に。
+⑧デバッグ入力
+入力デバイスの状態を表示し、入力関連の問題を特定。</AppealPoint>
+		<Profile>私の強みは、チームのモチベーションを高める能力です。
+1年次のゲームアイデアコンテストでは、企画書のデザイン作業が滞り、進行が止まっていました。この状況を打破するため、私は仮の企画書を作成し、チームに提示しました。内容の骨組みやデザインの雰囲気を示した叩き台として作成したものでしたが、メンバーから「産まれて初めて天才を見たかもしれん」「これは熱すぎる！」と予想以上の反応がありました。これをきっかけにメンバー全員が意欲を取り戻し、停滞していた作業がスムーズに進み、完成度の高い企画書を仕上げることができました。
+2年次の学内コンテストでは、プログラマ7人、デザイナー2人というチームでサブリーダーを担当しました。当初、プログラマの多くがコーディングに苦手意識を持っていたため、全員でコードレビューを行い、改善点を共有する場を設けるなど、チームの成長を促しました。さらに、ゲームのメイン要素である「球体関節を動かす」というコンセプトに基づき、関節の完成度を逐一報告したことで、欠席しがちだったメンバーの参加意欲が向上し、積極的な意見交換が生まれるようになりました。
+私はこのように、自ら行動し成果を示すことでチームの士気を高め、目標達成に向けて全員が力を発揮できる環境を作ることを得意としています。これからも、組織においてその力を発揮し、貢献していきたいと考えています。どうぞよろしくお願いいたします。</Profile>
+		<Image1>https://drive.google.com/file/d/11gemQMLPSUCIMnwZNy8tz-9svVA4jNK1/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1okRrDii96ET-8ndzk1Pp7bqtL5hVLojN/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1OkZjxDcJedZMA6lBo1FhI4lnP-9dnPj6/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1kHw2mMU-V6EJTO-1kEVTypSuqdWRg--1/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3327</ExhibitCode>
+		<ClassId>AT13C432</ClassId>
+		<ClassNo>27</ClassNo>
+		<Surname>山本</Surname>
+		<FirstName>悠真</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>Duel</Title>
+		<Thumbnail>https://drive.google.com/file/d/1EeUKAlznkRejrUHqr4F58M2F3YGBGVvl/view?usp=sharing</Thumbnail>
+		<Description>ボスは多様な攻撃を行ってきます。プレイヤーはボスの攻撃を避けることで、回避連鎖数が上昇します。回避連鎖数が上昇すると攻撃力が上がるので、倒される前に回避を駆使して攻撃力を上げてボスを討伐しましょう。</Description>
+		<Video>https://drive.google.com/file/d/1k3siIFTeIoPh8AdY6ZT1r6MvZT9kV23F/view?usp=sharing</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1m5ZyKZMqoWsaTdHO7kwb276-wMX9XzCf?usp=sharing</GDriveURL>
+		<AppealPoint>私は、プログラマはプランナーから挙げられた案やコンセプトなどを忠実に、かつより良くしていくものであると考えています。
+この為、ボス自身に「余裕と油断の二面性」というコンセプトを設定し制作に取り組みました。
+一例をあげると、コンセプトの「余裕」をピックアップして、「なぜこのボスは余裕を持っているのだろう」という疑問を持ち、そもそも敵は通常では攻撃が効かないキャラだと設定し回避で敵の攻撃を奪うことで攻撃が通り倒せるという攻略方法を作り、実際に作成していきました。
+こういった技法で作品を作っていくことで、私は以前一度就職作品を作り直したことがありますが、その時よりも数段早く、よりゲームとしてしっかり作ることができました。</AppealPoint>
+		<Profile>私の強みは与えられた課題の流れを掴み、理解しながら論理立てて進めることができる点です。
+3年生のチーム制作の際に、自分以外のプログラマが音信不通になり、自分のみで全てのプログラムをしなくてはならない状況になりました。膨大すぎるプログラムの為、とにかく手を進めるということはせず、2つの事に気を付けてできるだけ無駄がないようにしました。
+まず1つ目は、全体のアルゴリズムを作成し、やるべきことを俯瞰できるようにして、次やることを考える大きなロスタイムを無くすようにしました。
+2つ目にやるべきプログラムを細かく分解して列挙することで、無駄に関数などの機能を多く作ってしまう問題をできる限り避けるようにしました。
+この2つを軸にプログラムを作成したおかげで、20日でプレイヤーの操作から敵の動きとゲームの大まかな基本動作を作成することができました。</Profile>
+		<Image1>https://drive.google.com/file/d/1js13mBS2DIjtQGyZcitEASIjSbw_Pa8W/view?usp=sharing</Image1>
+		<Image2>https://drive.google.com/file/d/19JlL9SxxmKZpwIqYQoTTIn-4EFPyzb8f/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1g_qpJDtlwHWz4MLbLgAkJ6YUZBFE06wz/view?usp=sharing</Image3>
+		<Image4>https://drive.google.com/file/d/1lhBsbTycrBh11FV-jPsuo67rJ0FkXeAa/view?usp=sharing</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3118</ExhibitCode>
+		<ClassId>AT13A430</ClassId>
+		<ClassNo>18</ClassNo>
+		<Surname>中濱</Surname>
+		<FirstName>龍</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>VRCuttingGame</Title>
+		<Thumbnail>https://drive.google.com/file/d/13tXkeKshEjsw5Zrj9ScJ_6VRMutiGo2W/view?usp=drive_link</Thumbnail>
+		<Description>次々と飛んでくる食べ物を時間いっぱい切っていく、VRアクションゲームです。「ぶった切る」をコンセプトに、ゲームならではの爽快感や、VRならではの「切る」楽しさにこだわった作品です。</Description>
+		<Video>https://drive.google.com/file/d/12oMO6dxDUZblpwkF7Semj6tbj9ftyqZA/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1hjVrFNG8KRYmxCOSNoo7SIKtLn4U5GDP?usp=drive_link</GDriveURL>
+		<AppealPoint>ゲーム的にこだわったところは斬った感触です斬った方向に物体が切れるところを実装しました。これにより視覚的な没入感や楽しさを与えることができました。また斬った時のコントローラー振動やエフェクトもポイントです。
+コントローラー振動では物体を叩いた振動を元にリアルな振動をこだわりました。</AppealPoint>
+		<Profile>私の強みの一つ目は好奇心旺盛なところです。
+スポーツからグルメや旅行といった幅広いジャンルを趣味としています。
+これは遊ぶゲームにも現れており2DドットゲームからVRゲームまで面白いと感じたゲームは物怖じせずプレイしています。そしてその好奇心旺盛さは開発にも活かせると確信しており、今回の就職作品であるVRゲームでは物体を切る構想はビートセイバーや、カンファレスでの発言である「現実で罪悪感を抱く行為ほどVRでは楽しさになる」から着想を得ました。そのほかにも好奇心から学んだことを作品に活かせていると思います。
+二つ目の強みは人を楽しませることが好きということです。友達とのコミュニケーションにおいて私はいつも和ませるポジションにいました。友達と旅行などに行った際も楽しませることを第一に考えていました。このことはゲーム開発をする際も大事にしていきたいと考えています。</Profile>
+		<Image1>https://drive.google.com/file/d/1ACC8DJlUJv6vOXdFKdLc4k_BawTXQ_lt/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1VL2nY8raI6B1o1UE17s7Rww6IwlWVVpJ/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1SKAbArJeWEZBfrV01SyZv0UndFwPG3PQ/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1DMlgHoE_hybVg_5GSNRnuUke-QlEQTtr/view?usp=drive_link</Image4>
 	</ProjectDetails>
 </Project>
