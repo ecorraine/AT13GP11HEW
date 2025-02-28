@@ -1439,4 +1439,52 @@ GUI表示に使用したImGuiライブラリでは、参照渡しに対応して
 		<Image3>https://drive.google.com/file/d/1yua6ldkf5XyNgCWfrCWbY-PxTyK9cyHD/view?usp=drive_link</Image3>
 		<Image4>https://drive.google.com/file/d/1g9XPEG02f7oXJb5juLJ-koDLiauuc4HE/view?usp=drive_link</Image4>
 	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3401</ExhibitCode>
+		<ClassId>AT13D432</ClassId>
+		<ClassNo>1</ClassNo>
+		<Surname>井岡</Surname>
+		<FirstName>真浩</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>SneakThief &amp; 内定者就活スケジュール</Title>
+		<Thumbnail>https://drive.google.com/file/d/1oBdNJXOVD_To7lQg6jg-rslo58itK06R/view?usp=drive_link</Thumbnail>
+		<Description>SneakThiefという個人制作の3Dステルスゲームで、二年次後期の三校合同学内コンテストにて金賞を受賞いたしました。本作は、美術館に設置された監視カメラの視線を赤いスポットライトで視覚的に表現し、プレイヤーはそれらを巧みに回避しながら5つのオタカラを収集し、脱出を目指すゲームとなっております。監視カメラの視線を可視化することで、緊張感のあるステルスゲームプレイを実現いたしました。</Description>
+		<Video>https://drive.google.com/file/d/1nSCpd1wN3AKdeP-dJRlSSPPi1qfn-kxi/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/11Aw0F7lj6077nu1JJxXMTrGF_-cTE-Dx?usp=drive_link</GDriveURL>
+		<AppealPoint>TweenやEasingを活用した独自のアニメーション機能を実装し、常に画面が動きのある表現を実現しました。また、ゲームプレイの指標となる要素を視覚的に分かりやすく表現することに注力いたしました。具体的には、オタカラの上部にビルボードのスプライトを配置し、プレイヤーの目標を明確化。監視カメラの視線は、スポットライトと円錐型メッシュの組み合わせで可視化し、直感的に把握できるよう工夫いたしました。さらに、ゴール地点もライティングを効果的に用いることで、プレイヤーが迷うことなく進行できる設計としました。これらの工夫により、プレイヤーにストレスを感じさせないゲーム体験を提供することができました。</AppealPoint>
+		<Profile>はじめまして、“AT学科最速内定者”の井岡真浩です。
+
+インターンから早期内定した私の就活スケジュールと実際の提出物やポートフォリオを展示しています。
+
+みなさんの就活の参考になるかと思いますので、興味のある方はぜひ来てください！</Profile>
+		<Image1>https://drive.google.com/file/d/1nESy-PV3hn5Dps_sqYK2vbq5dh498iFx/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1GwWqvJ8GTyn-_c0fNKxbkrfGzyj65K9d/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1suW4o47Pyj-2GfmxAqxfZfLYvwn4kDzC/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1nHVTcwreFf2O5DV8SKll3RCP4DpYUt9x/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>GP1012</ExhibitCode>
+		<ClassId>GP11A423</ClassId>
+		<ClassNo>12</ClassNo>
+		<Surname>坂本</Surname>
+		<FirstName>篤哉</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>SkyPuttMiniGolf</Title>
+		<Thumbnail>https://drive.google.com/file/d/1rRb-F96gk8MPL6wbAKQmUnK1zZbQpodG/view?usp=drive_link</Thumbnail>
+		<Description>パターゴルフのゲームを作成しました。パーティクルを使ったボールの軌道やゴールの演出にこだわった作品です。ゴルフボールを飛ばした時の爽快感を味わってもらう楽しさとギミックのあるステージを巧みに避けてゴールを目指す作品となっています。</Description>
+		<Video>https://drive.google.com/file/d/1eyBnJ6KOJxinfYKWDtjtyO8zTYLrzmQZ/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1XdcziEM0Eott8Iayb0zinyu8tAs9zR9t?usp=drive_link</GDriveURL>
+		<AppealPoint>　こだわりは、ゲームの楽しさを支える演出です。特にパーティクルを活用した演出に力を入れました。
+　ボールを飛ばす際には、「スピード感を演出するための残像」をイメージし、パーティクルを用いて軌道を可視化しています。また、カップインの演出では、紙吹雪や花火が打ち上がることで、プレイヤーがゲームの目的達成をより強く実感できるよう工夫しました。
+　演出で用いるパーティクルはインタラクティブな開発を意識し、パーティクルの発射角度、数、高さが調整可能です。プレイヤーのスコアによって演出の派手さが変化するなど調整が可能です。
+　ボールの軌道を表現するにあたって工夫した点は、残像をイメージした演出を目指し、静的配列でスフィアを描画する手法を採用したことです。ボールの通った位置にパーティクルを描画するという方法を用いましたが、ボールの挙動によってはパーティクルが滑らかにならず、ギザギザした印象になってしまいました。そこで、直線を曲線へ変換する処理について学び、ベジェ曲線とスプライン曲線の二つを候補として比較し、UIやアニメーション分野で幅広く活用され、処理が軽いベジェ曲線が開発に適していると判断しました。実装の際には数学を学び直し、処理が重くなく快適性が損なわれない様に実装を心がけました。その結果、パーティクルを用いた滑らかな軌道表現を実現することができました。</AppealPoint>
+		<Profile>　私の強みは行動力と習慣化を武器に、挑戦し続けることです。私は、取り組みたいことや目標を明確にし、結果だけでなく過程を重視して行動することを心掛けています。また、その行動力を原動力に、目標達成のためには習慣化を第一に考え、素早く生活に取り入れることで、効率的に取り組むことを意識しています。
+　例えば、基本情報技術者試験の取得を専門学校入学時に目標と定め、日々の学習を習慣化することで、情報学の予備知識がない状態から3か月で資格を取得しました。このように、新しい知識やスキルを短期間で吸収し、それを実践に活かすことが得意です。
+　また、私は新しいことに挑戦する姿勢を大切にしています。C++言語とゲーム制作を学び始めて間もない段階で、HALの三校合同コンテストに参加し、2Dシューティングゲームを制作しました。限られた 1か月足らずの制作期間 で、CSVファイルを用いたマップチップの実装を行い、ステージ構成を柔軟に編集できるシステムを考案しました。その結果、作品は 「構成力賞」を受賞し、自らの挑戦が成果につながる経験を得ることができました。
+　このように、私は目標に向かって積極的に行動し、それを習慣化することで、確実に成長し続けることができます。</Profile>
+		<Image1>https://drive.google.com/file/d/1-E88uU7GrF9btg5sbpUMh8M0XpX4HckR/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1-xprkY_7zogSsBZzKxdLzfUqYGl0l_gS/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1vUnWHitsR-jub3NG0yvOexRBFHPcXiXw/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1Car-lM7a2BD5wxSNjj20d0_XlMxqRG6B/view?usp=drive_link</Image4>
+	</ProjectDetails>
 </Project>
