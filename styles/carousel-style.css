@@ -156,6 +156,10 @@ a:visited {
     .carousel-item {
         width: 100%;
     }
+    
+    .item-thumbnail {
+        width: 500px;
+    }
 }
 
 @media screen and (max-width: 1024px) {
