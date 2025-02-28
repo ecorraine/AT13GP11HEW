@@ -59,4 +59,104 @@
 		<Image3>https://drive.google.com/file/d/1vGjyJUO5vI2JzkSJer6alitInRSuO5Vw/view?usp=drive_link</Image3>
 		<Image4>https://drive.google.com/file/d/16mdLeJoX64omCYbVgf-_Qw1H_z-Qd4IT/view?usp=drive_link</Image4>
 	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3228</ExhibitCode>
+		<ClassId>AT13B430</ClassId>
+		<ClassNo>28</ClassNo>
+		<Surname>若村</Surname>
+		<FirstName>理央</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>Sneek's Bound</Title>
+		<Thumbnail>https://drive.google.com/drive/u/1/folders/1UimR58KqynCwFmUpJ2TZTSzjJSsxpWXf</Thumbnail>
+		<Description>ジャンルはアドベンチャーとなっております。個性豊かキャラクターと会話をして問題を解決したり、手伝いをしてヒントを得ながらこの世界からの脱出するゲームです。会話の選択次第で分岐するので慎重に選ばないといけないのがポイントです。</Description>
+		<Video>https://drive.google.com/file/d/18gha9P488HBxZmlV5Jq0IBt3vpju0tq8/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1zwQBX-7pDFNrRoMcYW_vg80skwjgZv2s?usp=sharing</GDriveURL>
+		<AppealPoint>本ゲームの重要な要素である会話データ管理には、視認性が高く、他の開発者でも簡単に編集できる JSONファイル を採用しました。また、会話の流れを グラフ構造で設計 することで、複雑なストーリー分岐にも対応可能です。さらに効率化を図るため、GUIベースの自作会話編集ツール を開発しました。このツールでは、ファイル作成から会話内容の編集・追加まで直感的に操作できます。特に会話システムの設計にはこだわっておりますので、興味をお持ちいただけましたら、ぜひ概要資料をご覧ください。</AppealPoint>
+		<Profile>私の趣味は、バスケットボールです。今でも高校生から50代の大人まで参加している地域のサークルにも参加しております。その中で、相手のプレースタイルや短所などから攻め方を変える分析力やチームメンバーがゴールを決めたら積極的にメンバーを鼓舞しチームの士気を上げる力を養うことが出来ました。
+
+私の強みは、提案力と向上心です。チーム制作では、任されたタスクで不備や問題が発生した際、まずは課題を細分化し、問題点を明確化しました。そのうえで、分析結果に基づいた新しいアプローチを提案し、チーム内で積極的に共有することで、全体のクオリティ向上に貢献しました。具体的には、開発中に発生した複雑な仕様変更にも柔軟に対応し、効率的な解決方法を導入することでスムーズな進行を実現しました。また、タスクが完了した後も成果物をユーザー目線で再度見直し、細かい違和感や不快感を与える要素がないかを徹底的に確認しました。その際、デザインや動作面において細部にまで注意を払い、さらなる改善策を講じることで、最終的な作品の質を高めることに成功しました。常に最善を目指し、品質向上に取り組む姿勢が私の持ち味です。
+
+これからも自身の強みを生かして貢献していきたいと考えております。どうぞよろしくお願いいたします。</Profile>
+		<Image1>https://drive.google.com/drive/u/1/folders/1UimR58KqynCwFmUpJ2TZTSzjJSsxpWXf</Image1>
+		<Image2>https://drive.google.com/drive/u/1/folders/1UimR58KqynCwFmUpJ2TZTSzjJSsxpWXf</Image2>
+		<Image3>https://drive.google.com/drive/u/1/folders/1UimR58KqynCwFmUpJ2TZTSzjJSsxpWXf</Image3>
+		<Image4>https://drive.google.com/drive/u/1/folders/1UimR58KqynCwFmUpJ2TZTSzjJSsxpWXf</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3221</ExhibitCode>
+		<ClassId>AT13B430</ClassId>
+		<ClassNo>21</ClassNo>
+		<Surname>中村</Surname>
+		<FirstName>祥吾</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>SDFジェネレータ</Title>
+		<Thumbnail>https://drive.google.com/file/d/1765mzjf_rzpvwB8a10nznTiXHLT_nEyB/view?usp=drive_link</Thumbnail>
+		<Description>DirectX11でSDF（符号付き距離場）を利用し、パーティクルがオブジェクトの形状に沿った衝突判定を行えるようにするための技術デモの作品です。読み込んだモデルからSDFを3Dテクスチャとして作成し、シェーダーに渡すことで座標からSDFを利用します。
+</Description>
+		<Video>https://drive.google.com/file/d/1ZqvRhjYL0tFC2SlNIwble6eQNmqrPIE4/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1GPl_PPnSVZJEx2ZjW1PEe1WM2axu4m2q?usp=sharing</GDriveURL>
+		<AppealPoint>この作品は過去の作品制作で心残りだった単純な形状の当たり判定だけでは表現できないパーティクルとオブジェクトの衝突を行いたいと考え制作しました。複雑な形状を表現するための手法としてはUnityの機能などを参考にSDFを利用しています。パーティクルの座標とSDFの情報を参照し、オブジェクトの内と外を取得することで衝突判定を行います。
+</AppealPoint>
+		<Profile>私の長所は挑戦する姿勢です。慣れないことや新しい技術への取り組みなどを行う際には日頃からふと思いついたアイデアや試した方法などをできる限りメモとして残すように心がけ自分の考えを整理ができるように取り組んでいます。疑問に思ったことについてアドバイスを尋ねる際にもメモを見ることでこれまで参考にした資料や方法を簡潔に説明することに役立ちました。
+</Profile>
+		<Image1>https://drive.google.com/file/d/1FOIexYQEEmNdGjHwcyXy_Pqm47KXifB9/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1t122oHEIl6smegcUE60sftC3Lm4Hm13Y/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1PzFbm6uMFY4PXhx3r32OMvUZkMk9QVDc/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1XBJvCNjoD3PfmjKfDi-VkeLG2FxjvkiB/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3202</ExhibitCode>
+		<ClassId>AT13B430</ClassId>
+		<ClassNo>2</ClassNo>
+		<Surname>池内</Surname>
+		<FirstName>友哉</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>Inkrush</Title>
+		<Thumbnail>https://drive.google.com/file/d/1bCKJYpPZC7BnE0ABwy3EUtrIcQmagTji/view?usp=drive_link</Thumbnail>
+		<Description>制限時間内にインクをぶっ飛ばして街をめちゃくちゃに塗り潰す3Dアクションゲームです。「大胆にインクを塗りたくる！」をコンセプトに、塗りたいところに塗るための仕組みや塗った時に広がっていくインクの演出など、ゲーム画面を見ている時に「自分が塗ってやったんだ！」と思ってもらうことを意識して制作した作品です。</Description>
+		<Video>https://drive.google.com/file/d/1-WER31TYCvjGv2s4STNP_nJ_vtOhmI8b/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1QtD-YjhnT_me3cMmGsbi94VpkZ5_0maw?usp=drive_link</GDriveURL>
+		<AppealPoint>① 塗りたいところに塗れるインクの仕組み
+「自分がやったんだ！」「塗ってやった！」と思ってもらうには、塗りたいところにインクが塗られているという結果が重要だと考えました。そこでインクを塗る仕組みとして、今回は投影デカールを採用しました。壁や床はもちろん、複雑な3Dモデルにもインクを塗ることが可能です。
+
+② 塗り判定の計算
+自分が塗った具体的な結果をユーザーに見せるために、独自の塗り判定の計算を実装しました。考え方として、塗られた比率をピクセル単位で厳密に算出するために、塗り判定を適用したい場所の総ピクセル数に占める塗られているピクセル数の割合を計算しています。この実装方法にすることで、塗り判定を適用したい場所をどの方向からでも見ることができ、床や壁の判定を取得できるため、ユーザーに具体的な塗り判定の結果を提供できます。
+
+③ 塗りの演出
+「大胆にインクを塗りたくる！」表現を実現させるために、投影デカールの変換行列を調整することで、広範囲にインクを塗る表現を実装しました。これにより街のビルや道路を、現実ではできないほどの広い範囲を一気にダイナミックに塗ることができます。</AppealPoint>
+		<Profile>私の強みは、常に最善を追求し物事に取り組むことです。2年次の学内コンテストでは「球体関節人形を動かす」をテーマに2Dパズルアクションゲームを制作し、リーダーとしてチームをまとめました。チーム内の交流を深めるため、ゲームや食事を通じて話しやすい雰囲気を作り、企画段階から全員で意見を出し合いながらスムーズに制作を進めました。さらに、コーディングに苦手意識を持つメンバー向けにコードレビューを実施し、改善点を共有することでチーム全体のスキル向上を図りました。
+また、球体関節を動かした時の楽しさを引き出すため、全員が意見を出し合えるようにステージ制作ツールを実装しました。この取り組みにより、完成したゲームを遊んでくださった方々に「球体関節の独特な操作が楽しい！」と評価していただけました。
+このことから私は、常に最善を追求し物事に取り組むことが強みです。
+
+私の趣味は、ロリータファッションで理想を形にすることです。高校時代に、挑戦としてロリータファッションを試した際、その独特な衣装の組み合わせ方に面白さを感じ興味を持ちました。衣装にコンセプトを設定し、限られた予算内で実現する方法を考えることで、理想を実現する力を養うことができました。
+
+仕事につきましても、目標に向けて最善を考え行動し、全員で理想の成果を上げられる人材として貢献していきたいと考えております。どうぞよろしくお願いいたします。</Profile>
+		<Image1>https://drive.google.com/file/d/1evkACVWTpNsiYckZBKstI52z5sdHxfSC/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1tQiOPhrBTK8UJ0u8ZDtm2ZyTKgBihouQ/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1EvUsVtbJHHkX6IPRLI3OwJcQlqTAhewt/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1d9OPwGHnHzCi9mEpRi439o0lhiQXCOAT/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3215</ExhibitCode>
+		<ClassId>AT13B430</ClassId>
+		<ClassNo>15</ClassNo>
+		<Surname>竹内</Surname>
+		<FirstName>晨人</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>GPUシミュレーター</Title>
+		<Thumbnail>https://drive.google.com/file/d/1lZYM-iB9u3ZZ7KxHPbius5lyzNvz4rd1/view?usp=drive_link</Thumbnail>
+		<Description>ゲームのグラフィックの向上に欠かせないGPUが受ける負荷の程度を視覚的に確認出来るシミュレーションツールです。パラメータから使用したい表現を自由に設定し、設定内容からGPUにかかる負荷を動的に変更及び確認をすることが出来ます。パラメータにはライトやレンダリング方法、アップスケールのONOFF等の項目があります。</Description>
+		<Video>https://drive.google.com/file/d/1SJ-nKTYlmopR0vwWFJg3S5SeoBcIaXe1/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1jhjfgchIvwAGzuN9RGANbF5RCfMQ0AL6?usp=drive_link</GDriveURL>
+		<AppealPoint>「GPUの負荷を視覚的に解析し、効率的なレンダリング手法を模索する」という目標から本ツールを制作しました。こだわった点は主に2つあります。
+1つ目は、DLSSによるアップスケール機能の実装です。近年注目を集めるDLSS技術を、海外の資料から得た情報を元にツールに実装し、アップスケールの有無で画質とGPU負荷がどのように変化するかをリアルタイムで比較できる環境を構築しました。この機能を組み込むことでGPU負荷を抑えつつ高品質な表現も実現できる可能性を追求しました。
+2つ目は、GPU負荷の変化を詳細に把握できるようにするためのレンダリング手法の切り替え機能です。フォワードレンダリングとディファードレンダリングを比較や、Gバッファの各要素を個別に表示出来るようにすることで、特定の負荷原因やレンダリングの不具合を直感的に見つけられる仕組みを実現しました。この設計により、GPU最適化の具体的な手段を探るためのツールに仕上げました。</AppealPoint>
+		<Profile>私の強みは相手の立場に立って物事を考えることや、物事を俯瞰して捉えることです。
+私は高校から約10年間レジの接客アルバイトを続けており、バイトリーダーを任されています。出勤時のシフトを確認し、その日の作業内容の把握したうえで、他のアルバイトへの的確な指示を出すように心がけています。想定外の事が起きた際に冷静に対応を行い、トラブルを最小限に抑える対応力も備えています。
+この強みはアルバイトだけではなく学校のチーム制作でも活かしました。チーム制作でリーダー及びディレクターを担当し、チーム全体の進行状況やプロジェクト管理、メンバーに対する適切な指示を徹底しました。トラブルが発生した際はメンバーと協力し、プロジェクトを予定通り進めることが出来ました。その結果、学内コンテストで賞を受賞する完成度の高いゲームを作り上げることができました。</Profile>
+		<Image1>https://drive.google.com/file/d/1xfFqI0Syijwm08bHDLVEjoOsAmjxwzCF/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1SrTBS3dUDID-Si70eFow2DQXsBVVpkbS/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1UUnGSed3JogyhqI5ok_Cxj9RO2SdamnN/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1-_-OE4lWVd5aT0S1x2hHXhDs1RTmXKZp/view?usp=drive_link</Image4>
+	</ProjectDetails>
 </Project>

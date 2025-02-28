@@ -21,4 +21,122 @@
 		<Image3>https://drive.google.com/file/d/1rrQYQa6ldiBR47NZlHALCBg8A1BZs_fg/view?usp=sharing</Image3>
 		<Image4>https://drive.google.com/file/d/15pjuXvd71b9H7xHO0aEttFChy7irFl3U/view?usp=sharing</Image4>
 	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>GP1010</ExhibitCode>
+		<ClassId>GP11A423</ClassId>
+		<ClassNo>10</ClassNo>
+		<Surname>黃</Surname>
+		<FirstName>至軒</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>CODE:シルバー</Title>
+		<Thumbnail>https://drive.google.com/file/d/1JpHSeDA_I-Q_1zlsypt7VZWhrzbIMVd6/view?usp=drive_link</Thumbnail>
+		<Description>この射撃RPGでは、プレイヤーは主人公となり、謎の迷宮へ足を踏み入れ、行方不明の姉に関する手がかりを探します。迷宮の奥深くには、危険と未知が潜んでいます。探索を進める中で、様々なモンスターと戦い、財宝を集め、重なる謎を解き明かしていきます。</Description>
+		<Video>https://drive.google.com/file/d/1BuMthdR7qGCjQut7I75dG3B-xFjkQ-VL/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/file/d/1Pzz-2z8iMIUBJltbCzmlAyo88PfgYFL4/view?usp=drive_link</GDriveURL>
+		<AppealPoint>遠距離武器の多形態変化（通常形態、狙撃、剣など）。
+RPGスキルツリーと自由なポイント配分システム。
+動的なストーリーとサブクエストによりエンディングが変化。
+進むごとに新た発な見があるかもしれませんし、強力な敵に遭遇すること。
+迷宮の奥に隠された真実を明らかにし、ストーリーを進める。</AppealPoint>
+		<Profile>私はHAL大阪ゲーム学科2年制の学生黄至軒です。
+[CODE:シルバー]はプレイヤーは賞金稼ぎとして専用武器とスキルを駆使し、神秘的で危険な中世ファンタジーの世界を旅しながら、失踪した姉の行方を追い、隠された神代の秘宝の真実を明らかにするゲームです。
+独自の世界観と革新的なゲームプレイを提供し、私はプレイヤーに感動と驚きを届けることを目指し、日々制作に励んでいます。</Profile>
+		<Image1>https://drive.google.com/file/d/1rwMoRjFuGMQ8RZNq6PM2FD92hhodD5um/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1qoQZ4NO6zosv8UcTngX00Xyc-XWOvkwp/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1teIBXZiQ5viyWXWoUnOFocDI7SWu7x8X/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1nvSjuqOpvkm2NqIaEeDNH8pjK26Nr76F/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>GP1028</ExhibitCode>
+		<ClassId>GP11A423</ClassId>
+		<ClassNo>28</ClassNo>
+		<Surname>森</Surname>
+		<FirstName>春彦</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>テンカイテン</Title>
+		<Thumbnail>https://drive.google.com/file/d/1-aO7zAExj93f7tYaYaHNSuFieVf8_tdM/view?usp=drive_link</Thumbnail>
+		<Description>立方体の展開と組み立ての動きを利用したストラテジーゲーム。立方体に存在する11種類の展開図を状況ごとに使い分け、ステージからはみ出ないようにゴールを目指しましょう。より少ない手数でクリアできればハイスコア獲得です。</Description>
+		<Video>https://drive.google.com/file/d/159hxvUijlDPCeHHTkCFglc0u3dyGVIBs/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1HVcpjsrFNx6mrylTynzGg_87bdWS3Exy?usp=drive_link</GDriveURL>
+		<AppealPoint>本作品のゲームフローは、ステージキューブの配置とプレイヤーキューブの展開・組み立てをタイルマッピングを用いて座標を管理することで実現しています。本作品を作るうえでこだわったポイントとしては、ステージキューブの配置の際に、0と1だけを用いてキューブ配置を行うのではなく、「0: なし　1: キューブ配置　2: 現在位置(キューブ配置)　3: ゴール位置(キューブ配置)」と、各数字に役割を持たせるという設計を採用した点です。これにより、ステージのギミック拡張に対して柔軟に対応できるようになっています。さらに、この手法を展開図データにも応用し「2: 現在位置」の要素を取り入れて、これを展開の基準点のように活用することでステージ上にプレイヤーキューブが展開可能かという判定できる仕組みを実現しました。これにより、どのようなステージ設計でも判定を容易に行うことができるようになりました。</AppealPoint>
+		<Profile>森春彦です。よろしくお願いします。マイペースな性格で、趣味は友達とゲーム(VALORANT, モンスターハンターなど)をすることと散歩です。おいしいものを食べることが好きで学校付近にあるお店を調べて巡っています。私が何をするにしても念頭に置いていることは、「基礎をしっかりと」です。そのため、プログラミングをする際に一番に気を付けていることは、変数名をわかりやすくしたり、どのような動作をしているかコメントをきちんと書くなど、ほかの人が見ても理解できるようにすることです。</Profile>
+		<Image1>https://drive.google.com/file/d/1v0x2edB6i5Bt4ilGFlBh4oMDe478lJw_/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1FLXoEO5P3QAme7BBYEEdsni4_G4pcUfd/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1FbEWErmp4CbRd8CgG91oSlTCMADefEtI/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1XFqMzeJVAAGuH94YugBO4PiyDInUxRRA/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>GP1029</ExhibitCode>
+		<ClassId>GP11A423</ClassId>
+		<ClassNo>29</ClassNo>
+		<Surname>山本</Surname>
+		<FirstName>佳</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>DangerousCar</Title>
+		<Thumbnail>https://drive.google.com/file/d/1_CMtsHJyDTbUihqvJKvkLruA-r9qTMNi/view?usp=sharing</Thumbnail>
+		<Description>自分の車を操作して、敵の車に勢いよくぶつかり、破壊していくアクションゲームです。
+敵を一定数倒せばステージクリアになります。ステージをクリアするごとに操作できる車も追加されていきます。</Description>
+		<Video>https://drive.google.com/file/d/1R-8BWcLIgQKlbiGwrIfgffcsEwDr65iW/view?usp=sharing</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/171MntqnnVqYx_6hN4hQqz4Y8hyFoGxM5?usp=sharing</GDriveURL>
+		<AppealPoint>車のスムーズな操作性の実装にこだわりました。操作性の向上にこだわった理由はプレイヤーに余計な違和感やストレスを感じさせないようにするためです。
+また、車の動きに関連する様々なパラメータ(加速度、最高速度、空気抵抗、馬力、質量、物体と物体が衝突した時の反発係数等)を細かくかつ簡単に調整できる仕組みを実装しているので、
+操作性向上のためのデバッグ作業を効率的に行うことができるだけでなく、車種の違いによる操作性の変化を表現することも可能にしています。</AppealPoint>
+		<Profile>山本佳です。私の強みは他人の意図を汲み取る能力です。その能力はとある対人ゲーム内でのチーム活動を通して身に付いたものです。
+私は戦術面のアドバイス役を担っていました。
+そのチームは中学生の方から 60 代の方まで幅広い年齢の方が在籍しており、人によって考え方も大きく異なるチームの方々と話しながら「楽しく遊ぶ」というチームの方針に向かうためにはどういった言葉を掛けるべきか、といったことを常々考えている時期がありました。
+そのためには円滑なコミュニケーションだけでなく他人が本当に望んでいるものを自分の知識の中から推察してみて提案する、という能力が必要になり、それを身に付けました。
+他人の意見を正しく整理し、尊重しつつ、目標に対してより良い方向性に共に向かうことができる、という私の強みは、他者との仕事において、良い働きをもたらすと確信しています。
+また、ゲーム作りという目標を達成するためには、幅広い知識が必要だと考え、学習する過程で基本情報技術者試験やCGエンジニア検定ベーシック等の資格試験にも合格し、自らの強みを活かすために問題解決能力を高める努力をしています。</Profile>
+		<Image1>https://drive.google.com/file/d/1Y92sRTQGB_4PSsF1LiAQPzZdQuhRLaHj/view?usp=sharing</Image1>
+		<Image2>https://drive.google.com/file/d/1qKOM42mRhhAAiJS3q2sDesE_TiTrm2qw/view?usp=sharing</Image2>
+		<Image3>https://drive.google.com/file/d/1PBiU9Ro9X2yNJhzaQeG-H5tmCyOqJE8C/view?usp=sharing</Image3>
+		<Image4>https://drive.google.com/file/d/1JfOgK3CYuEf4ltCwW2r5T2kcyqVEOZuO/view?usp=sharing</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>GP1016</ExhibitCode>
+		<ClassId>GP11A423</ClassId>
+		<ClassNo>16</ClassNo>
+		<Surname>鈴木</Surname>
+		<FirstName>一心</FirstName>
+		<Location>121教室</Location>
+		<Title>DinosaurHunt</Title>
+		<Thumbnail>https://drive.google.com/file/d/1oEI0joi4BOYwGcRn8X7KXkTIlwr6y0oC/view?usp=sharing</Thumbnail>
+		<Description>暴れる恐竜を鎮静化せよ！あなたは恐竜管理施設の職員であり、対恐竜のプロフェッショナル。麻酔が含まれるナイフと銃で攻撃し続け、恐竜を倒すことができたらゲームクリアだ！もちろん、恐竜に攻撃され続けたらゲームオーバーになるので気をつけよう…</Description>
+		<Video>https://drive.google.com/file/d/1vsB_DMWIw06L9nz98auo-bNj0dBoKVlB/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1T8iZ1yBEXCrleYBcG__4lWj8p0tEiiuB?usp=drive_link</GDriveURL>
+		<AppealPoint>アクションゲームということで、敵にモーションを持たせたかったが、どうしても難易度が高いということで、複数の差分モデルを用意し、タイミングよく切り替えや移動・回転をさせることで、あたかもモーションを行っているかのように見せるようにした。
+また動きに手触り感を感じてほしかったので、カメラや敵、プレイヤーに慣性を持たせて動かすようにした。しかしまだ違和感が多い部分もあるので、より研究を続けていきたい。</AppealPoint>
+		<Profile>平成17年生まれ、19歳。ゲームはもちろんのこと、釣りや写真撮影、生物観察・解剖など多くの趣味を持っている。最近はヒラメの美味しさに気づき、五枚おろしに挑戦中。
+小学6年生の頃からコンピュータを用いた創作活動に取り組んでおり、現在も独学ながらC言語を勉強中。</Profile>
+		<Image1>https://drive.google.com/file/d/1Cyc5CActoZYpjRMWCEvVgIBAcfjqouHm/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1OWGnIW0cRrWKqG43Rqs4R8iXl-G5_Sa3/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1SjnTwHY9ig9pD0Xu3gPNiFMPYlMLTXpn/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1eFVhflz4qhevfP52BlhC-FDNyJ0QCzzC/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>GP1025</ExhibitCode>
+		<ClassId>GP11A423</ClassId>
+		<ClassNo>25</ClassNo>
+		<Surname>野村</Surname>
+		<FirstName>拓哉</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>学校からの脱出</Title>
+		<Thumbnail>https://drive.google.com/file/d/1QSbfR73SGbNzP1OaKlEQxyb5bH0ugcSK/view?usp=sharing</Thumbnail>
+		<Description>学校が舞台のステルスアクションゲームです。ステージを巡回している敵に見つからないようにステージ最奥にある教卓を目指してクリアを目指しましょう。時にはただ見つからないようにするだけでなく、色々な工夫をしなければゴールまでたどり着けないかもしれません。</Description>
+		<Video>https://drive.google.com/file/d/1wT_0k__6U7k7KC264JnPKchfnz0FfthO/view?usp=sharing</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1JzLifGIRSETHWoplcDXRbYtwpO74wsDO?usp=sharing</GDriveURL>
+		<AppealPoint>セールスポイントは２つあります。１つ目は何をすればいいか、ゲーム上で何が起こっているかを直感的に分かるようにしたことです。２つ目はステルスアクションゲームにおいて重要な敵から隠れている感を出す為、リアルな敵の挙動にこだわりました。
+
+１つ目について、常に今できることを画面に表示、フィードイン、フィードアウトなどを用いることによって視線誘導を行い、プレイヤーが迷わないようにしています。また、ゲームオーバー時やゲームクリア時にオブジェクトの動きの停止、カメラの移動などを組み合わせることによって今何が起こっているかを直感的に分かるようにしています。
+
+２つ目について、最初は敵の動きをリアルにするため、経路探索を用いたAIを実装していたのですが、常にマップ全てに対して経路検索をすることで処理が重くなってしまうこと、単純に障害物を避けてプレイヤーに向かってくるため、求めていたリアル感が出ないことからステートマシンを採用しました。内部的に「巡回」「索敵」のステートを管理することで、敵の動きを細かく設定することができ、求めていた敵から隠れている感を出すことができました。AIについても、探索範囲の縮小と探索条件の追加などを行うことによって実装の検討をしております。</AppealPoint>
+		<Profile>周囲に目を配れることと行動力が私の強みです。
+在職中には後輩や同僚に目を配り、手が足りていないと感じたら声をかけ、状況を把握するようにしていました。もし手が足りていなければ上司に相談し、作業の切り出しなどを行っていました。こういった行動を積み重ねることで職場の環境が良くなり、自分が困ったときに助けてもらえるので、とても大事なことだと思います。
+また、プライベートでは気になったイベントがあればすぐに参加しています。最近参加したイベントは推理ゲーム「マーダーミステリー」です。このゲームでは、殺人事件の犯人や探偵、事件に偶然居合わせた一般人などの役割を与えられます。犯人は証拠を隠滅し、探偵はアリバイなどを元に犯人を推理します。複数人でプレイするため、初対面の人と協力して手がかりを集めたり、お互いの推理を披露し合ったりするので、自然とコミュニケーション能力が高まります。楽しみながら社会でも役立つスキルを磨くことができていると思います。
+他にも、「見ざる、聞かざる、言わざる」に発想を得た「チーム3」や、架空のものに名前を付けて伝達力を試す「メイメイ」なども遊びました。</Profile>
+		<Image1>https://drive.google.com/file/d/1tUDUZE5zh8WwZ8OOj48worw4CYWkpuqD/view?usp=sharing</Image1>
+		<Image2>https://drive.google.com/file/d/18aERiJZvtgN7bNpui-WV5L73eiQCPoXV/view?usp=sharing</Image2>
+		<Image3>https://drive.google.com/file/d/13pvUVIIpFFyud8yi-6Z7cmJVP0eydakj/view?usp=sharing</Image3>
+		<Image4>https://drive.google.com/file/d/18Gqr2V8Mec1hdFmVStW-ZDGTPBPX55Am/view?usp=sharing</Image4>
+	</ProjectDetails>
 </Project>

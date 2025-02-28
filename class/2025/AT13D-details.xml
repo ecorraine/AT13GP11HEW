@@ -3,7 +3,7 @@
 	<ProjectDetails>
 		<ExhibitCode>AT3404</ExhibitCode>
 		<ClassId>AT13D432</ClassId>
-		<ClassNo>04</ClassNo>
+		<ClassNo>4</ClassNo>
 		<Surname>岩田</Surname>
 		<FirstName>一輝</FirstName>
 		<Location>12Fマシンルーム</Location>
@@ -77,5 +77,31 @@ Assimp形式データからバイナリデータに変換するための独自�
 		<Image2>https://drive.google.com/file/d/1LPQa9FJfw1SPPh47hENyQvGP-bPesqXv/view?usp=drive_link</Image2>
 		<Image3>https://drive.google.com/file/d/1DKU9CioOpPSfeIP3UBYYqrZVBW44tbC8/view?usp=drive_link</Image3>
 		<Image4>https://drive.google.com/file/d/1aUCmEWE2tV3yP6Yg7-qgLgBLV6j18kVp/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3423</ExhibitCode>
+		<ClassId>AT13D432</ClassId>
+		<ClassNo>23</ClassNo>
+		<Surname>水野</Surname>
+		<FirstName>人央</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>the Battle</Title>
+		<Thumbnail>https://drive.google.com/file/d/1S1UU4yNb33ZkbH_UGxqMj-QeiqtE2Ya_/view?usp=drive_link</Thumbnail>
+		<Description>近接攻撃と遠距離攻撃のできるキャラクターを操作して敵が次何をしてくるのか、自分は今どんな状況なのかを理解し、敵を倒すためにはどのような行動をするべきなのか判断し読み合いを行うゲーム</Description>
+		<Video>https://drive.google.com/file/d/1VRZSRQgyFB3nBD4IrK2JyxZC8k1oefZf/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1e-sKC6SJDolyZqT_tB7MAMfFpbEwkzqF?usp=drive_link</GDriveURL>
+		<AppealPoint>駆け引きを楽しむ戦闘システムをコンセプトに多様な武器が必要だと考えました。
+まず多様な武器を扱うために再利用できる設計にすることで武器の取得、使用の処理が簡潔になり効率よく制作できると考えコンポーネント化しました。
+武器ごとに特徴を出すために、ダメージ量、クールタイム、切り替え時間をそれぞれ設定できるようにし、保存する機能を作成しました。
+これからフィールドに武器をランダムに生成して取得できるようにしようと思います。
+なぜかというと、プレイしていると多様な武器を扱えるといっても数に限りがあることで選択の幅が少ないと感じたためです。
+これにより、自分の戦闘スタイルに合わせてどの武器を取得するかを考えることができ、遊びの幅を増やすことができます。</AppealPoint>
+		<Profile>私の強みは、自分の力でできることを最大までやることです。
+個人制作やチーム制作でまずは自分の持っている力で取り組み行き詰った時に何か良い方法を自分で調べそれでも対処できなかった時に友達や先生に聞くということを心掛けています。こうすることで今自分がどのような技術と知識を確認することができ、調べるときや聞くときに目的や自分が行ったことを明確にすることができます。ただ、この方法を心掛けると行き詰ったときに本当に行き詰っているのか曖昧になってしまい聞くことに移すことができないことがあることです。そこで、行き詰ったと思う条件を自分なりに立てることで判断することができます。
+このことから私の強みは自分の力でできることを最大までやることであると考えます。この経験をもとに自分の技術と知識を理解しながら自分の知らない技術と知識について知り、自分の力にしていこうと思います。</Profile>
+		<Image1>https://drive.google.com/file/d/1_CVy2jR943hpEdWinAHLCc7DGVD7wTxb/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/10bFEacnf4lAJI4knRExKPS0-2Bu3KocF/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1HgWz30kPAzVclf16cDy2nFBC_np6cF_3/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1JYcuWNtJq2aoptCaWZbooq8CZjzwywPj/view?usp=drive_link</Image4>
 	</ProjectDetails>
 </Project>

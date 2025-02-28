@@ -156,4 +156,61 @@ JSON形式での編集とバイナリ形式での運用を切り替えられる�
 		<Image3>https://drive.google.com/file/d/19fZXGsZfgL0iK0tYV_kvvRICiOgID0_e/view?usp=drive_link</Image3>
 		<Image4>https://drive.google.com/file/d/1dtGNCbirYzrWVCC5BiLw6PDIgbkRPXiY/view?usp=drive_link</Image4>
 	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3317</ExhibitCode>
+		<ClassId>AT13C432</ClassId>
+		<ClassNo>17</ClassNo>
+		<Surname>藤井</Surname>
+		<FirstName>聡</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>sfNetWork</Title>
+		<Thumbnail>https://drive.google.com/file/d/10iP2jmA1ZQVwxV4B9u0UTLVKsdBlDuYK/view?usp=drive_link</Thumbnail>
+		<Description>ネットワーク通信に特化したライブラリを作成しました。UnityのPhotonを参考に、PhotonViewとRPC(RemoteProcedureCall)を実装しました。ネットワーク通信の仕組みだけではなく、処理負荷とメモリ使用量を抑えたマルチスレッド対応フレームワークを作成しました。</Description>
+		<Video>https://drive.google.com/file/d/1DhjHviwI5GwEdsYodccfwnt4lBu3gaNf/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1w0B13H7Yy8yfbYmGM-RqGszgRd5UrVpm?usp=drive_link</GDriveURL>
+		<AppealPoint>使いまわし可能な汎用性の高いライブラリを目標に作成しました。プロジェクトに依存した構造体のデータの受け渡しではなく、文字列のみ送受信することで、一つのプロジェクトだけではなく、使いまわせるような設計にしました。また、文字列にすることでデータのデバッグを行いやすくなっています。独自のサーバーを作成することで、同一LAN内で1対多の通信することが出来る、ホストシステムを作成し、ルームの中の誰かが常にホストとなり、ホストがゲームを進行出来るシステムを作成しました。
+Unityのシステムを参考に扱いやすいフレームワークを作成しました。ComponentのUpdate関数を廃止し、独自のCommandシステムを開発、関数のオーバーヘッドを無くし、マルチスレッドに対応することで、処理軽減をしました。シーン別のリソースレジストリを作ることで、シーン毎にリソースのメモリを配置し、メモリ削減をしました。</AppealPoint>
+		<Profile>こんにちは！藤井聡と申します。
+私の趣味は、ドライブです。
+私の強みは応用力です。一度学んだことを生かして新たな発想を生み出す事で、ゲームの開発工数を削減することが出来ます。
+
+HEW当日は、ソースコード付きフレームワークを配布予定です。今後、皆さんのゲーム制作の手助けになるようなアイデアが多く詰まっていると思います。是非お越しください。</Profile>
+		<Image1>https://drive.google.com/file/d/1tKhHvTu3DEllwJVQqqKYTnL7JFFSKxyp/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1lbQ954vEe09AyG2vnN_dyC9fg9rPIVSa/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1a0Av1JNFTaJnv-t5CTY717xOzP4cArDT/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1MM2Qq6SAFb_P1cRHHBMTNIV88APQtxUg/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3319</ExhibitCode>
+		<ClassId>AT13C432</ClassId>
+		<ClassNo>19</ClassNo>
+		<Surname>前原</Surname>
+		<FirstName>琉也</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>Unityちゃんの弾幕冒険記</Title>
+		<Thumbnail>https://drive.google.com/file/d/1eaKTEtrwfzMoU68-qNVzH5oP2M_7YwNf/view?usp=sharing</Thumbnail>
+		<Description>膨大な弾幕を滑らかに処理するため、当たり判定の効率を徹底追求し、大量のオブジェクトを描画することで迫力ある戦闘を実現した3D弾幕ゲームです。最適化されたシステムにより、無数の弾が飛び交う中でも快適なプレイできるようにいたしました。</Description>
+		<Video>https://drive.google.com/file/d/1WfWakvfWadVHL54C9_-ixNMcA-yE8tw1/view?usp=sharing</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1cyv46Sq-S0bNYoyjSozBzQzNSyNpNoMV?usp=sharing</GDriveURL>
+		<AppealPoint>・安全で信頼性の高い設計
+スマートポインタを積極的に活用し、メモリの所有者を明確に管理することで、コードの安全性を向上させました。これにより、メモリリークやアクセス違反といった問題を未然に防ぎ、安定した動作環境を実現しています。
+
+・パフォーマンス重視の当たり判定システム
+弾幕ゲームの特性上、大量の弾が画面上を飛び交う中で快適なプレイを維持することが課題でした。そのため、当たり判定処理のアルゴリズムを徹底的に最適化し、処理負荷を抑えつつ正確さを保つ設計を採用し、スムーズなゲーム体験を提供できるように工夫しました。
+
+・視覚的なデバッグツール
+デバッグ中の情報を視覚的に分かりやすく表示するようにし、問題箇所の特定が迅速に行えるため、調整や改修のスピードが飛躍的に向上しました。
+
+・開発効率を高める依存関係の最適化
+モジュール間の依存関係を徹底的に整理し、できる限りシンプルで直感的なコード構造を実現しました。これにより、機能の追加や修正も迅速に行えます。将来的な拡張性も考慮し、長期的な開発の負担を軽減する工夫を施しています。</AppealPoint>
+		<Profile>私の強みはリーダーシップです。「神ゲー創造主エボリューション」というコンテストに応募するため、10人チームのリーダーを務めました。受賞には至りませんでしたが、ゲームをより良く、より面白くするために、チーム全員で意見を交換しながら開発を進めました。特に、リーダーとしてメンバーの意見を引き出し、それぞれができることを見つけて取り組めるよう働きかけました。その結果、短い期間ながらも納得のいくゲームを制作ができ、コンテストでは第2次審査を通過することができました。
+
+また、私は常に気になったことをそのままにせず、すぐに調べて理解を深めることを大切にしています。得た知識や経験を蓄積し、次の挑戦や成長につなげられるよう意識して行動しています。
+
+この経験や姿勢を活かし、仕事においても限られた時間の中でより良いものを生み出し、成長していきたいと考えています。どうぞよろしくお願いいたします。</Profile>
+		<Image1>https://drive.google.com/file/d/1qVJQoDFGNOem53rH-9yclN_QL_Lglu0K/view?usp=sharing</Image1>
+		<Image2>https://drive.google.com/file/d/1VK0ZeRqetzUPFDuwn96D_IEu39UvQ2yi/view?usp=sharing</Image2>
+		<Image3>https://drive.google.com/file/d/1WUAAelYJVAGP5m-yRcOLQzuQQhnKfD-6/view?usp=sharing</Image3>
+		<Image4>https://drive.google.com/file/d/13FwPvIe_AQ9wlDV9AvTIy2hJm6v2195C/view?usp=sharing</Image4>
+	</ProjectDetails>
 </Project>
