@@ -65,16 +65,17 @@ function RetrieveFromXML(xmlList, xmlDetails) {
     document.getElementById('class-crumb').innerHTML = classSegment + "出展者一覧";
 
     // Extract data from the XML｜XMLファイルからデータを抽出
+    const studentList = xmlList.getElementsByTagName('StudentInfo');
     const exhibitschedule = xmlList.getElementsByTagName('ExhibitSchedule')[0].textContent;
     document.getElementById('exhibit-sched').innerHTML = exhibitschedule;
-
+    
     const projectArray = xmlDetails.getElementsByTagName('ProjectDetails');
-
+    
     let found = false;
     // Iterate through each <ProjectDetails> element using a for loop｜forループを使用して、各<ProjectDetails>要素を繰り返し処理
     for (let i = 0; i < projectArray.length && !found; i++) {
         let studentdata = projectArray[i];
-
+        
         // Student Info 学生情報
         let exhibitcode = studentdata.getElementsByTagName('ExhibitCode')[0].textContent;
         let classid = studentdata.getElementsByTagName('ClassId')[0].textContent;
@@ -86,6 +87,8 @@ function RetrieveFromXML(xmlList, xmlDetails) {
             let surname = studentdata.getElementsByTagName('Surname')[0].textContent;
             let firstname = studentdata.getElementsByTagName('FirstName')[0].textContent;
             let location = studentdata.getElementsByTagName('Location')[0].textContent;
+            let machinename = studentList[classno - 1].getElementsByTagName('MachineName')[0].textContent;
+            console.log('Exhibiting at Machine:', machinename);
             // let surnamepho = student.getElementsByTagName('SurnamePhonetic')[0].textContent;
             // let firstnamepho = student.getElementsByTagName('FirstNamePhonetic')[0].textContent;
 
@@ -111,7 +114,7 @@ function RetrieveFromXML(xmlList, xmlDetails) {
             document.getElementById('class-crumb').innerHTML = shortClassId + "出展者一覧";
             document.getElementById('student-crumb').innerHTML = exhibitcode;
             document.getElementById('exhibit-code').innerHTML = exhibitcode;
-            document.getElementById('exhibit-location').innerHTML = location;
+            document.getElementById('exhibit-location').innerHTML = location + "　" + machinename;
             document.getElementById('student-name').innerHTML = surname + ' ' + firstname;
             document.getElementById('proj-title').innerHTML = projtitle;
             document.getElementById('proj-description').innerHTML = `<pre style="white-space: pre-wrap;">` + projdesc + `</pre>`;

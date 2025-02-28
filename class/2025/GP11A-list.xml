@@ -10,6 +10,7 @@
 		<SurnamePhonetic>ｲﾅﾊﾞ</SurnamePhonetic>
 		<FirstNamePhonetic>ｼｭﾝｽｹ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WGCG1_012</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1002</ExhibitCode>
@@ -20,6 +21,7 @@
 		<SurnamePhonetic>ｲﾏﾆｼ</SurnamePhonetic>
 		<FirstNamePhonetic>ﾂﾖｼ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WGCG1_010</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1003</ExhibitCode>
@@ -30,6 +32,7 @@
 		<SurnamePhonetic>ｲﾏﾆｼ</SurnamePhonetic>
 		<FirstNamePhonetic>ﾕｳｽｹ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WGCG1_008</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1004</ExhibitCode>
@@ -40,6 +43,7 @@
 		<SurnamePhonetic>ｵｶﾑﾗ</SurnamePhonetic>
 		<FirstNamePhonetic>ｼｭﾘ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WGCG1_014</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1005</ExhibitCode>
@@ -50,6 +54,7 @@
 		<SurnamePhonetic>ｵｸﾞﾗ</SurnamePhonetic>
 		<FirstNamePhonetic>ｱﾂｷ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WGCG1_016</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1006</ExhibitCode>
@@ -60,6 +65,7 @@
 		<SurnamePhonetic>ｵｻﾞﾜ</SurnamePhonetic>
 		<FirstNamePhonetic>ﾕｳｲﾁ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WGCG1_018</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1007</ExhibitCode>
@@ -70,6 +76,7 @@
 		<SurnamePhonetic>ｶﾜﾅﾍﾞ</SurnamePhonetic>
 		<FirstNamePhonetic>ﾕｳﾏ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WGCG1_024</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1008</ExhibitCode>
@@ -80,6 +87,7 @@
 		<SurnamePhonetic>ｸﾛﾀﾞ</SurnamePhonetic>
 		<FirstNamePhonetic>ｼﾝﾀﾛｳ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WGCG1_022</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1009</ExhibitCode>
@@ -90,6 +98,7 @@
 		<SurnamePhonetic>ｹｲﾉ</SurnamePhonetic>
 		<FirstNamePhonetic>ｼｮｳﾏ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WGCG1_020</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1010</ExhibitCode>
@@ -100,6 +109,7 @@
 		<SurnamePhonetic>ｺｳ</SurnamePhonetic>
 		<FirstNamePhonetic>ﾁｼｭｴﾝ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WGCG1_026</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1011</ExhibitCode>
@@ -110,6 +120,7 @@
 		<SurnamePhonetic>ｺﾊｼ</SurnamePhonetic>
 		<FirstNamePhonetic>ｶｲﾄ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WGCG1_028</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1012</ExhibitCode>
@@ -120,6 +131,7 @@
 		<SurnamePhonetic>ｻｶﾓﾄ</SurnamePhonetic>
 		<FirstNamePhonetic>ｱﾂﾔ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WGCG1_030</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1013</ExhibitCode>
@@ -130,6 +142,7 @@
 		<SurnamePhonetic>ｻﾄｳ</SurnamePhonetic>
 		<FirstNamePhonetic>ｿｳｷ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WGCG1_036</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1014</ExhibitCode>
@@ -140,6 +153,7 @@
 		<SurnamePhonetic>ｼｭｳ</SurnamePhonetic>
 		<FirstNamePhonetic>ｶﾞｲ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WGCG1_034</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1015</ExhibitCode>
@@ -150,6 +164,7 @@
 		<SurnamePhonetic>ｽｷﾞｴ</SurnamePhonetic>
 		<FirstNamePhonetic>ﾄﾓﾔ</FirstNamePhonetic>
 		<Status>0</Status>
+		<MachineName>退学</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1016</ExhibitCode>
@@ -160,6 +175,7 @@
 		<SurnamePhonetic>ｽｽﾞｷ</SurnamePhonetic>
 		<FirstNamePhonetic>ｲｯｼﾝ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WGCG1_032</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1017</ExhibitCode>
@@ -170,6 +186,7 @@
 		<SurnamePhonetic>ｾｷ</SurnamePhonetic>
 		<FirstNamePhonetic>ﾀﾞｲｽｹ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WGCG1_038</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1018</ExhibitCode>
@@ -180,6 +197,7 @@
 		<SurnamePhonetic>ﾀﾅｶ</SurnamePhonetic>
 		<FirstNamePhonetic>ﾋﾛﾄ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WGCG1_040</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1019</ExhibitCode>
@@ -190,6 +208,7 @@
 		<SurnamePhonetic>ﾀﾅｶ</SurnamePhonetic>
 		<FirstNamePhonetic>ﾘｸ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WGCG1_042</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1020</ExhibitCode>
@@ -200,6 +219,7 @@
 		<SurnamePhonetic>ﾁｮｳ</SurnamePhonetic>
 		<FirstNamePhonetic>ｼｷﾞｮｸ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WSWI1_006</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1021</ExhibitCode>
@@ -210,6 +230,7 @@
 		<SurnamePhonetic>ﾂｼﾞ</SurnamePhonetic>
 		<FirstNamePhonetic>ｷﾐﾋﾛ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WSWI1_004</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1022</ExhibitCode>
@@ -220,6 +241,7 @@
 		<SurnamePhonetic>ﾄﾞﾝ</SurnamePhonetic>
 		<FirstNamePhonetic>ｾﾞﾕ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WSWI1_002</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1023</ExhibitCode>
@@ -230,6 +252,7 @@
 		<SurnamePhonetic>ﾅｶｶﾞﾜ</SurnamePhonetic>
 		<FirstNamePhonetic>ﾖｼｷ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WSWI1_008</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1024</ExhibitCode>
@@ -240,6 +263,7 @@
 		<SurnamePhonetic>ﾅｶﾏｺﾞｴ</SurnamePhonetic>
 		<FirstNamePhonetic>ｶﾉﾝ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WSWI1_010</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1025</ExhibitCode>
@@ -250,6 +274,7 @@
 		<SurnamePhonetic>ﾉﾑﾗ</SurnamePhonetic>
 		<FirstNamePhonetic>ﾀｸﾔ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WSWI1_012</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1026</ExhibitCode>
@@ -260,6 +285,7 @@
 		<SurnamePhonetic>ﾊﾙﾔﾏ</SurnamePhonetic>
 		<FirstNamePhonetic>ｼｮｳ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WSWI1_014</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1027</ExhibitCode>
@@ -270,6 +296,7 @@
 		<SurnamePhonetic>ﾋﾗｲ</SurnamePhonetic>
 		<FirstNamePhonetic>ﾊﾔﾄ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WSWI1_022</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1028</ExhibitCode>
@@ -280,6 +307,7 @@
 		<SurnamePhonetic>ﾓﾘ</SurnamePhonetic>
 		<FirstNamePhonetic>ﾊﾙﾋｺ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WSWI1_020</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1029</ExhibitCode>
@@ -290,6 +318,7 @@
 		<SurnamePhonetic>ﾔﾏﾓﾄ</SurnamePhonetic>
 		<FirstNamePhonetic>ｶｲﾘ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WSWI1_018</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1030</ExhibitCode>
@@ -300,6 +329,7 @@
 		<SurnamePhonetic>ﾖｷﾞ</SurnamePhonetic>
 		<FirstNamePhonetic>ｺｳﾅ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WSWI1_016</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1031</ExhibitCode>
@@ -310,6 +340,7 @@
 		<SurnamePhonetic>ﾖｼｵｶ</SurnamePhonetic>
 		<FirstNamePhonetic>ﾕｳｲﾁ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WSWI1_024</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1032</ExhibitCode>
@@ -320,6 +351,7 @@
 		<SurnamePhonetic>ﾘ</SurnamePhonetic>
 		<FirstNamePhonetic>ｾｲﾘﾝ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WSWI1_026</MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>GP1033</ExhibitCode>
@@ -330,5 +362,6 @@
 		<SurnamePhonetic>ﾘｰ</SurnamePhonetic>
 		<FirstNamePhonetic>ｳｪｲｼｭｴﾝ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName>12WSWI1_028</MachineName>
 	</StudentInfo>
 </Class>
