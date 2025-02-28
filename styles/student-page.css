@@ -2,6 +2,7 @@
 
 .student-info {
   display: flex;
+  height: 105px;
   border-top: solid 1px #0f359d;
   border-bottom: solid 1px #0f359d;
   padding: 16px 32px;
