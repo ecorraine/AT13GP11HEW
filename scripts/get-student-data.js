@@ -61,7 +61,8 @@ window.onload = function () {
 };
 
 function RetrieveFromXML(xmlList, xmlDetails) {
-    document.getElementById('class-crumb').href = "/AT13GP11HEW/class/" + classSegment + ".html";
+    document.getElementById('class-crumb').href = "/AT13GP11HEW/class/" + classSegment.toLowerCase() + ".html";
+    console.log(classSegment.toLowerCase());
     document.getElementById('class-crumb').innerHTML = classSegment + "出展者一覧";
 
     // Extract data from the XML｜XMLファイルからデータを抽出
@@ -105,7 +106,7 @@ function RetrieveFromXML(xmlList, xmlDetails) {
             */
 
             // Replace the result on the page｜ページに結果を表示
-            document.getElementById('class-crumb').href = "/AT13GP11HEW/class/" + shortClassId + ".html";
+            document.getElementById('class-crumb').href = "/AT13GP11HEW/class/" + shortClassId.toLowerCase() + ".html";
             document.getElementById('class-crumb').innerHTML = shortClassId + "出展者一覧";
             document.getElementById('student-crumb').innerHTML = exhibitcode;
             document.getElementById('exhibit-code').innerHTML = exhibitcode;
