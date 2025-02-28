@@ -1,10 +1,8 @@
 @charset "UTF-8";
 
 .student-info {
-  height: 105px;
   display: flex;
-  align-items: stretch;
-  justify-content: flex-start;
+  height: 105px;
   border-top: solid 1px #0f359d;
   border-bottom: solid 1px #0f359d;
   padding: 16px 32px;
@@ -119,13 +117,10 @@
 
 @media screen and (max-width: 1600px) {
   .student-info {
-    display: flex;
-  }
-}
-
-@media screen and (max-width: 1024px) {
-  .student-info {
-    display: flex;
+    height: 105px;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: flex-start;
   }
 }
 
@@ -156,23 +151,9 @@
 }
 
 @media screen and (max-width: 480px) {
-  .student-info {
-    height: auto;
-    flex-direction: column;
-    align-items: start;
-  }
-
-  .student-info > span {
-    margin-bottom: 24px;
-  }
-
   .exhibit-details {
     position: relative;
     right: 0;
     margin-top: 24px;
-  }
-
-  .redirect-btn {
-    width: 80%;
   }
 }
