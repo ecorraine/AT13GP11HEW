@@ -19,4 +19,44 @@
 		<Image3>https://drive.google.com/file/d/1NUqCULwrYy4xrQIJVJ_kSAuvn8ElA5EU/view?usp=sharing</Image3>
 		<Image4>https://drive.google.com/file/d/1uZQS2BWA-ycDi_RXfnrrbxJxZWCuFwdh/view?usp=sharing</Image4>
 	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3227</ExhibitCode>
+		<ClassId>AT13B430</ClassId>
+		<ClassNo>27</ClassNo>
+		<Surname>吉村</Surname>
+		<FirstName>括哉</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>Flight Battle</Title>
+		<Thumbnail>https://drive.google.com/file/d/19H4zZETTgCbKlB1nul3EASds7lm7eZqx/view?usp=drive_link</Thumbnail>
+		<Description>フライトシューティングゲームを作成しました。また、白熱できる空中戦ができるゲームにするため、狙った敵をターゲットできるターゲット機能や、やりごたえを出すための敵を実装いたしました。</Description>
+		<Video>https://drive.google.com/file/d/10wrM2_MCyQmAvkYnxUyMRbHcZLTKoqkw/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1iTm9kGVuQfFaWBhuAqkaY-n3v4zAufmy?usp=drive_link</GDriveURL>
+		<AppealPoint>白熱できる空中戦をできるゲームを軸に制作しました。それを表現するために、プレイヤーが狙った敵をターゲットできる機能や、やりごたえを出すために複数の敵の実装、プレイヤーや敵のパラメータを実際に確認しながら調整できるデバッグ機能や、その他UI、エフェクト、ミニマップを実装しました。ターゲット機能では、プレイヤーが狙いたい敵(画面中央に近い敵)を優先的にターゲットするために、敵それぞれターゲット優先度をつけ、この優先度が高いものをロックオンするようにしています。優先度は、ロックオン可能距離内か、メインカメラに写っているか、カメラ内に作成した視錐台に入っているかという条件により変化します。しかし、これは画面中央付近の敵をターゲットするだけであり、画面中央に一番近い敵をターゲットするわけではありません。そのため、先ほどの条件を達成している敵を対象に、メインカメラから画面中央へのベクトルと、メインカメラからそれぞれの敵へのベクトルの内積をとり、その値でソートすることで、画面中央に近い敵をロックオンするという機能を作成しました。敵の実装では、現在5種類の敵を実装しており、指定ポイントを移動する敵、地上からプレイヤーを攻撃する敵、空を飛びながらプレイヤーを攻撃する敵、取り巻きとそれを召喚するボスを実際しました。また、実際に販売されているゲームを参考にこのゲームに実装していくなども行いました。</AppealPoint>
+		<Profile>話し合えることが私の強みです。チームでゲーム制作の際、プログラムのリーダーを任されました。その中で苦労したことは、プランナーとの話し合いです。始まったころは、プランナーからの要望をできるだけ受け入れていたところ、実装に時間がかかりすぎることや、プランナーの考えたと売りの仕様になっていないことがありました。その経験から、実装したいイベントや変更してほしい仕様などの意見が出る中、それが可能かどうか、必要かどうかを話し合って決めました。これにより、どんな意図があってその意見を出したのかまで話し合うことができ、プランナーとプログラマーとの間で解釈違いが起きないような開発ができたと思います。この経験から、話し合いによってチーム開発を円滑に進めることができると思います。どうぞよろしくお願いします。</Profile>
+		<Image1>https://drive.google.com/file/d/11Ua76cn-4Orjk54kjTgLdkSCnNxYggy4/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1zF2K-oX8RJgrsVgSoIr5X4RaFPvTa4zl/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1rloFjFi1DMkzxinREvqW1O3xAoEaNELv/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/17QiLhAoUaikNJsbrBE8JOLcek0sN3J20/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3209</ExhibitCode>
+		<ClassId>AT13B430</ClassId>
+		<ClassNo>9</ClassNo>
+		<Surname>小林</Surname>
+		<FirstName>勇翔</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>BATTLEFORGE</Title>
+		<Thumbnail>https://drive.google.com/file/d/1bmU09VX_bd7I-4S6SB6x31C3FFrzs5oO/view?usp=drive_link</Thumbnail>
+		<Description>本作は「ド突き合いを制す」をコンセプトにした、敵にやられる前に、敵を倒すことが目標。回避行動は存在せず、代わりに「ガード」が重要な要素となります。特に、敵の攻撃をギリギリまで引き付けてタイミングよくガードを決めると「ジャストガード」が発動。これにより敵がスロー状態になり、一気に攻撃を叩き込むチャンスが生まれます。効率よく敵を倒す爽快感を楽しめます。</Description>
+		<Video>https://drive.google.com/file/d/1-fwFpIIrzxS8TYsW95Fhjx7nv5mqmz0L/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/u/0/folders/13wimLJUnuK9M1ybdx3ZHINBRUF4ep0nU</GDriveURL>
+		<AppealPoint>コンセプトは“ド突き合いを制す”です。これを実現するために2つの事にこだわりました。一つ目はIKです。狙った目標地点に向かって違和感なく攻撃できるようにする為計算が軽くリアルタイムに向いているFABRIKを使いました。IKを使用せず運用した結果、ロード時間が増えたり、メモリ使用量が増えたりしました。そこで、一つのアニメーションで複数の表現を実現することによって解決しました。苦労したところは人体ではありえない角度に四肢が曲がらないようにするために、各ボーンに最大角度と最小角度を付け角度制限を実装しました。他には上方向ベクトルがしっかりしていないと人体上向いてはいけない方向を向くのでヒップから親子関係を守って上方向ベクトルを作ることにっよて捻じれなどが起きる頻度を減少させました。二つ目はアニメーションカーブです。フリー素材のアニメーションだと全てが等速なので平坦な印象を受けました。自分でアニメーションカーブを調整できるようにすることによってメリハリのあるアニメーションを実現しました。苦労したとこは最初はジャストガード成立時にアニメーションをスローにする場合にアニメーションがカクカクになっていたのですが、アニメーションカーブを変更せずに総フレーム数を増やすことで滑らかなアニメーションを実現しました。</AppealPoint>
+		<Profile>私の強みは計画力です。
+私は、作業の優先順位を明確にし、必要に応じて取捨選択を行うことを得意としています。二年生のチーム制作プロジェクトでは、サブリーダー兼メインプログラマーを務めました。そのプロジェクトで、ステージギミックやキャラクターの挙動などの仕様変更が多く、その際、現在の残っているタスクとの優先度を考え、各メンバーへのタスク割り振りを再編成しました。また、進捗管理にも注力し、プログラムの締め切りをチームで共有し、各メンバーの作業状況を確認しました。途中で当たり判定のめり込み補正やプレイヤーの能力の決定方法や出し方などの制作に遅延が発生した際は、その遅延しているメンバーの残りタスクを別のメンバーが代わりに行うなど、協力し合いながらプロジェクトを進めました。その結果、納期までに要件を満たしたゲームを完成させることができました。
+私がゲーム業界を志したのは、子供の頃にプレイしたポケモンがきっかけです。すぐに他の事に目移りする子供だったのですが、食事なども忘れるほどにのめり込み、クリア時はとても嬉しかったのを覚えています。そして、自分でも人が時間を忘れるほどに面白い作品を制作したいと考えました。ゲームプログラマーを志したのは、様々な素材を合わせて自分が考えたコードで、それらを組み合わせゲームを制作するのが楽しいからです。</Profile>
+		<Image1>https://drive.google.com/file/d/1fnKU7aEqikiAoKk7vx5bg9AhTv1MDhow/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1GNdUA5hAsRDLADo9GJmsKE8fnGy8Z7t5/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1vGjyJUO5vI2JzkSJer6alitInRSuO5Vw/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/16mdLeJoX64omCYbVgf-_Qw1H_z-Qd4IT/view?usp=drive_link</Image4>
+	</ProjectDetails>
 </Project>

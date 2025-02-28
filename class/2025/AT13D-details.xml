@@ -1,22 +1,81 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Project>
 	<ProjectDetails>
-		<ExhibitCode>AT3400</ExhibitCode>
+		<ExhibitCode>AT3404</ExhibitCode>
 		<ClassId>AT13D432</ClassId>
-		<ClassNo>0</ClassNo>
-		<Surname>辰巳</Surname>
-		<FirstName>恵生</FirstName>
-		<Location>11F教務室</Location>
-		<Title>HEW2025 AT13 提出フォーム</Title>
-		<Thumbnail>https://drive.google.com/file/d/1jj5Cxb40w6kN62GHhB_L_7r_5lu_QlRA/view?usp=drive_link</Thumbnail>
-		<Description>HEW用の提出フォーム</Description>
-		<Video>https://drive.google.com/file/d/199xXf98C_POnWwgWtmUYexND5WNGBJVy/view?usp=drive_link</Video>
-		<GDriveURL>https://drive.google.com/drive/folders/1kLEZikDQqIUFZgBU54MDJxrVyHzHbb0z?usp=drive_link</GDriveURL>
-		<AppealPoint>就プレ参加者は使いまわせる</AppealPoint>
-		<Profile>字数制限を無視できます</Profile>
-		<Image1>https://drive.google.com/file/d/10KHDiJbSd2DhegHJr53S7w61K4zirNrH/view?usp=drive_link</Image1>
-		<Image2>https://drive.google.com/file/d/10KHDiJbSd2DhegHJr53S7w61K4zirNrH/view?usp=drive_link</Image2>
-		<Image3>https://drive.google.com/file/d/10KHDiJbSd2DhegHJr53S7w61K4zirNrH/view?usp=drive_link</Image3>
-		<Image4>https://drive.google.com/file/d/10KHDiJbSd2DhegHJr53S7w61K4zirNrH/view?usp=drive_link</Image4>
+		<ClassNo>04</ClassNo>
+		<Surname>岩田</Surname>
+		<FirstName>一輝</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>カットシーン制作を効率化するTLツール</Title>
+		<Thumbnail>https://drive.google.com/file/d/1mezifTnJ4NiqlBpbpxyCBHBLZBa20hNL/view?usp=drive_link</Thumbnail>
+		<Description>カットシーンはプレイヤーの没入感を高め、物語やキャラクターの魅力をより引き立てるために欠かせない要素だと考えています。カットシーンを通じて主人公が見ている視界や感情、ゲームとしての世界観をプレイヤーと共有できるからです。そんなカットシーンを効率よく制作するためのタイムラインツール作品になります。</Description>
+		<Video>https://drive.google.com/file/d/1j-2racyMdMCrnmEoExiqfQXaFqxATci7/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1y9tHQPbZHlHyN-nf9uzMGSYjTwWuAXQJ?usp=drive_link</GDriveURL>
+		<AppealPoint>本タイムラインツールは、カットシーン制作を効率化し、ゲームの没入感を高める演出を実現するために開発しました。限られた時間で試行回数を増やし、魅力的なカットシーンを効率的に作成することを目指しています。
+
+効率化を実現するためにクラス設計の段階から熟考し、
+・ホットリロード機能
+・セーブ、ロード機能
+・フリーカメラ機能
+などを実装いたしました。
+
+また、表現の幅を増やす目的として、
+・アニメーションブレンドの詳細設定
+・アニメーションカーブを用いた補間
+・カメラ振動機能
+等も実装いたしました。
+
+最後には、「よりシームレスな体験を実現するにはどうすればよいか？」、「大規模な開発を行う事を想定した場合の本ツールの問題点」について説明しています。
+
+ぜひ詳細資料やプレゼンテーションをご確認ください。</AppealPoint>
+		<Profile>私は「新しいことを知る楽しさにおいては誰にも負けない」と自負しており、常に自分の成長を追求しています。インターンシップでは、未経験だったローカルサーバーやネットワークの仕組みを一から学び、アプリの外部連携を検証しました。全ての作業が期間内に終わったわけではないのですが、引き継ぎ資料を作成し、分かりやすく纏まっていると評価されました。この経験を通じて、知らないことを学ぶ楽しさを実感し、それを形にする力をさらに高めました。
+
+私は、人の心を動かせるようなゲームを作りたいと考え、この業界を志望いたしました。プログラマとして、ゲームの面白さや魅力を最大限に引き上げ、プレイヤーに素晴らしい体験を提供したいと考えています。特に、私は演出面での実装を強化することに魅力を感じています。0から1を作り出すことよりも、既存の面白さをさらに深め、より魅力的にすることにプログラマとしての楽しさを見出しています。
+
+今回の作品では、私はカットシーン制作を補助するタイムラインツールを開発しました。このようなツールを使って、ゲーム体験における迫力や演出面を強化し、プログラマやデザイナーをサポートできるようなシステム作りに挑戦しています。今後も挑戦を重ねながら、ゲームの魅力を引き出すための技術をさらに磨いていきたいと考えています。</Profile>
+		<Image1>https://drive.google.com/file/d/1EXHkDK29Ev4kTtxlwrM5vNUn8ydMGDBn/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1v_3zDubBfs-Ut2dsFLJMF-UEAQ3eJIMk/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1XSDexiX2ZdDed8Kf3DHCb9OXGTGOTkLW/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1f1aRlS8g_plGQjEdCHqwaQoFAac4NVxk/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3422</ExhibitCode>
+		<ClassId>AT13D432</ClassId>
+		<ClassNo>22</ClassNo>
+		<Surname>幕谷</Surname>
+		<FirstName>優次</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>LINKS_ENGINE</Title>
+		<Thumbnail>https://drive.google.com/file/d/1TTQoVYu6ktnjUVUAcqOcOdMl-AnYTfS6/view?usp=drive_link</Thumbnail>
+		<Description>この作品は、高速なモデルデータ読込を行えるように制作したエンジンで、読み込んだモデルデータをバイナリ変換して保存する機能と、同一モデルデータの重複読み込みを防止する機能を提供します。</Description>
+		<Video>https://drive.google.com/file/d/1t0WBAaWgyMetRtpyilj1czJjaAD-srmq/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1Eq-51K2yLPCTc26ijBDDFk7hc5etYvdh?usp=drive_link</GDriveURL>
+		<AppealPoint>この作品の特徴は、データ読み込みの高速化を図った処理が盛り込まれていることです。
+こだわった部分の1つ目は、モデルデータを独自フォーマットへと変換する処理です。
+開発初期の段階では、実行環境で快適に動作するような読込速度ではありませんでした。
+この読込速度を改善するためのアプローチとして、Assimpでインポートしたデータをバイナリデータに変換することで速度を改善できるのではないかと考えました。
+ここで、読み込んだデータをそのまま変換してしまうと、ゲームでは使用しない無駄なデータがあり、また変換処理も冗長なコードになってしまう懸念点があったため、
+Assimp形式データからバイナリデータに変換するための独自のフォーマットを作成し、バイナリデータに変換するための処理の簡略化などを行いました。
+これにより、保存するデータ量を大幅に削減でき、実行環境では自作ライブラリのみでモデルデータの読込が完結するようになりました。
+2つ目としては、メモリ上に同じモデルデータが重複して作成されないように防止する処理にこだわりました。
+従来の実装ではオブジェクト毎にデータの読み込みを行い、同じモデルデータがある場合に何度も読込処理が発生していました。
+この「同一のデータ」を、フライウェイトパターンを利用してユニークなものとして作成し参照するように設計することで、読込処理の回数を削減することができました。</AppealPoint>
+		<Profile>私は「理論を検討して、理解したうえで実装を行う」ことを心がけています。
+
+過去にチームで行ったゲーム制作では、エンジン部分から制作する必要があったため、
+チームメンバーのプログラマーが作成したオブジェクトを管理しやすいようにコンポーネント指向の仕組みを利用しました。
+各オブジェクトのレイヤー分けを行って、更新や描画部分は変更せずにオブジェクトを新規作成できるように設計し、メンバーが機能部分のみに集中して開発できる環境を提供しました。
+
+今回出展させていただいた作品では、データの読込処理の高速化について検討を行いました。
+実行者の環境に依らず高速化を図りたかったので、プログラム依存かつデータの直接的な操作である、データのバイナリ化を実装し、確実な読込処理の高速化を実現することができました。
+
+このように、必要となる機能に対するアプローチを考え、
+それが達成できる理論に対する理解を深めた上で実装していくことが
+目標の達成に近づくための大きな一歩であると考えております。</Profile>
+		<Image1>https://drive.google.com/file/d/1aq7bm4g6sl6Usa7M3eRT3yqNjhyY_C9R/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1LPQa9FJfw1SPPh47hENyQvGP-bPesqXv/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1DKU9CioOpPSfeIP3UBYYqrZVBW44tbC8/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1aUCmEWE2tV3yP6Yg7-qgLgBLV6j18kVp/view?usp=drive_link</Image4>
 	</ProjectDetails>
 </Project>
