@@ -43,6 +43,8 @@
 
 #proj-description {
   font-size: 14px;
+  margin-left: 2%;
+  margin-right: 10%;
 }
 
 .redirect-links {
@@ -110,7 +112,8 @@
 }
 
 .proj-details-content {
-  margin: 0 16px;
+  margin-left: 8px;
+  margin-right: 16px;
   margin-bottom: 32px;
   font-size: 14px;
 }

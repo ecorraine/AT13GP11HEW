@@ -54,6 +54,7 @@
 }
 
 .item-thumbnail {
+    width: 500px;
     max-width: 500px;
     max-height: 313px;
     border-right: 1px solid #b7dcf1;

@@ -10,7 +10,7 @@ const currentFile = file.substring(0, file.lastIndexOf('.'));
 
 // Fetch the XML file when the page is loaded｜ページがロードされた際に実行
 window.onload = function () {
-    console.log(classSegment);
+    console.log("Current Class: " + classSegment);
     // console.log(currentFile);
 
     // Create the promises for fetching and parsing XML files in parallel｜XMLファイルを取得して解析するためのプロミスを並列で作成
@@ -62,7 +62,6 @@ window.onload = function () {
 
 function RetrieveFromXML(xmlList, xmlDetails) {
     document.getElementById('class-crumb').href = "/AT13GP11HEW/class/" + classSegment.toLowerCase() + ".html";
-    console.log(classSegment.toLowerCase());
     document.getElementById('class-crumb').innerHTML = classSegment + "出展者一覧";
 
     // Extract data from the XML｜XMLファイルからデータを抽出
@@ -80,7 +79,9 @@ function RetrieveFromXML(xmlList, xmlDetails) {
         let exhibitcode = studentdata.getElementsByTagName('ExhibitCode')[0].textContent;
         let classid = studentdata.getElementsByTagName('ClassId')[0].textContent;
         let classno = studentdata.getElementsByTagName('ClassNo')[0].textContent;
-        if (classno == currentFile) {
+
+        // check if the classid matches the current class｜classidが現在のクラスと一致するか確認
+        if (classid.substring(0, 5) == classSegment && classno == currentFile) {
             console.log('Exhibit Code:', exhibitcode + ' found.');
             let surname = studentdata.getElementsByTagName('Surname')[0].textContent;
             let firstname = studentdata.getElementsByTagName('FirstName')[0].textContent;
