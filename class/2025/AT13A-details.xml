@@ -1,52 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Project>
 	<ProjectDetails>
-		<ExhibitCode>AT3400</ExhibitCode>
-		<ClassId>AT13D432</ClassId>
-		<ClassNo>0</ClassNo>
-		<Surname>辰巳</Surname>
-		<FirstName>恵生</FirstName>
-		<Location>11F教務室</Location>
-		<Title>HEW2025 AT13 提出フォーム</Title>
-		<Thumbnail>https://drive.google.com/file/d/1jj5Cxb40w6kN62GHhB_L_7r_5lu_QlRA/view?usp=drive_link</Thumbnail>
-		<Description>HEW用の提出フォーム</Description>
-		<Video>https://drive.google.com/file/d/199xXf98C_POnWwgWtmUYexND5WNGBJVy/view?usp=drive_link</Video>
-		<GDriveURL>https://drive.google.com/drive/folders/1kLEZikDQqIUFZgBU54MDJxrVyHzHbb0z?usp=drive_link</GDriveURL>
-		<AppealPoint>就プレ参加者は使いまわせる</AppealPoint>
-		<Profile>字数制限を無視できます</Profile>
-		<Image1>https://drive.google.com/file/d/10KHDiJbSd2DhegHJr53S7w61K4zirNrH/view?usp=drive_link</Image1>
-		<Image2>https://drive.google.com/file/d/10KHDiJbSd2DhegHJr53S7w61K4zirNrH/view?usp=drive_link</Image2>
-		<Image3>https://drive.google.com/file/d/10KHDiJbSd2DhegHJr53S7w61K4zirNrH/view?usp=drive_link</Image3>
-		<Image4>https://drive.google.com/file/d/10KHDiJbSd2DhegHJr53S7w61K4zirNrH/view?usp=drive_link</Image4>
-	</ProjectDetails>
-	<ProjectDetails>
-		<ExhibitCode>AT3326</ExhibitCode>
-		<ClassId>AT13C432</ClassId>
-		<ClassNo>26</ClassNo>
-		<Surname>山口</Surname>
-		<FirstName>雄大</FirstName>
-		<Location>12Fマシンルーム</Location>
-		<Title>Finccer</Title>
-		<Thumbnail>https://drive.google.com/file/d/1YO7pUNPaszjGkHhz19L-xlaU7EsxMmeB/view?usp=drive_link</Thumbnail>
-		<Description>「一切合切を右手に込めろ」というのをコンセプトに全ての操作を右手に集約したアクションゲーム。マウスの操作で画面上でなぞるようにプレイヤーを動かすことで進行していき、カメラ操作は自動で行われその他操作も全て右手で行います。</Description>
-		<Video>https://drive.google.com/file/d/1rpWdSfGNiL7S-d5weBoJC_B41c0NshSI/view?usp=drive_link</Video>
-		<GDriveURL>https://drive.google.com/drive/folders/1Yr6WpDBHIZD6XtkLqdfMnYjtxSY0GwK8?usp=drive_link</GDriveURL>
-		<AppealPoint>このゲームの特徴は、プレイアビリティを徹底的に追求した操作性にあります。
-初期段階ではキーボード操作を想定して開発を進めていましたが、実際に物体を動かしている感覚や、ボールを転がす楽しさを体験していただきたいという思いから、右手のみで操作できる設計をコンセプトに制作しました。その中でも特に工夫したのがカメラ操作です。右手だけでの操作ではカメラ操作が難しくなるため、プレイヤーの入力に基づいて向きを補正し、酔いを最小限に抑えつつ自然に追従するカメラ挙動を実現しています。</AppealPoint>
-		<Profile>初めまして、山口雄大（やまぐち ゆうだい）と申します。
-趣味は模型製作や料理で、前職の和菓子職人としての経験からお菓子作りも得意です。また、ゲームが大好きで、特にRPGジャンルを好んでいます。
-
-私の強みは、どのような状況にも挑戦心を持って取り組めることです。この姿勢があれば、困難な課題にも柔軟に対応し、乗り越えることができると信じています。過去のチーム制作では、10名のメンバーの中でプログラマーが3名と限られ、実力差や短い制作期間が課題となりました。そこで、5名のプランナーを制作に参加させる方法を考案し、外部ファイルからステージを構築できる仕組みを初めて挑戦、開発しました。この取り組みの結果、描写面の完成度が評価され、学内コンテストでビジュアル賞を受賞しました。
-
-今回の就職作品では、「右手のみでプレイできるゲーム」というコンセプトに挑戦しました。この作品を通じて、ゲームプレイにおける新しい体験を提供することを目指し、実際に物を転がす感覚を楽しめる操作性を追求しました。右手だけでの操作を可能にするため、入力に基づいてカメラが自然に追従する仕組みを設計し、快適なプレイ体験を実現しました。
-
-挑戦心を持って目の前の課題に全力で取り組む姿勢を大切にしながら、より一層成長できるよう努めてまいります。何卒よろしくお願いいたします。</Profile>
-		<Image1>https://drive.google.com/file/d/1LJY-OVdODbWEdcNM5aReGpAE6g8rdZKo/view?usp=drive_link</Image1>
-		<Image2>https://drive.google.com/file/d/1I0FxRdJeM83fucdcwjY7h9lqz4jL0mTI/view?usp=drive_link</Image2>
-		<Image3>https://drive.google.com/file/d/1f66bK2mFaVXV_R8mKbyWaoiUU36Duyel/view?usp=drive_link</Image3>
-		<Image4>https://drive.google.com/file/d/1dqyMSO_bPwKpYxtpvC46SgLC9AAFXx1I/view?usp=drive_link</Image4>
-	</ProjectDetails>
-	<ProjectDetails>
 		<ExhibitCode>AT3107</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>7</ClassNo>
@@ -116,38 +70,6 @@
 		<Image4>https://drive.google.com/file/d/1lhCWW4b68pUglwt_sdJrWOYhNageByCI/view?usp=drive_link</Image4>
 	</ProjectDetails>
 	<ProjectDetails>
-		<ExhibitCode>AT3316</ExhibitCode>
-		<ClassId>AT13C432</ClassId>
-		<ClassNo>16</ClassNo>
-		<Surname>平岡</Surname>
-		<FirstName>大輝</FirstName>
-		<Location>12Fマシンルーム</Location>
-		<Title>Resonance Engine</Title>
-		<Thumbnail>https://drive.google.com/file/d/1FJktGFVQiGiaGjPU8h83uFUGDAX-R3pD/view?usp=drive_link</Thumbnail>
-		<Description>リソース管理に重点を置いたゲームエンジンを作成しました。リソースの内容からハッシュ値を生成し、同じリソースが2度生成されないようにリソース管理クラスを作成したり、リソースファイルを独自ファイルに変換し、リソースの読み込み速度の上昇とファイル容量を削減をしたりしています。</Description>
-		<Video>https://drive.google.com/file/d/1Wufud8MLTLvJ9WQ7UEiTzvfxULSFHEBV/view?usp=drive_link</Video>
-		<GDriveURL>https://drive.google.com/drive/folders/164s0LzbczxNntov9RZFvqyaVDLFTl09c?usp=drive_link</GDriveURL>
-		<AppealPoint>こだわった点はリソース管理と、リソースの読み込み速度です。
-リソース管理では、リソースの内容からハッシュ値を生成し、それをキー値にリソース管理クラスがリソースを一元管理します。
-キー値が被った場合はリソースを再利用することで、同じリソースが2度生成されないようにしています。
-4バイトのハッシュ値を使用することでリソースの検索コストを下げるような工夫をしています。
-また、リソースの読み込み速度を早くするためにリソースファイルの必要なデータのみを抜き出し独自ファイルに変換しています。
-独自ファイルに変換することでリソースファイルのサイズを削減することができます。
-エディタ環境でリソースの識別子がハッシュ値のみだと視覚的に分かりずらいので、エディタ環境でのみリソースファイル管理クラスを使用し、
-リソースファイル名とリソースを紐づけることで画面上で、どのリソースを使用しているのか分かりやすくしています。</AppealPoint>
-		<Profile>諦めない心が私の強みです。
-高校生の時、プロゲーマーになりたくてEスポーツ専門学校に通っていました。
-起きているほとんどの時間をゲームに費やしましたが大会に出場しても良い結果をだせずにいました。ゲームをプレーするのが辛くなり、もう諦めてしまおうかとも思いました。
-それでも自分はゲームが好きだし、プロゲーマーになりたいという強い意志がモチベーションを高めました。
-その結果ステージ０という高校生大会で５０組中７位という成績を収めることができました。
-仕事において、思い通り行かず挫けそうになっても、この経験を活かして諦めずに問題を解決していけると思います。
-どうぞよろしくお願いいたします。</Profile>
-		<Image1>https://drive.google.com/file/d/1Sp4RqaOxgZiIrRm5wcU8qq5e5NUcr9PI/view?usp=drive_link</Image1>
-		<Image2>https://drive.google.com/file/d/1NJgDYVmw0cGD0bm8biiLlD2kONB5yH3u/view?usp=drive_link</Image2>
-		<Image3>https://drive.google.com/file/d/1UwNS72IiIswCEkXH1A5fjPfU6ZvqSpzH/view?usp=drive_link</Image3>
-		<Image4>https://drive.google.com/file/d/1HgUC9V10vOjPVDBtjDVK0E_smg9Zo1R0/view?usp=drive_link</Image4>
-	</ProjectDetails>
-	<ProjectDetails>
 		<ExhibitCode>AT3119</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>19</ClassNo>
@@ -176,76 +98,6 @@
 		<Image2>https://drive.google.com/file/d/1PREKHjISpFl1U3cHCpAJwqcPQ378VLgO/view?usp=sharing</Image2>
 		<Image3>https://drive.google.com/file/d/1xG1s6PwLNbdLdwQBx9BVpRBRFirSGbW9/view?usp=sharing</Image3>
 		<Image4>https://drive.google.com/file/d/1lu17GBdbTn1OD4vWyMvU20M9xYwER4_x/view?usp=sharing</Image4>
-	</ProjectDetails>
-	<ProjectDetails>
-		<ExhibitCode>AT3309</ExhibitCode>
-		<ClassId>AT13C432</ClassId>
-		<ClassNo>9</ClassNo>
-		<Surname>辻里</Surname>
-		<FirstName>健太</FirstName>
-		<Location>12Fマシンルーム</Location>
-		<Title>TsujikenEnjine</Title>
-		<Thumbnail>https://drive.google.com/file/d/1kgq-rMVgauqKoWe-bA-1H6mLaDIAMP-C/view?usp=drive_link</Thumbnail>
-		<Description>現在制作中のゲームエンジンです。「Tsujiken Engine」は、柔軟性と強さを兼ね備えた開発環境を提供し、開発者のアイデアを実現する「剣」となることを目指しています。「Tsuji(辻)」は交差点や道の交わる場所を意味し、ゲーム開発者がアイデアや技術を交わし、集約するプラットフォームとなるエンジンを象徴。「Ken（剣）」に見立て、開発者のクリエイティビティを鋭く切り開く力をイメージ。</Description>
-		<Video>https://drive.google.com/file/d/1BNG4lzfn1dsZl25L2OWLuWKrGp3cnD0c/view?usp=drive_link</Video>
-		<GDriveURL>https://drive.google.com/drive/folders/101pFwT-Ke5psC_PTsyp8F5pNSItp_EVX?usp=drive_link</GDriveURL>
-		<AppealPoint>・柔軟な拡張性
-コンポーネント設計やデバッグ機能のモジュール化で直感的なデバッグが可能に。デバッグ作業を効率化し、開発スピードを向上させます。デバッグUIのリストを動的に管理することで、新しいデバッグ機能を簡単に追加でき、機能ごとにメソッドを分割し、コードの見通しを良くしています。
-
-・効率的なデータ管理
-JSON形式での編集とバイナリ形式での運用を切り替えられるため、開発時の可読性と製品版の性能を最大化。
-
-・豊富なデバッグ機能
-①シーンビュー
-現在のゲームシーンを視覚的に表示し、オブジェクトの配置や状態をリアルタイムで確認。
-②FPSカウンター
-現在のフレームレートを表示し、パフォーマンスのボトルネックを特定。
-③デバッグログ
-実行中のイベントやエラーメッセージを記録・表示し、問題を迅速に特定。
-④ヒエラルキー
-シーン内のオブジェクトの親子関係を視覚的に確認し、選択や操作を容易に。
-⑤インスペクター
-選択したオブジェクトの詳細情報を表示・編集し、プロパティを調整可能。
-⑥カメラコントロール
-シーンビュー内のカメラの位置や向きを操作し、任意の視点から確認可能。
-⑦コンテンツブラウザ
-プロジェクト内のアセットを表示・管理し、インポートや配置を容易に。
-⑧デバッグ入力
-入力デバイスの状態を表示し、入力関連の問題を特定。</AppealPoint>
-		<Profile>私の強みは、チームのモチベーションを高める能力です。
-1年次のゲームアイデアコンテストでは、企画書のデザイン作業が滞り、進行が止まっていました。この状況を打破するため、私は仮の企画書を作成し、チームに提示しました。内容の骨組みやデザインの雰囲気を示した叩き台として作成したものでしたが、メンバーから「産まれて初めて天才を見たかもしれん」「これは熱すぎる！」と予想以上の反応がありました。これをきっかけにメンバー全員が意欲を取り戻し、停滞していた作業がスムーズに進み、完成度の高い企画書を仕上げることができました。
-2年次の学内コンテストでは、プログラマ7人、デザイナー2人というチームでサブリーダーを担当しました。当初、プログラマの多くがコーディングに苦手意識を持っていたため、全員でコードレビューを行い、改善点を共有する場を設けるなど、チームの成長を促しました。さらに、ゲームのメイン要素である「球体関節を動かす」というコンセプトに基づき、関節の完成度を逐一報告したことで、欠席しがちだったメンバーの参加意欲が向上し、積極的な意見交換が生まれるようになりました。
-私はこのように、自ら行動し成果を示すことでチームの士気を高め、目標達成に向けて全員が力を発揮できる環境を作ることを得意としています。これからも、組織においてその力を発揮し、貢献していきたいと考えています。どうぞよろしくお願いいたします。</Profile>
-		<Image1>https://drive.google.com/file/d/11gemQMLPSUCIMnwZNy8tz-9svVA4jNK1/view?usp=drive_link</Image1>
-		<Image2>https://drive.google.com/file/d/1okRrDii96ET-8ndzk1Pp7bqtL5hVLojN/view?usp=drive_link</Image2>
-		<Image3>https://drive.google.com/file/d/1OkZjxDcJedZMA6lBo1FhI4lnP-9dnPj6/view?usp=drive_link</Image3>
-		<Image4>https://drive.google.com/file/d/1kHw2mMU-V6EJTO-1kEVTypSuqdWRg--1/view?usp=drive_link</Image4>
-	</ProjectDetails>
-	<ProjectDetails>
-		<ExhibitCode>AT3327</ExhibitCode>
-		<ClassId>AT13C432</ClassId>
-		<ClassNo>27</ClassNo>
-		<Surname>山本</Surname>
-		<FirstName>悠真</FirstName>
-		<Location>12Fマシンルーム</Location>
-		<Title>Duel</Title>
-		<Thumbnail>https://drive.google.com/file/d/1EeUKAlznkRejrUHqr4F58M2F3YGBGVvl/view?usp=sharing</Thumbnail>
-		<Description>ボスは多様な攻撃を行ってきます。プレイヤーはボスの攻撃を避けることで、回避連鎖数が上昇します。回避連鎖数が上昇すると攻撃力が上がるので、倒される前に回避を駆使して攻撃力を上げてボスを討伐しましょう。</Description>
-		<Video>https://drive.google.com/file/d/1k3siIFTeIoPh8AdY6ZT1r6MvZT9kV23F/view?usp=sharing</Video>
-		<GDriveURL>https://drive.google.com/drive/folders/1m5ZyKZMqoWsaTdHO7kwb276-wMX9XzCf?usp=sharing</GDriveURL>
-		<AppealPoint>私は、プログラマはプランナーから挙げられた案やコンセプトなどを忠実に、かつより良くしていくものであると考えています。
-この為、ボス自身に「余裕と油断の二面性」というコンセプトを設定し制作に取り組みました。
-一例をあげると、コンセプトの「余裕」をピックアップして、「なぜこのボスは余裕を持っているのだろう」という疑問を持ち、そもそも敵は通常では攻撃が効かないキャラだと設定し回避で敵の攻撃を奪うことで攻撃が通り倒せるという攻略方法を作り、実際に作成していきました。
-こういった技法で作品を作っていくことで、私は以前一度就職作品を作り直したことがありますが、その時よりも数段早く、よりゲームとしてしっかり作ることができました。</AppealPoint>
-		<Profile>私の強みは与えられた課題の流れを掴み、理解しながら論理立てて進めることができる点です。
-3年生のチーム制作の際に、自分以外のプログラマが音信不通になり、自分のみで全てのプログラムをしなくてはならない状況になりました。膨大すぎるプログラムの為、とにかく手を進めるということはせず、2つの事に気を付けてできるだけ無駄がないようにしました。
-まず1つ目は、全体のアルゴリズムを作成し、やるべきことを俯瞰できるようにして、次やることを考える大きなロスタイムを無くすようにしました。
-2つ目にやるべきプログラムを細かく分解して列挙することで、無駄に関数などの機能を多く作ってしまう問題をできる限り避けるようにしました。
-この2つを軸にプログラムを作成したおかげで、20日でプレイヤーの操作から敵の動きとゲームの大まかな基本動作を作成することができました。</Profile>
-		<Image1>https://drive.google.com/file/d/1js13mBS2DIjtQGyZcitEASIjSbw_Pa8W/view?usp=sharing</Image1>
-		<Image2>https://drive.google.com/file/d/19JlL9SxxmKZpwIqYQoTTIn-4EFPyzb8f/view?usp=drive_link</Image2>
-		<Image3>https://drive.google.com/file/d/1g_qpJDtlwHWz4MLbLgAkJ6YUZBFE06wz/view?usp=sharing</Image3>
-		<Image4>https://drive.google.com/file/d/1lhBsbTycrBh11FV-jPsuo67rJ0FkXeAa/view?usp=sharing</Image4>
 	</ProjectDetails>
 	<ProjectDetails>
 		<ExhibitCode>AT3118</ExhibitCode>
@@ -300,33 +152,6 @@ JSON形式での編集とバイナリ形式での運用を切り替えられる�
 		<Image4>https://drive.google.com/file/d/1zMSWgyYYlkUQ0gLyB5BzJH_W7u1dXOm5/view?usp=drive_link</Image4>
 	</ProjectDetails>
 	<ProjectDetails>
-		<ExhibitCode>AT3323</ExhibitCode>
-		<ClassId>AT13C432</ClassId>
-		<ClassNo>23</ClassNo>
-		<Surname>武藤</Surname>
-		<FirstName>兵吾</FirstName>
-		<Location>12Fマシンルーム</Location>
-		<Title>CarShooting</Title>
-		<Thumbnail>https://drive.google.com/file/d/1kWEKASGrTDNhIvztDgE7i5lFpFt8T0MI/view?usp=drive_link</Thumbnail>
-		<Description>全てのステージで出現する敵を全て弾で倒すとゲームクリアになる。今回実装したステージの数は全部で５つであり、その中で登場する敵の種類は、「敵・強敵」の２種類にわけられる。ただし、強敵は最初からではなく、ステージの進行状況に応じて少しずつ登場するようになる。</Description>
-		<Video>https://drive.google.com/file/d/1gx47uBuL_BLC2FzP8fZ7RdQghg9Dq7Bv/view?usp=drive_link</Video>
-		<GDriveURL>https://drive.google.com/drive/folders/16TTHka2w5xgrO7fjROvHilnnFjrS_p-Z?usp=drive_link</GDriveURL>
-		<AppealPoint>ステージの進行状況によってプレイヤーがしないといけないことが増える。
-
-ステージ２であれば車（操作キャラクター）がある程度敵に近い距離まで来ないと弾がそもそも当たらないような仕様を実現させるために、岩を「ジャンプ台」としてステージ上に配置することで車がジャンプしながら移動できる等の工夫をした。
-
-ファイナルステージでは、他のステージでも使っていた岩を今度は「エレベーター」のような動きにすることで車を運ばせ、目的地に着くことで敵が前進できるようにした。これは、最初から敵全体が移動してしまうと車が敵に接近することなくステージの外に出てしまう事態を避けるため。</AppealPoint>
-		<Profile>こんにちは。HAL大阪に在籍しているゲーム４年制学科（３年生）の武藤兵吾と申します。
-
-私の強みは、授業中に不明な点があればその場で放置せずに自分で調べて解決できることです。私は小学生の頃にまだ未知だった単語はすぐに辞書などで調べる癖がありましたが、結果的にはその成果をテストで発揮でき、高得点に繋げることができました。
-
-そこから今でもこの経験は継続して活きており、特にゲーム制作でのコーディングで苦しくなってもインターネットの情報を見て理解を深めることができるように日々精進しています。</Profile>
-		<Image1>https://drive.google.com/file/d/1ve9q5MZNJGv7rlC988xVaL2MqwLGNCJT/view?usp=drive_link</Image1>
-		<Image2>https://drive.google.com/file/d/161XN7rmlcBmjju3FX3vi8CpCNkLyhfI_/view?usp=drive_link</Image2>
-		<Image3>https://drive.google.com/file/d/19fZXGsZfgL0iK0tYV_kvvRICiOgID0_e/view?usp=drive_link</Image3>
-		<Image4>https://drive.google.com/file/d/1dtGNCbirYzrWVCC5BiLw6PDIgbkRPXiY/view?usp=drive_link</Image4>
-	</ProjectDetails>
-	<ProjectDetails>
 		<ExhibitCode>AT3112</ExhibitCode>
 		<ClassId>AT13A430</ClassId>
 		<ClassNo>12</ClassNo>
@@ -371,46 +196,6 @@ JSON形式での編集とバイナリ形式での運用を切り替えられる�
 		<Image2>https://drive.google.com/file/d/1itknjGZxv54-EqGvjkTnMyW5yyEyLn49/view?usp=drive_link</Image2>
 		<Image3>https://drive.google.com/file/d/10Xio3bDqwtgegArkn-74r1w9I3XyqXaF/view?usp=drive_link</Image3>
 		<Image4>https://drive.google.com/file/d/15xQM4_Cl7mnwt9f-rBBUNZj4XZhT7fXK/view?usp=drive_link</Image4>
-	</ProjectDetails>
-	<ProjectDetails>
-		<ExhibitCode>AT3204</ExhibitCode>
-		<ClassId>AT13B430</ClassId>
-		<ClassNo>4</ClassNo>
-		<Surname>鵜川</Surname>
-		<FirstName>瑛介</FirstName>
-		<Location>12Fマシンルーム</Location>
-		<Title>DirectX12フレームワーク</Title>
-		<Thumbnail>https://drive.google.com/file/d/1xGBGGNykN3OP5NdHlqxU7iiRtTbJNyiw/view?usp=sharing</Thumbnail>
-		<Description>独学で作成したDirectX12のフレームワークです、モデルの読み込みから描画、レンダーパイプラインをjsonで管理しやすく、簡易的なポストエフェクトなんかも実装しています。技術的な面でDirectX12に引かれて制作いたしました</Description>
-		<Video>https://drive.google.com/file/d/1i3_370U95PQDXcGzlAMC2OA8qTUEYxwH/view?usp=sharing</Video>
-		<GDriveURL>https://drive.google.com/drive/folders/14FP1eXkcuoAgRNUsr_SGBoqdWLtvlWyv?usp=sharing</GDriveURL>
-		<AppealPoint>セールスポイントとして頑張ったところは、フレームワークを使った描画するまでの手軽さだと思っています、細かいところまでいじれるDirectX12に対してどこまで簡略化とわかりやすさを持たせるところが難しいポイントでした、まだまだ粗削りで出来ることも少ないですがもっと発展させていきたいと思います。</AppealPoint>
-		<Profile>3学年始まりにロマンでDirectX12を自己学習しはじめ早1年、現在はコーディングルールを学習してそれに則ったソースに変更していくことを頑張っています。4年目に向けて新たなフレームワークへの機能の試案とチーム制作の両方を両立しつつ、頑張っていこうと思います。</Profile>
-		<Image1>https://drive.google.com/file/d/10nNvdP_8YAlBBScmEOGNxZeLP4_e3adv/view?usp=sharing</Image1>
-		<Image2>https://drive.google.com/file/d/13QyiiYlIZYaiVsP6O_ZvhpXqk84fLEIS/view?usp=sharing</Image2>
-		<Image3>https://drive.google.com/file/d/1NUqCULwrYy4xrQIJVJ_kSAuvn8ElA5EU/view?usp=sharing</Image3>
-		<Image4>https://drive.google.com/file/d/1uZQS2BWA-ycDi_RXfnrrbxJxZWCuFwdh/view?usp=sharing</Image4>
-	</ProjectDetails>
-	<ProjectDetails>
-		<ExhibitCode>GP1014</ExhibitCode>
-		<ClassId>GP11A423</ClassId>
-		<ClassNo>14</ClassNo>
-		<Surname>周</Surname>
-		<FirstName>凱</FirstName>
-		<Location>12Fマシンルーム</Location>
-		<Title>アルパカのドレーム大作戦</Title>
-		<Thumbnail>https://drive.google.com/file/d/1KBdE2znz1yxFiZc2cU-UiG4ISx6TR8eL/view?usp=sharing</Thumbnail>
-		<Description>牧場のアルパカは本来、何も心配せずに過ごすはずだった。しかし最近、主人公のシロは毎晩悪夢に悩まされている。その夢の中で、無数の影のアルパカたちが牧場を侵略している。シロは夢の中でのみ立ち上がり、これらの歓迎されざる侵入者を追い払わなければならない。</Description>
-		<Video>https://drive.google.com/file/d/1ujyJ_t6bVhQK7t-JXqXxmzxhkdZnfiQB/view?usp=sharing</Video>
-		<GDriveURL>https://drive.google.com/drive/folders/1WwyuRrnaD08U2LNc3Nxp0MJqbQkfKZnd?usp=sharing</GDriveURL>
-		<AppealPoint>WASDキーでアルパカの方向を操作し、Lキーで加速します。
-主人公のシロは、速度に応じて影のアルパカを吹き飛ばす力が変わり、吹き飛ばす距離が長いほど得点が高くなります。フィールド内では敵が定期的に出現し、シロは様々なバフを取得して自分を強化することができます。規定の時間内にできるだけ多くの影のアルパカを追い払おう！
-</AppealPoint>
-		<Profile>数学や論理に得意で、アルゴリズムの研究が好きです。HALでの一年間でC++の基本的な使い方を固め、DirectXのレンダリングパイプラインや簡単なゲーム制作の流れを学びました。それに加えて、Unity、Unreal、Maya、3ds Maxなどのソフトウェアも基本的な操作ができ、より良いゲーム制作のために知識を常に広げています。</Profile>
-		<Image1>https://drive.google.com/file/d/1v2PI5Fm04ZLRuyIjmChvjQJ_NJK8l9X6/view?usp=sharing</Image1>
-		<Image2>https://drive.google.com/file/d/1KlXM5GhsjlMdhhyCOxA1NfPMrbsPBQ1G/view?usp=sharing</Image2>
-		<Image3>https://drive.google.com/file/d/1rrQYQa6ldiBR47NZlHALCBg8A1BZs_fg/view?usp=sharing</Image3>
-		<Image4>https://drive.google.com/file/d/15pjuXvd71b9H7xHO0aEttFChy7irFl3U/view?usp=sharing</Image4>
 	</ProjectDetails>
 	<ProjectDetails>
 		<ExhibitCode>AT3121</ExhibitCode>
