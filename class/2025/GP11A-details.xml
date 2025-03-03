@@ -2178,4 +2178,67 @@ HAL入学当初はプログラミング知識が全くなかったため、先�
 		<Image3>https://drive.google.com/file/d/1ZFXqZfMnG67oopIhkiS6pZ7YZ_GanWkb/view?usp=sharing</Image3>
 		<Image4>https://drive.google.com/file/d/1Oehv5RS85X7TBwfZIP-Tz8oQQMGAUjik/view?usp=sharing</Image4>
 	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3117</ExhibitCode>
+		<ClassId>AT13A430</ClassId>
+		<ClassNo>17</ClassNo>
+		<Surname>辻</Surname>
+		<FirstName>幸宏</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>TeraVolt Crisis</Title>
+		<Thumbnail>https://drive.google.com/file/d/1cHzvPiUyOBorV36gQ2ciRZiG0_Sp4Xft/view?usp=drive_link</Thumbnail>
+		<Description>次々と押し寄せる敵から中央の基地を守る3Dタワーディフェンスゲームです。「ピンチをチャンスに！」をコンセプトに、追い詰められても上手く立ち回ることで逆転可能で従来のタワーディフェンスにはない派手さと爽快感をプラスした作品です。細かな作り込みを多数の企業の方から評価していただきました。</Description>
+		<Video>https://drive.google.com/file/d/1piQg68PFjduDdDfDzbe-F3EChywCN0oj/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/17sYxOIOdYPLcQ-RAbDVAEp7_yYTXa9vy?usp=sharing</GDriveURL>
+		<AppealPoint>ユーザーを意識した機能・演出の実装に力を入れています。コンセプトを実現するための一つの要素である「爽快感」を損なわないよう、インスタンシング描画とフラスタムカリングを実装し描画負荷を抑えフレームレートができる限り低下しないような工夫を行っています。影を描画し敵の位置や高さを認識させたり、アルファディザを用いてカメラが障害物に埋まっていてもプレイヤーの状況がわかるようにするなど、快適性を向上させています。
+世界観と派手さを表現するためにブルームなどのポストプロセスを使用し、電気,エネルギーの光輝く表現やサイバーチックな世界観の表現を行いました。
+ユーザーに合った環境を提供するため、オプション画面を実装し感度,BGM,SEを調整可能です。このデータは外部ファイルに書き出されるのでゲーム起動毎に設定する必要はありません。
+システム面では、イベントを簡単に実装可能なイベントシステムを作成しました。オブザーバーがイベントの発生を監視・リスナーに通知するという方式を採用し、イベントの再利用性を高めオブジェクトに対して個別の処理を容易に実装できます。
+同じモデルを複数描画することを考慮し、フライウェイトパターンによるリソースマネージャを作成することで無駄なリソース読み込みが起こらないようにしています。
+マルチスレッドでリソースを読み込むことが可能で、大幅にロード時間を削減することに成功しました。</AppealPoint>
+		<Profile>私の趣味は、インディーゲームのプレイとリサーチです。小学生の頃に偶然見つけたインディーゲームをプレイしてから、コンシューマーゲームとは違う独自の面白さがあることに気づき、興味を持ちました。なぜこのゲームが面白いのか、コンシューマーゲームとの面白さの違いは何かを考えることで、分析力が上がりました。
+私の強みは、こだわりを持って物事を最後までやり切ることが出来る点です。HALに入学してから2年目というまだまだプログラミング経験が浅い時期に学内コンテストがありました。そこで私は趣味で培った分析力を活かし、自分のゲームにはどのような機能や演出が必要かを考えました。やりたいことと技術力が釣り合わない中、なんとか一通りの実装を終えました。しかし、そこで終わらず更に分析を重ね、最後まで妥協せずに制作を続けました。その結果、銅賞を受賞することができました。
+仕事につきましても、与えられた作業をこなすだけでなくゲームを良くするためにはどのような実装が最適かを私なりに考え提案し、より良いものを制作していきたいと考えております。</Profile>
+		<Image1>https://drive.google.com/file/d/1YWNubhZOf6CTnmJ5gSCxOkXCaDa279a5/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1LyS1BPHYI8U2eI8cTj66fc48hS6Mx786/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/10mnI77GGlFsrifUI9-1lNhu4G-_zi31q/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/10mnI77GGlFsrifUI9-1lNhu4G-_zi31q/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3419</ExhibitCode>
+		<ClassId>AT13D432</ClassId>
+		<ClassNo>19</ClassNo>
+		<Surname>橋本</Surname>
+		<FirstName>拓実</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>Duel Knight</Title>
+		<Thumbnail>https://drive.google.com/file/d/1lS_esh1X6hZiKygh7rwljszIZY3pmyyI/view?usp=drive_link</Thumbnail>
+		<Description>敵との1対1のバトルアクションゲームです。かっこいい3Dアクションゲームを制作したい気持ちがずっとあったので、スケルタルアニメーションを重点的に学んでいきました。スケルタルアニメーションの知識が全く無い状態から、参考書や既存のゲームエンジンから技術を学び、なぜそれが必要なのか明確化しながら実装しました。</Description>
+		<Video>https://drive.google.com/file/d/1j7Ad8dhHNtnZMvCrW8aNHGElBJ-GcSg3/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1XwrzvM5to73lm15SiFXaVeNGE2qT_XQy?usp=drive_link</GDriveURL>
+		<AppealPoint>「魅力的なバトルシーン」を目標に実装を行いました。
+
+①バトルアクションに合うスケルタルアニメーション
+素材元のアニメーションは緩急が感じにくく、目標とするバトルには向いていませんでした。そこで、自作のアニメーションカーブにより１つのアニメーション内で再生速度を曲線的にを編集できるようにし、緩急をつけられるようにしました。
+また、GUI上で完結できるアニメーション編集ツールを作成し、多くのアニメーションを効率良く管理・編集することができるようにしました。
+ツールの主な機能として、アニメーション遷移・フレーム経過による通知イベント・アニメーションに持たせるパラメータの設定を行うことができます。
+
+②プレイヤー操作の手触り
+プレイヤー行動のキャンセルを3種類に分けて、各種類のキャンセルを細かく調整することで手触りを向上しました。
+また、先行入力を取り入れることで、プレイヤーが狙った行動を起こせないといった不満を取り除きました。
+敵に攻撃を当てたときのヒット演出にもこだわっており、敵にヒット時のリアクションを持たせ、エフェクトやサウンドを再生することで気持ちよさを向上させています。
+
+③迅速に制作できる開発基盤
+GUIでオブジェクトやコンポーネントのパラメータを編集することができ、
+パラメーターを外部のJSONファイルに持つことで、ランタイム上でパラメーター調整できる構造を実現しました。</AppealPoint>
+		<Profile>お初にお目にかかります。私、橋本拓実と申します。アプリケーションプログラマー志望です。趣味はゲームと筋トレ、散歩です。最近やってみたいことは、マーダーミステリーです。座右の銘は初志貫徹で、プログラミングにおいてもこれまでも諦めずに取り組んできました。
+
+性格は負けず嫌いです。過去に専門学校のカリキュラムでアナログゲームの制作コンテストに参加することになり、自信がある出来で応募したのですが1次選考で落選しました。周りでは通過しているチームがいることを知り、悔しさが強く残りました。その時から、誰にも負けたくない気持ちを持ってゲーム制作を行い、何回もコンテストでも受賞できるようになりました。
+
+私が得意なことは周りの勢いに流されずに、冷静に判断することが得意です。チームを組んで行うゲーム制作でアクションとパズルの草案が二つあり、どちらのジャンルで進めていくか決定する会議がありました。他のメンバーは当時経験の少なかったアクションでチャレンジしたいという意見が多かった中、私は開発期間やメンバーの得手不得手を踏まえて二つのジャンルのメリット・デメリットを列挙していき、パズルゲームで進めたいと意見しました。その後チーム全員の賛同を得ることができ、パズルゲームを制作することになりました。結果、プロジェクトを円滑に進めることができ、コンテストで独創力賞を受賞することができました。</Profile>
+		<Image1>https://drive.google.com/file/d/1k2rIb-R2Yj-TaySYe9_uTKEDR3FGjAaU/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1ZIwhDFh2U8j67tQa0TI1RL2z7OwUSoaZ/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/138WnNxiyZjnAEBtXPPMpYteU-qTb1Z9T/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1oYJY-dSHy82I0Pe8ruRM2SI5z0182lt5/view?usp=drive_link</Image4>
+	</ProjectDetails>
 </Project>
