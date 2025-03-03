@@ -1078,7 +1078,7 @@ Assimp形式データからバイナリデータに変換するための独自�
 		<FirstName>峻太</FirstName>
 		<Location>12Fマシンルーム</Location>
 		<Title>シューティング</Title>
-		<Thumbnail>https://drive.google.com/file/d/181JpNjyvJAWBZVifmBItTx0weJzaJKQ7/view?usp=drive_link</Thumbnail>
+		<Thumbnail>https://drive.google.com/file/d/1vPciUC7Do7ARTg0GiIsdeBmJTEkk2z5m/view?usp=drive_link</Thumbnail>
 		<Description>2D弾幕シューティングゲーム。プレイヤーは戦闘機（またはキャラクター）を操作し、迫りくる敵を撃破しながら弾幕を避けつつハイスコアを目指す。アイテムを取得することで攻撃が強化されクリアを目指す。</Description>
 		<Video>https://drive.google.com/file/d/1imKFMcrTfugtVK2DpZwFu7xyB4Iw0Go2/view?usp=drive_link</Video>
 		<GDriveURL>https://drive.google.com/drive/folders/1iitfsSgl8sn4rvfy4lDZI7-WHtrJETpy</GDriveURL>
@@ -1821,7 +1821,7 @@ update関数で書くとメニュー画面などの入力待機時に発生し�
 		<FirstName>雷我</FirstName>
 		<Location>12Fマシンルーム</Location>
 		<Title>KICK TARGET</Title>
-		<Thumbnail>https://drive.google.com/drive/folders/1DbzsBqftRdC2fLDgQcMGW3edVmMjBuVd</Thumbnail>
+		<Thumbnail>https://drive.google.com/file/d/18ErKYUA70VEVgviKCxFMkrK95PvhP1Cw/view?usp=drive_link</Thumbnail>
 		<Description>俊敏な動きと正確なシュートでターゲットを破壊する爽快アクションゲーム！プレイヤーはサッカーボールを撃ち込んで、制限時間内に的を狙い撃ちます。連続ヒットでコンボをつなげ、高スコアを目指せ！多彩なギミックや難易度の異なるステージが登場し、戦略と反射神経が試されます。シンプルながら奥深いゲーム性で、初心者から上級者まで楽しめる作品です！</Description>
 		<Video>https://drive.google.com/drive/folders/1FKh0yHz7LYCMsGcWVMiI8e1QAG7hPiKa</Video>
 		<GDriveURL>https://drive.google.com/drive/my-drive</GDriveURL>
@@ -1846,10 +1846,10 @@ update関数で書くとメニュー画面などの入力待機時に発生し�
 
 ひとこと
 プレイして楽しんでいただけると嬉しいです。 ぜひ感想をお聞かせください！</Profile>
-		<Image1>https://drive.google.com/drive/folders/1wq3abvu7kvpmzHJ5DpkXFIpWuVZq-a3S</Image1>
-		<Image2>https://drive.google.com/drive/folders/1wq3abvu7kvpmzHJ5DpkXFIpWuVZq-a3S</Image2>
-		<Image3>https://drive.google.com/drive/folders/1wq3abvu7kvpmzHJ5DpkXFIpWuVZq-a3S</Image3>
-		<Image4>https://drive.google.com/drive/folders/1wq3abvu7kvpmzHJ5DpkXFIpWuVZq-a3S</Image4>
+		<Image1>https://drive.google.com/file/d/1eVdrQNlkZRSIHaOZN9b5-FFRD_x4spdY/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1yY8tyHOxE3OkAcVivYf88tu1fL0dT8fr/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1m39ly9ReWCxQMp4MPJAo0KpwFpDnJely/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1ORsDH6n4bezWBfjHN9qPr0k2godkZUkO/view?usp=drive_link</Image4>
 	</ProjectDetails>
 	<ProjectDetails>
 		<ExhibitCode>AT3222</ExhibitCode>
@@ -2078,7 +2078,7 @@ HAL入学当初はプログラミング知識が全くなかったため、先�
 		<Description>ジャスト回避を駆使して敵の攻撃や障害物を避けるアクションゲーム。タイミングよく回避が成功した瞬間から得る爽快感に加え、スコア加算に繋がり、プレイヤーの達成感を高め、さらなる挑戦意欲が湧きます。</Description>
 		<Video>https://drive.google.com/file/d/1V_0Rv3k2F8LWfm39cM54ua5oq41INQF8/view?usp=drive_link</Video>
 		<GDriveURL>https://drive.google.com/drive/folders/1TfLyaLSZYLpp6zwePMIBV2U8JRNW-pZC?usp=drive_link</GDriveURL>
-		<AppealPoint>ジャスト回避」は、アクションゲームにおける爽快感を体感できる要素として実装しました。
+		<AppealPoint>「ジャスト回避」は、アクションゲームにおける爽快感を体感できる要素として実装しました。
 プレイヤーに球状の領域を設定することで、敵の攻撃の角度や動きに関係なく、どんな攻撃にも対応可能にしています。ジャスト回避の判定は、プレイヤーの体のヒットボックスではなく、この領域で敵の攻撃や障害物との接触した瞬間のフレームと回避入力のタイミングを比較して判定を行うようにしました。</AppealPoint>
 		<Profile>ゲームプログラマー志望の山野雅矢と申します。
 過去の三校合同やHEWでの個人製作で2つの意欲賞と2つの構成力賞を受賞しました。
@@ -2188,7 +2188,7 @@ HAL入学当初はプログラミング知識が全くなかったため、先�
 		<Title>TeraVolt Crisis</Title>
 		<Thumbnail>https://drive.google.com/file/d/1cHzvPiUyOBorV36gQ2ciRZiG0_Sp4Xft/view?usp=drive_link</Thumbnail>
 		<Description>次々と押し寄せる敵から中央の基地を守る3Dタワーディフェンスゲームです。「ピンチをチャンスに！」をコンセプトに、追い詰められても上手く立ち回ることで逆転可能で従来のタワーディフェンスにはない派手さと爽快感をプラスした作品です。細かな作り込みを多数の企業の方から評価していただきました。</Description>
-		<Video>https://drive.google.com/file/d/1piQg68PFjduDdDfDzbe-F3EChywCN0oj/view?usp=drive_link</Video>
+		<Video>https://drive.google.com/file/d/1fOr9DgS-B1A6jet12P-heCDGAvxdRBxa/view?usp=drive_link</Video>
 		<GDriveURL>https://drive.google.com/drive/folders/17sYxOIOdYPLcQ-RAbDVAEp7_yYTXa9vy?usp=sharing</GDriveURL>
 		<AppealPoint>ユーザーを意識した機能・演出の実装に力を入れています。コンセプトを実現するための一つの要素である「爽快感」を損なわないよう、インスタンシング描画とフラスタムカリングを実装し描画負荷を抑えフレームレートができる限り低下しないような工夫を行っています。影を描画し敵の位置や高さを認識させたり、アルファディザを用いてカメラが障害物に埋まっていてもプレイヤーの状況がわかるようにするなど、快適性を向上させています。
 世界観と派手さを表現するためにブルームなどのポストプロセスを使用し、電気,エネルギーの光輝く表現やサイバーチックな世界観の表現を行いました。
@@ -2202,7 +2202,7 @@ HAL入学当初はプログラミング知識が全くなかったため、先�
 		<Image1>https://drive.google.com/file/d/1YWNubhZOf6CTnmJ5gSCxOkXCaDa279a5/view?usp=drive_link</Image1>
 		<Image2>https://drive.google.com/file/d/1LyS1BPHYI8U2eI8cTj66fc48hS6Mx786/view?usp=drive_link</Image2>
 		<Image3>https://drive.google.com/file/d/10mnI77GGlFsrifUI9-1lNhu4G-_zi31q/view?usp=drive_link</Image3>
-		<Image4>https://drive.google.com/file/d/10mnI77GGlFsrifUI9-1lNhu4G-_zi31q/view?usp=drive_link</Image4>
+		<Image4>https://drive.google.com/file/d/1piQg68PFjduDdDfDzbe-F3EChywCN0oj/view?usp=drive_link</Image4>
 	</ProjectDetails>
 	<ProjectDetails>
 		<ExhibitCode>AT3419</ExhibitCode>
@@ -2240,5 +2240,24 @@ GUIでオブジェクトやコンポーネントのパラメータを編集す�
 		<Image2>https://drive.google.com/file/d/1ZIwhDFh2U8j67tQa0TI1RL2z7OwUSoaZ/view?usp=drive_link</Image2>
 		<Image3>https://drive.google.com/file/d/138WnNxiyZjnAEBtXPPMpYteU-qTb1Z9T/view?usp=drive_link</Image3>
 		<Image4>https://drive.google.com/file/d/1oYJY-dSHy82I0Pe8ruRM2SI5z0182lt5/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3122</ExhibitCode>
+		<ClassId>AT13A430</ClassId>
+		<ClassNo>22</ClassNo>
+		<Surname>本郷</Surname>
+		<FirstName>球児</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>RUN A CAR</Title>
+		<Thumbnail>https://drive.google.com/file/d/1u-1UbNTkWit3uCMqEqLCoZwTXj_oJhjT/view?usp=drive_link</Thumbnail>
+		<Description>このゲームは、制限時間内にマップ上に配置されたアイテムを集め、ゴール地点を目指すアクションゲームです。プレイヤーは時間との戦いを繰り広げながら、戦略的にアイテムを取得し、ゴールを目指します。多彩なマップと緊張感溢れるプレイが特徴で、スリルと達成感を味わえる内容となっています。</Description>
+		<Video>https://drive.google.com/file/d/1uQXcrJmKpxDRLk-PmU3I5_KVUSLQ6MBV/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1nqRRZxET6NnaLDOUEd4XqMSqhg3rT5Lj?usp=drive_link</GDriveURL>
+		<AppealPoint>このゲームの最大の魅力は、車の挙動と、カメラワークにあります。プレイヤーは、実際の車を操作しているかのような感覚を味わうことができます。アクセルやブレーキのレスポンス、ハンドリングのリアルさが追求されており、車体の挙動が非常に自然です。さらに、カメラワークにもこだわりがあります。例えば、走行しているときはカメラを少し引いて速度を出して走行している演出を再現しました。ゴールしたときに走り去るような演出もカメラを用いて作成しました。</AppealPoint>
+		<Profile>私の強みは、人のことを考えて行動できるところです。アルバイトとしてコンビニで働くことで、多くの人々と接する機会がありました。お客様一人ひとりのニーズに応えるために、迅速かつ丁寧な対応が求められました。例えば、急ぎのお客様にはレジ対応を素早く行い、困っているお客様には親身になってお手伝いをしました。このような経験を通じて、細やかな気配りやコミュニケーション能力が自然と身につきました。アルバイトで培った「人のことを考えて行動する力」を活かして、ゲーム制作の現場でも大いに役立てることができました。例えば、ユーザーインターフェースのデザインやゲームの難易度調整において、プレイヤーがどのように感じるかを考えながら工夫を凝らしました。アルバイトでの経験を活かして、プレイヤーが快適にプレイできる環境を整えることができました。今後も、この強みを活かしてさらにゲーム制作に取り組み、プレイヤーにとって魅力的なゲームを作り続けることを目指しています。常に人のことを考えて行動し、プレイヤーとのコミュニケーションを大切にしながら、より良い作品を生み出していきます。</Profile>
+		<Image1>https://drive.google.com/file/d/1wJg2ptckwW_z4jCSj2T-wYQ30j8EZgTf/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1YSbtm6yLYSzI7HgpZu1mr1imEJqPT5-T/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1mvuyN5jGYx1NGC7ZeutTSn_MKNJpxhnL/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/14_47o0Ikdispg3V-fnBMh9A6RFk4rrzp/view?usp=drive_link</Image4>
 	</ProjectDetails>
 </Project>
