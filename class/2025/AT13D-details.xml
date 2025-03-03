@@ -1823,7 +1823,7 @@ update関数で書くとメニュー画面などの入力待機時に発生し�
 		<Title>KICK TARGET</Title>
 		<Thumbnail>https://drive.google.com/file/d/18ErKYUA70VEVgviKCxFMkrK95PvhP1Cw/view?usp=drive_link</Thumbnail>
 		<Description>俊敏な動きと正確なシュートでターゲットを破壊する爽快アクションゲーム！プレイヤーはサッカーボールを撃ち込んで、制限時間内に的を狙い撃ちます。連続ヒットでコンボをつなげ、高スコアを目指せ！多彩なギミックや難易度の異なるステージが登場し、戦略と反射神経が試されます。シンプルながら奥深いゲーム性で、初心者から上級者まで楽しめる作品です！</Description>
-		<Video>https://drive.google.com/drive/folders/1FKh0yHz7LYCMsGcWVMiI8e1QAG7hPiKa</Video>
+		<Video>https://drive.google.com/file/d/1QVMkaK7XIdEDmMCh6d_nTirFT65TwylY/view?usp=drive_link</Video>
 		<GDriveURL>https://drive.google.com/drive/my-drive</GDriveURL>
 		<AppealPoint>俊敏な動きと正確なシュートで爽快感抜群の「キックターゲット」は、アクション性と戦略性を兼ね備えたスピーディなゲーム体験を提供します。
 
@@ -2259,5 +2259,32 @@ GUIでオブジェクトやコンポーネントのパラメータを編集す�
 		<Image2>https://drive.google.com/file/d/1YSbtm6yLYSzI7HgpZu1mr1imEJqPT5-T/view?usp=drive_link</Image2>
 		<Image3>https://drive.google.com/file/d/1mvuyN5jGYx1NGC7ZeutTSn_MKNJpxhnL/view?usp=drive_link</Image3>
 		<Image4>https://drive.google.com/file/d/14_47o0Ikdispg3V-fnBMh9A6RFk4rrzp/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3315</ExhibitCode>
+		<ClassId>AT13C432</ClassId>
+		<ClassNo>15</ClassNo>
+		<Surname>日野</Surname>
+		<FirstName>真深</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>四角の死角</Title>
+		<Thumbnail>https://drive.google.com/file/d/1FPaAb-DkbBX3_i0BloSjefIHps9sAxHY/view?usp=drive_link</Thumbnail>
+		<Description>３D空間上のキューブを転がすパズルゲームです。</Description>
+		<Video>https://drive.google.com/file/d/1DdK8NpH2h9XBBTadnU-ak53aCyc03oNO/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1h0nrnCTiOH32ksor6sXUTgfFXjJNgLCE?usp=drive_link</GDriveURL>
+		<AppealPoint>　本作品はNintendoGAMECUBEの起動画面からインスピレーションを受けた作品です。
+何気なく動画を見ていた際に「これゲームになりそうじゃね？」と思い制作しました。
+
+　「３D空間上の箱を転がす」ことがキモなので、プレイヤーが違和感なく操作できるよう工夫しました。具体的にはカメラの向きと現在位置によって、前後左右上下の６方向をWASDの４入力で制御できるようになっています。
+　また、転がる際の挙動も床だけでなく壁や天井にも張り付くことを考慮して、かつめり込みや回転方向に不備が出ないよう、自身で考案した当たり判定、移動先制御を行っています。
+
+　ロジック的には、プレイヤー立方体を中心とした９×９のブロック単位でマップチップからデータを取得し、取得したデータから移動可能な４方向を決定後、カメラの向きから４方向それぞれにWASDを割り当てることで、前後左右上下への移動をWASDで制御しています。</AppealPoint>
+		<Profile>　私の強みは、今までに読んできた物語の記憶を活かした発想力です。
+　昨年度に行ったチーム制作で、「植物が伸びて敵を食べて返り血でマップを染めるパズルゲーム」の背景設定が定まらずにいました。そこで私は「不思議の国のアリス」を題材にしてはどうかと提案しました。植物が会話をするあの世界ならば伸びても違和感はなく、ダークファンタジーで統一すれば、返り血は真っ赤なバラの花びらが舞うように暗喩できる。など、点と点を線でつなげるように、次々とアイデアが浮かんできました。
+　仕事においても、「プロジェクトが行き詰った際に、経験から得たアイデアでその状況を打破できる」人材となれるよう務めてまいります。</Profile>
+		<Image1>https://drive.google.com/file/d/10k95zPB7dd7LPCVHMumi1hhMHwmh3TlS/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1Htkr19hgZnFVqesdDg8QKLvt70F64iXA/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/13RZX9mTAzxs-uiONiZUopzyAS1MWF7L9/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1Dk-S_XZmBCcbmW3Gfg2bELDBKQe8PTaG/view?usp=drive_link</Image4>
 	</ProjectDetails>
 </Project>
