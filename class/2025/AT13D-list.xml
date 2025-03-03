@@ -54,6 +54,7 @@
 		<SurnamePhonetic>ｴﾄｳ</SurnamePhonetic>
 		<FirstNamePhonetic>ｺｳｷ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName> </MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>AT3406</ExhibitCode>
@@ -273,5 +274,6 @@
 		<SurnamePhonetic>ﾜﾀﾅﾍﾞ</SurnamePhonetic>
 		<FirstNamePhonetic>ﾆｯｷ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName> </MachineName>
 	</StudentInfo>
 </Class>

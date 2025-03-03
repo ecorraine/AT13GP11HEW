@@ -21,6 +21,7 @@
 		<SurnamePhonetic>ｵｵｳﾗ</SurnamePhonetic>
 		<FirstNamePhonetic>ﾈｵ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName> </MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>AT3303</ExhibitCode>

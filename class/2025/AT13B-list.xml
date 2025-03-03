@@ -208,6 +208,7 @@
 		<SurnamePhonetic>ﾅｲﾄｳ</SurnamePhonetic>
 		<FirstNamePhonetic>ｿﾗ</FirstNamePhonetic>
 		<Status>1</Status>
+		<MachineName> </MachineName>
 	</StudentInfo>
 	<StudentInfo>
 		<ExhibitCode>AT3220</ExhibitCode>
