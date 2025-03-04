@@ -2381,7 +2381,7 @@ GUIでオブジェクトやコンポーネントのパラメータを編集す�
 		<FirstName>孝治</FirstName>
 		<Location>12Fマシンルーム</Location>
 		<Title>ClimbCloud</Title>
-		<Thumbnail>https://drive.google.com/file/d/1IKtxh4SSWSXiE0au2UhBhkxpCMY_QmGI/view?usp=drive_link</Thumbnail>
+		<Thumbnail>https://drive.google.com/file/d/1h1FEcMOSoDPS3HAJJzL0w9o1qV-oHXS2/view?usp=drive_link</Thumbnail>
 		<Description>プレイヤー（猫）を操作して、一番上にあるフラッグを目指そう！雲は常に動いているので、落ちないように気をつけながら進もう。足場の動きをよく見て、タイミングよくジャンプすることが攻略のカギだ！操作方法：左右キーで移動、スペースキーでジャンプ。うまくバランスを取りながら、ゴールを目指して頑張ろう！</Description>
 		<Video>https://drive.google.com/file/d/1iBLVgVOYA1b0zy0MFjis5aYnexTC2dkM/view?usp=drive_link</Video>
 		<GDriveURL>https://drive.google.com/drive/folders/1_XGZHn5b5yKAGCLyp0X8U_HfIGpmga6L?usp=drive_link</GDriveURL>
@@ -2428,10 +2428,10 @@ GUIでオブジェクトやコンポーネントのパラメータを編集す�
 
 趣味
 カラオケ、オタク活動、ゲーム(特にウマ娘)</Profile>
-		<Image1>https://drive.google.com/file/d/1PN55AF41kwzs34-7yvga3t2Uu8nkILvI/view?usp=drive_link</Image1>
-		<Image2>https://drive.google.com/file/d/1_HTjyv8IQo_TcRinHTsJmXbKeG_oMFaZ/view?usp=drive_link</Image2>
-		<Image3>https://drive.google.com/file/d/1MY7GpGfFNlzwaN14rQoa1XqCjGsE_ahm/view?usp=drive_link</Image3>
-		<Image4>https://drive.google.com/file/d/1e3jj8Pnhr7FoXMWK1Duy4xJ7SzyM0E_6/view?usp=drive_link</Image4>
+		<Image1>https://drive.google.com/file/d/1ni2YoZJfIL8d2Ys378kVZf9gkofDDtuV/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1_2abtAyuwraJVvuD15EMuuNC2Rj0m75F/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1ns7uKdA88ZQp5w_0-z_ht1t9p4TYqM29/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1RWNqxZQoM42nWTl0sls_oYVrvXIcm5h6/view?usp=drive_link</Image4>
 	</ProjectDetails>
 	<ProjectDetails>
 		<ExhibitCode>AT3420</ExhibitCode>
@@ -2875,5 +2875,51 @@ C,C#,C++,DirectX11</Profile>
 		<Image2>https://drive.google.com/file/d/13LframSk3jUJ8onL6y0EZYob50q93M9C/view?usp=drive_link</Image2>
 		<Image3>https://drive.google.com/file/d/1P4mUoF3pMWgYdkXe4dUSvXrSvuFzt7ok/view?usp=drive_link</Image3>
 		<Image4>https://drive.google.com/file/d/1_v0pB9KYvp6C2ZmEATgLBa6DQZ0VPqKO/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3212</ExhibitCode>
+		<ClassId>AT13B430</ClassId>
+		<ClassNo>12</ClassNo>
+		<Surname>白戸</Surname>
+		<FirstName>裕敬</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>escape</Title>
+		<Thumbnail>https://drive.google.com/file/d/1Cvsxm76k-QTn1OfCmfgMGDeoyaDBH8kB/view?usp=drive_link</Thumbnail>
+		<Description>DirectX12を使って2D描画を一から組み立てて作りました。そして画像を読み込み描画し、敵を複数生成し、ランダムな位置からプレイヤーに向かって迫ってくるという物です
+ここからさらに手を加えることによってヴァンパイアサバイバーを再現できると思います。</Description>
+		<Video>https://drive.google.com/file/d/1SMzYfU14Zc9GYcYEf1RPHrnxGDiDD_8p/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/14vU4a6J_KYb-NvML_BKNqIqDOxja38K4?usp=drive_link</GDriveURL>
+		<AppealPoint>この作品の最大の魅力は、そのスプライトシートの柔軟性にあります。スプライトシートを読み込む際に、縦と横の分割数を設定することが可能であり、どのような分割数でも必要な一コマだけを抜き出すことができます。これにより、さまざまなシーンやキャラクターの動きを簡単に表現できます。さらに、Spriteクラスを実装することで、プレイヤーや敵キャラクター、エフェクト、背景などを描画する際の手間が大幅に軽減できます。</AppealPoint>
+		<Profile>HAL大阪に入学して本格的にゲームプログラミングの勉強を始めました。学ぶうちにプログラミングの奥深さに気づき、その難しさも痛感しています。製作中にエラーが発生して止まってしまうことが度々あり、嫌になることもありました。それでも、ゲームが完成したときの達成感は格別で、頑張って良かったと実感します。</Profile>
+		<Image1>https://drive.google.com/file/d/1BXVt2QGqfkpg26cHR6lBr7K4E99u7T6_/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1BXVt2QGqfkpg26cHR6lBr7K4E99u7T6_/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1S6kLttPWz9kB6AsfLb5IUYXexUn6thE2/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1-GKYbB9Su2m-y-GM5xqcqv6LYc_7VnoG/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3106</ExhibitCode>
+		<ClassId>AT13A430</ClassId>
+		<ClassNo>6</ClassNo>
+		<Surname>河田</Surname>
+		<FirstName>悠寿</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>DUO</Title>
+		<Thumbnail>https://drive.google.com/file/d/1EXncOpopVQ49SBXLEbTcTF86QerKD-c3/view?usp=sharing</Thumbnail>
+		<Description>協力プレイのゲームが作りたいと考えていたので
+P2P(ピアツーピア)を利用して制作をしています
+P2Pを使うことで相手の操作を受け取り
+自分の操作を相手に送ることができます
+現在ゲームとしては未完成ですが
+より協力プレイをしているのを感じることができるような要素を実装したいと考えています</Description>
+		<Video>https://drive.google.com/file/d/1yMd4M_TGUptvVJKWV9YQPrf5q52GFSK_/view?usp=sharing</Video>
+		<GDriveURL>https://docs.google.com/presentation/d/1lw0j-nlxT8Qs8o7nxFFdzejxB_Popr8Z/edit?usp=sharing&amp;ouid=101019782767206645782&amp;rtpof=true&amp;sd=true</GDriveURL>
+		<AppealPoint>P2Pを使った協力ゲームを作ろうとしています</AppealPoint>
+		<Profile>マルチで遊べる対戦ゲームやパーティーゲームが好きで将来自分が作ったゲームで家族や友人などで遊ぶことが目標のゲームプログラマーです
+現在P2Pを使ってゲームを制作しています
+今後AWSも学んでいきたいと考えています</Profile>
+		<Image1>https://drive.google.com/file/d/1EXncOpopVQ49SBXLEbTcTF86QerKD-c3/view?usp=sharing</Image1>
+		<Image2>https://drive.google.com/file/d/1AdjPrXGdW766oAN9iiVskLTJG4uBcIJr/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/18h1i5pmJ8pYqut0WbNWcgW1bhpZOJIzk/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1VFz54Zz2xUsopFDiOeD40vXs1aTLE8PY/view?usp=sharing</Image4>
 	</ProjectDetails>
 </Project>
