@@ -1024,7 +1024,7 @@ Assimp形式データからバイナリデータに変換するための独自�
 		<Image1>https://drive.google.com/file/d/1jdKBUto-ZwWduTjieN7KrO9wyYZqVG89/view?usp=drive_link</Image1>
 		<Image2>https://drive.google.com/file/d/1ooohUHY2NZv_Suni2DZGLg-aF2npGiPb/view?usp=drive_link</Image2>
 		<Image3>https://drive.google.com/file/d/1JnILFBunpwkIEPlVfZtTuqPxkXA2N8h4/view?usp=drive_link</Image3>
-		<Image4>https://drive.google.com/file/d/1vk38fGnqlJbE7amgEym6bYkIuIxor1R9/view?usp=drive_link</Image4>
+		<Image4>https://drive.google.com/file/d/1_-shDtzCjw1vE0CwQwdz64UT_g5XrEVj/view</Image4>
 	</ProjectDetails>
 	<ProjectDetails>
 		<ExhibitCode>GP1017</ExhibitCode>
@@ -1498,7 +1498,7 @@ GUI表示に使用したImGuiライブラリでは、参照渡しに対応して
 		<Thumbnail>https://drive.google.com/file/d/1ssiesBW-aOYWffU2-2dA9uhPzRKWvV0_/view?usp=drive_link</Thumbnail>
 		<Description>プレイヤーが銃を操作し、次々と出現する的を撃ってスコアを競うシューティングゲーム。素早い判断と正確なエイムが求められ、連続ヒットで高得点を狙える。シンプルながら爽快感のあるゲーム性が特徴。</Description>
 		<Video>https://drive.google.com/file/d/1re-U3pksmX-JpNpLe7_BrYGnNZBQIwQS/view?usp=drive_link</Video>
-		<GDriveURL>https://drive.google.com/drive/folders/1A5D63eUmcj8FoTLETiK7u5e77zzoqXC1?usp=drive_link</GDriveURL>
+		<GDriveURL>https://drive.google.com/file/d/1--2Atm8ZHsYt6xU0tMtDyLyrdnWznbvE/view?usp=drive_link</GDriveURL>
 		<AppealPoint>シンプルな操作で誰でも楽しめるシューティングゲーム。プレイヤーは銃を操り、次々と出現する的を撃ってスコアを競います。素早い判断力と正確なエイムが求められ、連続ヒットやタイムボーナスで高得点を狙うことが可能。爽快なエフェクトや効果音がプレイの没入感を高め、短時間でも楽しめる手軽さが魅力。スコアアタック要素もあり、何度も挑戦したくなる中毒性の高いゲームです。</AppealPoint>
 		<Profile>AT13B430の19番内藤空です。個人でゲーム開発に取り組み、シンプルながら爽快感のあるシューティングゲームを制作。操作性やゲームバランスにこだわり、誰でも気軽に楽しめる作品を目指しました。短時間でも遊べる設計ながら、反射神経やエイム力が試される奥深いゲーム性を実現。スコアアタック要素もあり、何度も挑戦したくなる中毒性のある作品に仕上げました。</Profile>
 		<Image1>https://drive.google.com/file/d/140BltU3u_DIsoWpTXBafzBdSZgBCgsuN/view?usp=drive_link</Image1>
@@ -1608,7 +1608,10 @@ GUI表示に使用したImGuiライブラリでは、参照渡しに対応して
 		<Video>https://drive.google.com/file/d/1AF9HFfWnhakQ2QebFDU98whgM4TkfhRI/view?usp=drive_link</Video>
 		<GDriveURL>https://drive.google.com/drive/folders/1q0a9CODjD7MexMQ8yKo-CJM6e2G84gsl?usp=drive_link</GDriveURL>
 		<AppealPoint>変更予定</AppealPoint>
-		<Profile>変更予定</Profile>
+		<Profile>名前：中前 颯斗（なかまえ はやと）
+出身校：HAL大阪
+プロフィール：
+HAL大阪で専門的な技術と知識を学び、実践的なスキルを磨いてきました。クリエイティブな発想と確かな技術力を活かし、高品質な作品・サービスを提供することを心がけています。常に新しいことに挑戦し、成長し続けることをモットーにしています。</Profile>
 		<Image1>https://drive.google.com/file/d/14l832fhAYMUwB5JR0koGDm-vZ8w_4MiE/view?usp=drive_link</Image1>
 		<Image2>https://drive.google.com/file/d/1rZMwTTisR2R5nEeRpM5Tpt2V8gi3OoyO/view?usp=drive_link</Image2>
 		<Image3>https://drive.google.com/file/d/1AUEsAdR3Wu1DcaasGLLgDx6rEZ-_7Q_-/view?usp=drive_link</Image3>
