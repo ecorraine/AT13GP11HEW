@@ -2922,4 +2922,26 @@ P2Pを使うことで相手の操作を受け取り
 		<Image3>https://drive.google.com/file/d/18h1i5pmJ8pYqut0WbNWcgW1bhpZOJIzk/view?usp=drive_link</Image3>
 		<Image4>https://drive.google.com/file/d/1VFz54Zz2xUsopFDiOeD40vXs1aTLE8PY/view?usp=sharing</Image4>
 	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3324</ExhibitCode>
+		<ClassId>AT13C432</ClassId>
+		<ClassNo>24</ClassNo>
+		<Surname>村上</Surname>
+		<FirstName>晃誠</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>さいころーる</Title>
+		<Thumbnail>https://drive.google.com/file/d/1uLF115YwtY0wMvDfdJUeRj0XQI_5PWgT/view?usp=drive_link</Thumbnail>
+		<Description>サイコロを動かしゴールを目指すゲーム
+ゴールには条件があり、条件を満たさないとゴールできない。
+条件例　サイコロの面が4の時ゴール可能やあるアイテムを取得してゴールなど
+（アイテム取得は現時点では未実装）</Description>
+		<Video>https://drive.google.com/file/d/1r3RHHV-wBf-AD2bLi2-bo34zkCGAUjwo/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1zv4CJauXMQEzdBEaH4PrwsjPdyRf12Qr?usp=drive_link</GDriveURL>
+		<AppealPoint>本プログラムは、数日で完成させ工数を大幅に削減しました。特に、サイコロの面の動きを正確に制御するアルゴリズムを効率的に設計し、無駄な処理を排除しました。その結果、シンプルでありながら柔軟性のある実装を実現し、開発期間の短縮とリソースの最適化に成功しました。これにより、類似のプログラム開発にも応用可能で、迅速なシステム構築が可能となります。</AppealPoint>
+		<Profile>私は限られた時間の中で最大限の成果を出すことを常に意識し、少ない日数でも仕事をやり遂げる努力を惜しみません。自分の力不足を自覚しつつも、持てる知識やスキルを最大限に活用し、工夫と改善を重ねながら業務に取り組みます。迅速な対応力と粘り強さを活かし、課題に対して柔軟かつ効率的にアプローチすることで、確実に成果を上げることを目指します。</Profile>
+		<Image1>https://drive.google.com/file/d/1nPMyXPY_icbmrT-TnzSuybwhg3EpqesL/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1hKVnnr-V99sbhiM1VIeHTgAS4XnujxEX/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/13kca23CYtw7whLjoUIAxtfgT_pMCpYxM/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1YGaLZaMYoKqLAqsO3--UDtPNe07WBnXd/view?usp=drive_link</Image4>
+	</ProjectDetails>
 </Project>
