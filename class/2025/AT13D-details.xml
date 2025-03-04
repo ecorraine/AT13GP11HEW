@@ -2852,4 +2852,28 @@ C,C#,C++,DirectX11</Profile>
 		<Image3>https://drive.google.com/file/d/1Yka6UvDdB1dBS7O3Kbr-H1L3OIuV59RL/view?usp=drive_link</Image3>
 		<Image4>https://drive.google.com/file/d/1XKkuNl9kN0VInWsV1_f7RydIaPp69xUI/view?usp=drive_link</Image4>
 	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3226</ExhibitCode>
+		<ClassId>AT13B430</ClassId>
+		<ClassNo>26</ClassNo>
+		<Surname>前出</Surname>
+		<FirstName>亮</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>invader2D</Title>
+		<Thumbnail>https://drive.google.com/file/d/1I2-P44HqAhceIP0Sq1XvvPtMk28yg0BB/view?usp=drive_link</Thumbnail>
+		<Description>インベーダーゲームです。インベーダーは横一列に並んで上から降りてきて、プレイヤーはそれを全て撃ち落とすことを目指します。インベーダーが画面下部に到達するとゲームオーバーとなります。</Description>
+		<Video>https://drive.google.com/file/d/1QRlD8YT2avtDgIJghwRASpUxC8cc9rvv/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1aB5xYZAunRnj0klazLGklVztiGhMGYA3?usp=drive_link</GDriveURL>
+		<AppealPoint>インベーダーゲームは、シンプルな操作とルールでありながら、プレイヤーを引き込む中毒性のあるゲームプレイが特徴です。敵のインベーダーを撃ち落としながら、スコアを競う楽しさがあります。
+セールスポイントとして頑張ったところは、いかにシンプルさを失わずに、楽しませるかを考えました。</AppealPoint>
+		<Profile>ゲーム4年制学科　前出亮
+1年の時は、横スクロールアクションゲームを作り、2年では、チーム製作でFPSを題材とした横スクロールアクションゲームを作りました。
+私の強みは、計画力があることです。中学時代、生徒会長だったこともあり、体育祭や文化祭などの多くの学校行事などにも参加していました。
+専門学校在学時に、学童のアルバイトでイベントの企画、準備を任されることになりました。先輩方に話を聞いたり、ネットで調べたりすることでイベントのタイムスケジュールを考えました。音楽構成や細かなスケジューリング、事前の打ち合わせを行うことでよりスムーズに進行できたと思います。
+</Profile>
+		<Image1>https://drive.google.com/file/d/1vb8qCrd756IZZcAUQOjx5dvZvMxBbIY9/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/13LframSk3jUJ8onL6y0EZYob50q93M9C/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1P4mUoF3pMWgYdkXe4dUSvXrSvuFzt7ok/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1_v0pB9KYvp6C2ZmEATgLBa6DQZ0VPqKO/view?usp=drive_link</Image4>
+	</ProjectDetails>
 </Project>
