@@ -2887,7 +2887,7 @@ C,C#,C++,DirectX11</Profile>
 		<Thumbnail>https://drive.google.com/file/d/1Cvsxm76k-QTn1OfCmfgMGDeoyaDBH8kB/view?usp=drive_link</Thumbnail>
 		<Description>DirectX12を使って2D描画を一から組み立てて作りました。そして画像を読み込み描画し、敵を複数生成し、ランダムな位置からプレイヤーに向かって迫ってくるという物です
 ここからさらに手を加えることによってヴァンパイアサバイバーを再現できると思います。</Description>
-		<Video>https://drive.google.com/file/d/1SMzYfU14Zc9GYcYEf1RPHrnxGDiDD_8p/view?usp=drive_link</Video>
+		<Video>https://drive.google.com/file/d/1404I9V_GH2a1lmoPOGc3-6m_ZdQaB8Jl/view?usp=drive_link</Video>
 		<GDriveURL>https://drive.google.com/drive/folders/14vU4a6J_KYb-NvML_BKNqIqDOxja38K4?usp=drive_link</GDriveURL>
 		<AppealPoint>この作品の最大の魅力は、そのスプライトシートの柔軟性にあります。スプライトシートを読み込む際に、縦と横の分割数を設定することが可能であり、どのような分割数でも必要な一コマだけを抜き出すことができます。これにより、さまざまなシーンやキャラクターの動きを簡単に表現できます。さらに、Spriteクラスを実装することで、プレイヤーや敵キャラクター、エフェクト、背景などを描画する際の手間が大幅に軽減できます。</AppealPoint>
 		<Profile>HAL大阪に入学して本格的にゲームプログラミングの勉強を始めました。学ぶうちにプログラミングの奥深さに気づき、その難しさも痛感しています。製作中にエラーが発生して止まってしまうことが度々あり、嫌になることもありました。それでも、ゲームが完成したときの達成感は格別で、頑張って良かったと実感します。</Profile>
