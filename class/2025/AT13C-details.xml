@@ -319,7 +319,7 @@ JSON形式での編集とバイナリ形式での運用を切り替えられる�
 		<Thumbnail>https://drive.google.com/file/d/1334tzPAGjjKle0McScX7pKfoTQI1bmKF/view?usp=sharing</Thumbnail>
 		<Description>プレイヤーvsプレイヤーを想定しているゲームで、タイム制でスコアを競い合うゲームになってます。P2P型のUDP通信を使用したマルチゲームです。プレイヤーの位置情報やアクションをリアルタイムで同期しています。</Description>
 		<Video>https://drive.google.com/file/d/1CTsGzUWwaSSm6USxQF9QdePKvG2pXxm3/view?usp=drive_link</Video>
-		<GDriveURL>https://drive.google.com/drive/folders/1UpPw_abmDbaKCCV0bxIzPUQKqvmw1cAy?usp=sharing</GDriveURL>
+		<GDriveURL>https://drive.google.com/file/d/1CTsGzUWwaSSm6USxQF9QdePKvG2pXxm3/view?usp=drive_link</GDriveURL>
 		<AppealPoint>本ゲームは、P2P型UDP通信を採用し、プレイヤー同士の位置やアクションをリアルタイム同期することで、ラグの少ない快適な対戦を実現。タイム制スコアバトルにより、緊張感のある駆け引きを楽しめます。シンプルながら奥深い競技性が魅力です。</AppealPoint>
 		<Profile>ゲームプログラマーを目指している松本翔馬です。趣味は格闘ゲームとツーリング。チーム制細工の作品でHAL EVENT WEEK　企画賞を受賞。目標は、世代を超えて熱狂できるゲームを作ること。プレイヤーとの対話を大切にし、より多くの人に愛される作品を生み出すことを目指しています。</Profile>
 		<Image1>https://drive.google.com/file/d/1QnE5ZvFkyS76PddS_4WIO5JA4qapjHel/view?usp=drive_link</Image1>
@@ -1081,7 +1081,7 @@ Assimp形式データからバイナリデータに変換するための独自�
 		<Thumbnail>https://drive.google.com/file/d/1vPciUC7Do7ARTg0GiIsdeBmJTEkk2z5m/view?usp=drive_link</Thumbnail>
 		<Description>2D弾幕シューティングゲーム。プレイヤーは戦闘機（またはキャラクター）を操作し、迫りくる敵を撃破しながら弾幕を避けつつハイスコアを目指す。アイテムを取得することで攻撃が強化されクリアを目指す。</Description>
 		<Video>https://drive.google.com/file/d/1imKFMcrTfugtVK2DpZwFu7xyB4Iw0Go2/view?usp=drive_link</Video>
-		<GDriveURL>https://drive.google.com/drive/folders/1iitfsSgl8sn4rvfy4lDZI7-WHtrJETpy</GDriveURL>
+		<GDriveURL>https://drive.google.com/drive/folders/1iitfsSgl8sn4rvfy4lDZI7-WHtrJETpy?usp=drive_link</GDriveURL>
 		<AppealPoint>戦略的な攻撃と圧倒的な爽快感にある。「チャージショットで大ダメージ」 強力な一撃を放ち、敵の弾幕を一掃する快感が味わえる。「アイテムで弾が強化」 拡散弾など、成長する攻撃が戦略性を広げる。「美麗な弾幕」 画面を埋め尽くす敵の攻撃は、危険でありながら視覚的にも美しく、回避の緊張感を高める。チャージ攻撃の駆け引き、パワーアップの楽しさ、弾幕を乗り越える達成感が魅力の弾幕シューティング。</AppealPoint>
 		<Profile>一年次はunityで簡単なゲームを制作、２年次は、本格的なゲーム制作をし始め２ｄゲーム制作などをした、チーム制作で「技術賞」をいただいた。三年次は３ｄゲーム制作の勉強をし簡単なゲームを制作した。</Profile>
 		<Image1>https://drive.google.com/file/d/1y_zN3hglmvCObDhdPOnxVb66fhJ9SGVH/view?usp=drive_link</Image1>
@@ -1862,7 +1862,7 @@ update関数で書くとメニュー画面などの入力待機時に発生し�
 		<Thumbnail>https://drive.google.com/file/d/12vej2H70nOQWd4QvoRXAoVgTfmwFO56U/view?usp=drive_link</Thumbnail>
 		<Description>パチンコの演出に関しての作品を制作しました。大当たり時の演出に関する一連の流れを体験できる作品になっております。一つのパターンしか作成できていません。</Description>
 		<Video>https://drive.google.com/file/d/1wj6IigMC6kc9nak1lNkcIzn4sg2JrFRh/view?usp=drive_link</Video>
-		<GDriveURL>https://drive.google.com/drive/folders/1t3x_QqyqSfly2wGogHf5SyvBLBRKVT8l</GDriveURL>
+		<GDriveURL>https://drive.google.com/drive/folders/1t3x_QqyqSfly2wGogHf5SyvBLBRKVT8l?usp=drive_link</GDriveURL>
 		<AppealPoint>このオリジナルパチンコは、既存のパチンコの演出を取り入れ自分なりにリールの動きや演出にこだわり、臨場感あふれる体験を目指して制作いたしました。音に関しても気持ちよさを考えて現在調整中です。</AppealPoint>
 		<Profile>HAL大阪に来てからプログラムを勉強し始めました。一年生ではゼルダの伝説の真似をした作品を制作しました。二年生ではチーム制作でFPSを操作するゲームを制作しました。三年生の途中で遊技機に興味を持ち、現在制作中です。</Profile>
 		<Image1>https://drive.google.com/file/d/1beoVQC9hN9sHn9E4W-fWvkNIhjeEUckI/view?usp=drive_link</Image1>
