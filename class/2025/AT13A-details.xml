@@ -1604,10 +1604,11 @@ GUI表示に使用したImGuiライブラリでは、参照渡しに対応して
 		<Location>12Fマシンルーム</Location>
 		<Title>ワンスラッシュ</Title>
 		<Thumbnail>https://drive.google.com/file/d/1lYlkMkEzC8871N5NkqkkB1mEIrPLAkE8/view?usp=drive_link</Thumbnail>
-		<Description>変更予定</Description>
+		<Description>現在制作中のゲーム作品です。このゲームのこだわりはヒット&amp;アウェイにこだわり制作しております。</Description>
 		<Video>https://drive.google.com/file/d/1AF9HFfWnhakQ2QebFDU98whgM4TkfhRI/view?usp=drive_link</Video>
 		<GDriveURL>https://drive.google.com/drive/folders/1q0a9CODjD7MexMQ8yKo-CJM6e2G84gsl?usp=drive_link</GDriveURL>
-		<AppealPoint>変更予定</AppealPoint>
+		<AppealPoint>ヒット&amp;アウェイを楽しんでいただける要にダンジョン内のステージのライティングにblinn-phong-fresnelピクセルシェーダーを使用したりこだわりました。
+2つの正弦波を使用したヘッドボブを実装してTPS視点にのめりこんでいただけるように開発したりなどこだわりながら製作しました。</AppealPoint>
 		<Profile>名前：中前 颯斗（なかまえ はやと）
 出身校：HAL大阪
 プロフィール：
@@ -2101,20 +2102,20 @@ HAL入学当初はプログラミング知識が全くなかったため、先�
 		<FirstName>翔</FirstName>
 		<Location>12Fマシンルーム</Location>
 		<Title>果物ゲーム</Title>
-		<Thumbnail>https://drive.google.com/file/d/1vYZNXcB0Q3odrmeJ1h5jur_8Tq_-ZKF4/view?usp=drivesdk</Thumbnail>
+		<Thumbnail>https://drive.google.com/file/d/1vUGMjfelhs3kul5cvmIsAFNlxrMvZh4e/view?usp=sharing</Thumbnail>
 		<Description>このゲームは、プレイヤーが同じ果物を合わせてスコアを競うアクションゲームです。果物はリアルな物理エンジンによって動き、プレイヤーはタイミングを見計らって果物を落としていく必要があります。ゲームの進行に伴い、難易度が上がり、プレイヤーはより高いスコアを目指していくゲームです。</Description>
-		<Video>https://drive.google.com/file/d/1Wy379Vaf5ZJVb_ZuBsQUwvCGH5NEcUf0/view?usp=drive_link</Video>
-		<GDriveURL>https://drive.google.com/drive/u/1/folders/1j2o1GhrNjH9f7V57BzYvhmynGpF-w8CS</GDriveURL>
+		<Video>https://drive.google.com/file/d/1veYv1vYoIyjNgAHsDVQeaL4d8FH2SYr5/view?usp=sharing</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1j2o1GhrNjH9f7V57BzYvhmynGpF-w8CS?usp=sharing</GDriveURL>
 		<AppealPoint>このゲームの魅力は、OpenSiv3Dを用いてゲームに熱狂出来るリアルでユニークな動きです。果物は重力の影響を受け、プレイヤーはその動きを予測して果物を動かし、落下させていく必要があります。
 また、特別なギミックとして「お邪魔フルーツ」が存在します。これらのフルーツは、通常の果物とは異なり、消せない障害物としてプレイヤーの行動を妨げます。お邪魔フルーツを避けながらスコアを稼がなければなりません。これにより、単なるキャッチゲームに留まらず、プレイヤーは思考を巡らせながら楽しむことができます。</AppealPoint>
 		<Profile>初めまして、田中翔と申します。
 普段はmiHoYo作品、特に『崩壊学園』を主に遊んでいる一般学生です。
 
 今回の就職作品では気軽さとゲームに取り付きやすい事を軸に、消せないお邪魔物を出現させる事で単純に落とすだけではないゲームとして実装しました。物が落ちる挙動を予測しながら効率的にスコアを稼ぐという戦略性も生まれ、また遊びたいようなゲーム体験を実装しました。</Profile>
-		<Image1>https://drive.google.com/file/d/1vQJaJwifnAbbfeuktbcEa5BUSNwyxRJx/view?usp=drivesdk</Image1>
-		<Image2>https://drive.google.com/file/d/1vUGMjfelhs3kul5cvmIsAFNlxrMvZh4e/view?usp=drivesdk</Image2>
-		<Image3>https://drive.google.com/file/d/1veYv1vYoIyjNgAHsDVQeaL4d8FH2SYr5/view?usp=drivesdk</Image3>
-		<Image4>https://drive.google.com/file/d/1vUGMjfelhs3kul5cvmIsAFNlxrMvZh4e/view?usp=drivesdk</Image4>
+		<Image1>https://drive.google.com/file/d/1vQJaJwifnAbbfeuktbcEa5BUSNwyxRJx/view?usp=sharing</Image1>
+		<Image2>https://drive.google.com/file/d/1vYZNXcB0Q3odrmeJ1h5jur_8Tq_-ZKF4/view?usp=sharing</Image2>
+		<Image3>https://drive.google.com/file/d/1vUGMjfelhs3kul5cvmIsAFNlxrMvZh4e/view?usp=sharing</Image3>
+		<Image4>https://drive.google.com/file/d/1veYv1vYoIyjNgAHsDVQeaL4d8FH2SYr5/view?usp=sharing</Image4>
 	</ProjectDetails>
 	<ProjectDetails>
 		<ExhibitCode>AT3410</ExhibitCode>
@@ -2503,11 +2504,11 @@ GUIでオブジェクトやコンポーネントのパラメータを編集す�
 		<Location>12Fマシンルーム</Location>
 		<Title>捕まえ!!</Title>
 		<Thumbnail>https://drive.google.com/file/d/1dA1yo_ElR6RY529roio--M7hqtDq8hYi/view?usp=drive_link</Thumbnail>
-		<Description>逃げ出した敵を捕まってください</Description>
+		<Description>逃げ出した敵を見逃すわけにはいかないです。彼の動きを鋭く察知し、迅速に追跡して捕捉しましょう。なかまの指示に従い、計画的な作戦で絶対に捕らえましょう。油断せず、敵の隙を突き確実に制圧するのです。全力で進めましょう。</Description>
 		<Video>https://drive.google.com/file/d/1f8gGDEaeIRFE-1DDNR13USLpW-eA1lvv/view?usp=drive_link</Video>
 		<GDriveURL>https://drive.google.com/drive/folders/101pFy9kjL0fxZKZqsqW0_TePh2oNDmek?usp=drive_link</GDriveURL>
-		<AppealPoint>左上の人の指示に従て逃げ出した敵を捕まってください</AppealPoint>
-		<Profile>特にないです。</Profile>
+		<AppealPoint>左上のキャラクターの指示に従い、逃げ出した敵を確実に追跡しましょう。指示通り各種動作を実行し、ミニミッションを遂行して道具をゲットして、これにより敵に追いかけてみてください。床・壁・球体間の移動状態を自在に切り替え、必ず捕捉することが勝利の鍵となります。戦略的に行動することが最重要であります。急ぎましょう！！</AppealPoint>
+		<Profile>この度は、私の個人制作作品にご注目いただき、誠にありがとうございます。本作品は、左上のキャラクターからの指示に従い、逃げ出した敵を捕らえるシンプルなゲームです。プレイヤーは、キャラクターの要求に合わせ様々な動作を実行し、小さなミッションを達成することで道具を手に入れ、その道具を活用して敵を追跡する仕組みとなっています。また、床、壁、球体など異なる環境間での移動状態を切り替えるシステムを導入し、操作に工夫が求められる点が特徴です。過度に大げさな表現はせず、親しみやすさと遊び心を大切にした内容となっております。どうぞごゆっくりお楽しみいただき、皆様のご意見をお聞かせください。</Profile>
 		<Image1>https://drive.google.com/file/d/1ZbRnPLPK4DojR7qYUdKksXU7oWJyp5Hq/view?usp=drive_link</Image1>
 		<Image2>https://drive.google.com/file/d/1ZbRnPLPK4DojR7qYUdKksXU7oWJyp5Hq/view?usp=drive_link</Image2>
 		<Image3>https://drive.google.com/file/d/16aWCjLDXIAktVvvA-Xnh_SAkKuVr7l7F/view?usp=drive_link</Image3>
@@ -2648,13 +2649,13 @@ AIをリアルタイムで学習し、戦略を変化させることでプレイ
 		<FirstName>輝希</FirstName>
 		<Location>12Fマシンルーム</Location>
 		<Title>ホームランバッター</Title>
-		<Thumbnail>https://drive.google.com/drive/u/3/folders/1lFB1_qo6q3fIGcx-UopebusLRxNTqDtP</Thumbnail>
+		<Thumbnail>https://drive.google.com/drive/u/3/folders/1ydjSSMHjjdljYMhBJKyyCgEfFC93ndv_</Thumbnail>
 		<Description>ホームランを狙え！
 バットを振ってホームランを目指すゲームです。
 投げてくる球を予測して、バットを振りより遠くへ飛ばそう！
 変化球はストレート、カーブ、チェンジアップなど様々。
 あなたも目指せホームラン王!</Description>
-		<Video>https://drive.google.com/drive/u/3/folders/1_AYLeGPLtrUCOHRHo0uigALUD2ucLqYI</Video>
+		<Video>https://drive.google.com/drive/u/3/folders/1ydjSSMHjjdljYMhBJKyyCgEfFC93ndv_</Video>
 		<GDriveURL>https://drive.google.com/drive/u/3/home</GDriveURL>
 		<AppealPoint>このゲームはボールを芯に当てたときの爽快感とホームランを打ったときの爽快感に重きを置いたゲームです。
 
@@ -2668,9 +2669,9 @@ AIをリアルタイムで学習し、戦略を変化させることでプレイ
 私はゲームとパチンコとスロットが大好きです。モンハンワイルズを今はよくプレイしています。
 最近好きなのは、モンキーターンVです。
 それでもぉぉ！ユニコォォォォーン！</Profile>
-		<Image1>https://drive.google.com/drive/u/3/folders/1lFB1_qo6q3fIGcx-UopebusLRxNTqDtP</Image1>
-		<Image2>https://drive.google.com/drive/u/3/folders/1lFB1_qo6q3fIGcx-UopebusLRxNTqDtP</Image2>
-		<Image3>https://drive.google.com/drive/u/3/folders/1lFB1_qo6q3fIGcx-UopebusLRxNTqDtP</Image3>
-		<Image4>https://drive.google.com/drive/u/3/folders/1lFB1_qo6q3fIGcx-UopebusLRxNTqDtP</Image4>
+		<Image1>https://drive.google.com/drive/u/3/folders/1ydjSSMHjjdljYMhBJKyyCgEfFC93ndv_</Image1>
+		<Image2>https://drive.google.com/drive/u/3/folders/1ydjSSMHjjdljYMhBJKyyCgEfFC93ndv_</Image2>
+		<Image3>https://drive.google.com/drive/u/3/folders/1ydjSSMHjjdljYMhBJKyyCgEfFC93ndv_</Image3>
+		<Image4>https://drive.google.com/drive/u/3/folders/1ydjSSMHjjdljYMhBJKyyCgEfFC93ndv_</Image4>
 	</ProjectDetails>
 </Project>
