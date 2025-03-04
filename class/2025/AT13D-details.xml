@@ -2746,4 +2746,24 @@ AIをリアルタイムで学習し、戦略を変化させることでプレイ
 		<Image3>https://drive.google.com/drive/folders/1LCzE6pBLjPTgHyvH6Vo0oOH_HwYlVsGk</Image3>
 		<Image4>https://drive.google.com/drive/folders/1LCzE6pBLjPTgHyvH6Vo0oOH_HwYlVsGk</Image4>
 	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3411</ExhibitCode>
+		<ClassId>AT13D432</ClassId>
+		<ClassNo>11</ClassNo>
+		<Surname>坂本</Surname>
+		<FirstName>恭脩</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>Sound Escape</Title>
+		<Thumbnail>https://drive.google.com/file/d/13UKNGxDEclFekR_Hm0eTfEyqbgwCU2ZU/view?usp=sharing</Thumbnail>
+		<Description>敵を掻い潜りながらゴールを目指すステルスアクションゲーム。敵は、音に敏感で走ったりするとすぐに駆け付けてくるぞ！なるべく余計な音は、出さないようにしながらゴールを目指そう！逆に、わざと音を出して、敵を誘導するのもありかも？！</Description>
+		<Video>https://drive.google.com/file/d/1nucIwvooVukAuieWBP9EouLmIIrj6fZ4/view?usp=sharing</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1AbypYanHnA0vnVTxfGl9co7Qh8wqIx3Q?usp=sharing</GDriveURL>
+		<AppealPoint>敵の動きをなるべく不自然にしないように取り組みました。敵の行動にはA＊を取り入れていて、敵からの追跡を逃れた後に敵の巡回ルートに戻る際や、敵の巡回などに利用しています。仕組みとしては、ステージにオブジェクトとの交差地点の座標をいくつかピックアップし、今いる敵の場所から目的座標までのルートの計算をすべて行い、最短ルートを検索して移動するといった仕組みになっております。
+通常のカメラ視点では上からの見下ろし視点になっているので周りが水らくなっています。ミニマップも用意しておりますが、ステージの構造しかとらえることができず、敵の位置などは分からなくなっています。そのため、オブジェクトに張り付きながら角まで行くとステージの奥の方を見れるようにしました。それにより、敵の位置情報がとらえやすくなったのと、没入感が増しています。</AppealPoint>
+		<Profile>22歳のゲーム大好きなプログラマーです。家に帰るとモチベーションが0になるので作業をするときは大体外に出て行っています。今はハマっているゲームは、モンスターハンターワイルズです。ゲームはそこまでうまくはないですが、スマブラなら自信があるので誰でも申し出てください。好きなゲームはメタルギアシリーズ全般です。スマブラももちろん好きですが、イライラするので好きなゲームには入れていない次第です。FPSもほどほどにやっているのでもしよかったら一緒にやりましょう！</Profile>
+		<Image1>https://drive.google.com/file/d/1g0jJPYmJrgMKB9sAIzLRo7FIBi7r_51F/view?usp=sharing</Image1>
+		<Image2>https://drive.google.com/file/d/173OkVrm2gT2dpTeveWhUKktf2VAdai39/view?usp=sharing</Image2>
+		<Image3>https://drive.google.com/file/d/1jR9Z0FjjMY1MquSuUdhg0sXbfghHePuK/view?usp=sharing</Image3>
+		<Image4>https://drive.google.com/file/d/1xv5c5IzGNNDso_y7R6UbCdfGUD_FCbmr/view?usp=sharing</Image4>
+	</ProjectDetails>
 </Project>
