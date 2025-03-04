@@ -2783,7 +2783,7 @@ AIをリアルタイムで学習し、戦略を変化させることでプレイ
 ネットワークや基本情報の勉強中です。</Profile>
 		<Image1>https://drive.google.com/file/d/1z6LLKClPaIUPNTxKLhuHySaF6UdniWo5/view?usp=drive_link</Image1>
 		<Image2>https://drive.google.com/file/d/1LS65FIg1rNRp-K0Y_EdEUTUM_scTCu4w/view?usp=drive_link</Image2>
-		<Image3>https://drive.google.com/file/d/1LS65FIg1rNRp-K0Y_EdEUTUM_scTCu4w/view?usp=drive_link</Image3>
+		<Image3>https://drive.google.com/file/d/11xPAdSnkuVqvNf7f8EK8bor3Dqss8XDl/view?usp=drive_link</Image3>
 		<Image4>https://drive.google.com/file/d/1_skm_TWyA0OXUIj4khizvgDS9xqVGjjK/view?usp=drive_link</Image4>
 	</ProjectDetails>
 	<ProjectDetails>
@@ -2831,5 +2831,25 @@ C,C#,C++,DirectX11</Profile>
 		<Image2>https://drive.google.com/file/d/1a_Pn6c_Q7-A9nSmLb-dK9vJPQsBY2nXH/view?usp=drive_link</Image2>
 		<Image3>https://drive.google.com/file/d/1DkfVHEY62IzGIeAAbS5kysH2xIxF40gO/view?usp=drive_link</Image3>
 		<Image4>https://drive.google.com/file/d/19ioVZaXC9EGy_ykNAiU8-rlyQYIeWeeg/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3318</ExhibitCode>
+		<ClassId>AT13C432</ClassId>
+		<ClassNo>18</ClassNo>
+		<Surname>細田</Surname>
+		<FirstName>耀生</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>プログラマーからプランナーへ</Title>
+		<Thumbnail>https://drive.google.com/file/d/1uz99N31jcHQgiPr1DOjqE3FKPIfAkBxw/view?usp=drive_link</Thumbnail>
+		<Description>ポートフォリオではチーム制作で作成した作品のレベルデザインについてまとめました。どのようなステージ構成になっているかや、制作時に意識した点を記載しています。プレイヤー体験やプレイヤーの進行を考慮した設計意図についても触れており、作品の特徴や工夫を理解できる内容になっています。また、個人で作成した企画書も掲載しております。</Description>
+		<Video>https://drive.google.com/file/d/1p_sXU7bxaAC1_2gda_ufT9QidHSG0Dsr/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1xKF0JKCOWntebFDi_53VOMhYJbe7UYeA?usp=drive_link</GDriveURL>
+		<AppealPoint>ポートフォリオでは、コンセプトやプレイヤー体験を意識したレベルデザインについてまとめました。ゲーム画面を用いて詳しく説明しているため、どのような設計がどんな意図で、何のために作られたのかが伝わりやすいよう工夫しています。また、ゲームの雰囲気に合ったフォントやデザインを取り入れ、視覚的にも統一感を持たせました。
+企画書では、コンセプトとプレイヤーが体験できることを重視し、わかりやすく整理しました。また、一目見ただけでどんなゲームなのかが想像しやすいように、デザインや構成にも工夫を加えています。</AppealPoint>
+		<Profile>ゲーム制作学科の細田耀生です。プログラマー専攻ですが、プランナーとして就職作品を制作しています。もともとはプログラマーとして作品を作ろうとしていましたが、制作を進めるうちに『なぜこの移動だけで楽しいのか』『何がその楽しさを広げているのか』と、ゲームが面白い理由について気になり始めました。それはプログラマーではなく、プランナーが考えることだと感じ、プランナーへ転向しました。</Profile>
+		<Image1>https://drive.google.com/file/d/1Yka6UvDdB1dBS7O3Kbr-H1L3OIuV59RL/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/12or3kfJaGQUGjMUx4S1Y43yU6EHwqqoN/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1Yka6UvDdB1dBS7O3Kbr-H1L3OIuV59RL/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1XKkuNl9kN0VInWsV1_f7RydIaPp69xUI/view?usp=drive_link</Image4>
 	</ProjectDetails>
 </Project>
