@@ -1035,7 +1035,7 @@ Assimp形式データからバイナリデータに変換するための独自�
 		<Location>12Fマシンルーム</Location>
 		<Title>ロボットマン</Title>
 		<Thumbnail>https://drive.google.com/file/d/1yZDRy97l6vefppuOtgHIwovPEfNBQNgC/view?usp=sharing</Thumbnail>
-		<Description>見下ろし型のアクションゲームです。私の作品は、既存のゲームをもとに模倣して制作しています。プレイヤーがチップを使って敵を倒します。各チップを使うことで、さまざまな効果や演出があります。</Description>
+		<Description>見下ろし型のアクションゲームです。私の作品は、既存のゲームをもとに模倣して制作しています。プレイヤーがカードを使って敵を倒します。各カードを使うことで、さまざまな効果や演出があります。</Description>
 		<Video>https://drive.google.com/file/d/1UgEk1Fd9bSwqo2UwrIjb3SldiiuBM6Ud/view?usp=drive_link</Video>
 		<GDriveURL>https://drive.google.com/drive/folders/1tII9UOksvunDxHzrfJWnbMVF5lvMPKjm?usp=drive_link</GDriveURL>
 		<AppealPoint>セールスポイントは２つあります。一つ目は、ボムを使用した際の爆発と、敵を倒した際の爆発の演出の違いについてです。敵にボムが当たると1回爆発しますが、敵を倒した際も同じく1回だけの爆発では変化がなく単調に感じられるため、爆発の範囲を広げたり、連続で爆発するよう工夫しました。さらに、単なる爆発にとどまらず、カメラを振動させることで視覚的なインパクトを強め、より迫力のある演出を実現しています。
@@ -2962,5 +2962,35 @@ P2Pを使うことで相手の操作を受け取り
 		<Image2>https://drive.google.com/file/d/1O8apmcl0mAs1O4uexpW1JeED0k6WRAeP/view?usp=drive_link</Image2>
 		<Image3>https://drive.google.com/file/d/1h2UfSYRzTIOzvugHDOs7fRZW80kMyGGP/view?usp=drive_link</Image3>
 		<Image4>https://drive.google.com/file/d/1BxOBSPglAIQDGLtXIMycvT-rM8oyOpXD/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>GP1021</ExhibitCode>
+		<ClassId>GP11A423</ClassId>
+		<ClassNo>21</ClassNo>
+		<Surname>辻</Surname>
+		<FirstName>公宏</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>スカイラインスフィア・アストロシューター</Title>
+		<Thumbnail>https://drive.google.com/file/d/1NZ5RKUVOn0aU2SCHla0jO5UHvb_iX2MM/view?usp=drive_link</Thumbnail>
+		<Description>スカイラインスフィアは上空の不思議な空間をコロコロと進んでいくアクションゲームで、技術的な部分をこだわった作品です。アストロシューターは2D弾幕ゲームで、プレイヤー目線のゲーム体験にこだわった作品です。</Description>
+		<Video>https://drive.google.com/file/d/1Fm8gKU9s7pwI0UWBFcLBNTdKwG_zBYAz/view?usp=sharing</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/12UCChXPpcBZRGevynd90rkkkQeOGMw-1?usp=drive_link</GDriveURL>
+		<AppealPoint>　スカイラインスフィアは技術的な部分にこだわった作品です。
+描画面は物理ベースレンダリングとイメージベースライティングを用いて、よりリアルな質感に描画しました。
+また「物理挙動を楽しむ」という作品テーマを実現させるために物理エンジンを導入しました。物理演算による処理負荷が高くなる問題を解決するためにマルチスレッドで処理を行い、処理負荷を大幅に軽減させました。
+ゲームの基盤は、柔軟な設計変更に耐えるために、コンポーネント指向で設計しました。さらに各コンポーネントは実行時に表示されるデバッグウィンドウからパラメータを調節できるようにすることで、開発効率の向上を意識しました。
+
+　アストロシューターはプレイヤー目線のゲーム体験にこだわった作品です。
+　弾幕ゲームという得意不得意が分かれるゲームを幅広い人に楽しんでもらうために、難易度選択ができるようにしました。
+ゲームのUIはプレイヤーの視線を考慮して、プレイの妨げにならず、わかりやすいように設計しました。
+全体を通してイージングを用いた緩急のあるアニメーションを意識し、ヒット時のエフェクトや、被ダメージ時のスロー演出などを用いて気持ちよくプレイできる作品を意識しました。
+画面上の大量の玉を効率的に管理するため、リストと動的生成を用いてオブジェクトの生成と破棄ができるように設計しました。</AppealPoint>
+		<Profile>　深く考えて行動するところが私の強みです。
+　私は何かを始めるときに注意深く考えてから、一番いいと思う行動をするようにしています。例えば、YouTubeのゲームの攻略動画の作成で、画面を録画しながら話すだけの動画ではなく、あらかじめ原稿を作成したり追加で資料を用意したりして動画を作成しています。その結果、動画のタイムリーな更新速度は他の配信者様に負けますが、多くの視聴者様から私の動画が最もわかりやすく参考になったと評価していただけました。
+　仕事におきましては、書いたプログラムが動いた後も、もっと効率的なアルゴリズムがないか考えたり、常に新しい情報を取り入れて考え、成長していく所存でございます。</Profile>
+		<Image1>https://drive.google.com/file/d/12P9HOHM0rhWVHWGpC5eNv_Mek2e1lgPO/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1Eu5pg0Hf7zmvm3RBCI9v3B2atfo-kV7M/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1UQYwN0L4BxnMA4sids7GTQ6wQLuo3ADE/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1GTLeHwFnYdpt4ElYSyFl3ZAAu_88cn2L/view?usp=drive_link</Image4>
 	</ProjectDetails>
 </Project>
