@@ -3053,4 +3053,65 @@ P2Pを使うことで相手の操作を受け取り
 		<Image3>https://drive.google.com/file/d/1K3Bq0uOvFw_r0Ui5qPSygeIuOJ8CtEXi/view?usp=drive_link</Image3>
 		<Image4>https://drive.google.com/file/d/18yxdm5rJ44pdg0MEB6Tw3ZBsj_oFUS_V/view?usp=drive_link</Image4>
 	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>GP1022</ExhibitCode>
+		<ClassId>GP11A423</ClassId>
+		<ClassNo>22</ClassNo>
+		<Surname>ドン</Surname>
+		<FirstName>ゼユ</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>ゲーム内写真システム</Title>
+		<Thumbnail>https://drive.google.com/file/d/1GPx8kemGSLG3dnbQC6JSxFSSUt4GtiVq/view?usp=drivesdk</Thumbnail>
+		<Description>ゲーム内で撮影ができる機能です。この機能を使って、画面の中のISO、コントラスト等々のことが変えます。</Description>
+		<Video>https://drive.google.com/file/d/1MPnOA2aG1uNmFx75Tu9Sab9G3Irehqb8/view?usp=drivesdk</Video>
+		<GDriveURL>https://drive.google.com/file/d/1G1RTCwfnu97bo4iDnqYs2PdFPC1eCaR9/view?usp=drivesdk</GDriveURL>
+		<AppealPoint>1 ゲーム内で、オブジェクトがレンダーリングされだあと、シーンのテクスチャーを獲得して、もう一度レンダーリングします、それによって撮影機能ができます。
+2 大量オブジェの高速ロードど管理 自作のコンテイナークラスを通して、豊富なものが管理できます</AppealPoint>
+		<Profile>ドンゼユ</Profile>
+		<Image1>https://drive.google.com/file/d/1Is8_horPIk97Z7IqvuMaoCy7f1h2ULCm/view?usp=drivesdk</Image1>
+		<Image2>https://drive.google.com/file/d/1kpWDqLjKcpqpCBGDg_SUFny3OYfwg6RB/view?usp=drivesdk</Image2>
+		<Image3>https://drive.google.com/file/d/1EDOndY1UIrxs-imeiZK_sSiSU0FQFl_s/view?usp=drivesdk</Image3>
+		<Image4>https://drive.google.com/file/d/13hCayHMXAp0I3P9VPxUtkGRCzxJ4PtS6/view?usp=drivesdk</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3220</ExhibitCode>
+		<ClassId>AT13B430</ClassId>
+		<ClassNo>20</ClassNo>
+		<Surname>中嶋</Surname>
+		<FirstName>梨乃</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>My vlog</Title>
+		<Thumbnail>https://drive.google.com/file/d/1oQvnx5H6Z_d8staEepllG4YymFf9toq_/view?usp=drive_link</Thumbnail>
+		<Description>私の作品はまだ研究中です。HEWとかそんなの関係ない！私は私だということです。よそはよそうちはうち。この作品はすべて自作の絵、HAL生4か月で習得していきっている作品です。</Description>
+		<Video>https://drive.google.com/file/d/15k_6jf3vccsIY1ucTjg3S6EAKogrUuX2/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1smhejANPUgxBmIc2KEJgtxtw8v6KXEPh</GDriveURL>
+		<AppealPoint>全て自分で書いたので私好みの絵柄にしています。はい、そう他の人は無断転載しまくりで絵も統一できておらず、簡単な絵も描けないやつとは違うということを知らしめています。そして、私は平筆で書くことが好きなので、一本線で描くやつとは違うとうことも示しています。私は興味あるものは全力で注げる力があることをこの4か月で習得した資格となります。</AppealPoint>
+		<Profile>決断力と行動力が私の強みです。2 年次の冬に中国人とチーム制作をすることになり、言葉の壁に直面しました。それが中国語を学ぶきっかけとなりました。中国語の勉強を重ねるうちに中国語を話すことが楽しくなり、メンバー以外の中国人や台湾人ともコミュニケーションが取れるようになりました。その後このコミュニケーションが活かせると思い、一人で台湾旅行へ行ってみました。旅先では受け答えに戸惑うこともありましたが、持ち前のコミュニケーションを活かし対応することができました。実業務においてもこれらの経験を活かし、積極的な行動を通じて意思疎通を図り、チームの目標達成に貢献する所存でございます。</Profile>
+		<Image1>https://drive.google.com/file/d/1JOUWKITRlJU-o8DSD-ciqT3xX2FdnqkG/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/14JPw15zAPkVGeowr3ixGi8K_v7pE7vMy/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1KiFnO_Ow-n-kwxo9X6DBu-HtSqRANvMr/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1-j_HGULCmBoHJbC-q_7vp6gOshIK2csN/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>GP1032</ExhibitCode>
+		<ClassId>GP11A423</ClassId>
+		<ClassNo>32</ClassNo>
+		<Surname>李</Surname>
+		<FirstName>成林</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>kaado</Title>
+		<Thumbnail>https://drive.google.com/file/d/1ujDkJNXcbZ3CLmR-Ep6JQvzXpfbp-6-A/view?usp=sharing</Thumbnail>
+		<Description>テキサスホールデムを取り入れた人生ゲーム風のボードゲーム</Description>
+		<Video>https://drive.google.com/file/d/1wUol0CH4WzP6Rjdw3LeJMlpysUkBLmTU/view?usp=sharing</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1KjdpOnUqhdzoyfEgbxE6CUjMVdkOqL2Z?usp=sharing</GDriveURL>
+		<AppealPoint>ポーカー × ボードゲーム × ローグライクのカードバトル
+このゲームは、テキサスホールデムの戦略性、ボードゲームの進行要素、そしてローグライクのカードバトルを組み合わせた、新しいタイプのゲームです。
+
+プレイヤーはマス目を進みながら、ポーカーの要素を活かしたカードバトルに挑み、戦略的に選択を重ねていきます。運だけでなく、判断力や駆け引きも重要になるので、毎回違った展開を楽しめます。シンプルなルールで遊びやすく、じっくり考える楽しさも味わえるゲームです。</AppealPoint>
+		<Profile>みんなでオンラインでカードゲームを遊ぶと、自然と会話が弾み、楽しい時間が生まれます。そんな雰囲気を大切にしながら、このゲームを作りました。気軽に遊んで、ちょっとした駆け引きを楽しんでもらえたら嬉しいです。</Profile>
+		<Image1>https://drive.google.com/file/d/10EZm4FfmnCHJ-U1wYuYcUGqVOC1yxKUe/view?usp=sharing</Image1>
+		<Image2>https://drive.google.com/file/d/1XFgKy9zjqScabPotetjLtPy1jITT4Z2w/view?usp=sharing</Image2>
+		<Image3>https://drive.google.com/file/d/1YfVHbc6DXrCpMu2Hjb9LIXV9FS9d1nax/view?usp=sharing</Image3>
+		<Image4>https://drive.google.com/file/d/1wUol0CH4WzP6Rjdw3LeJMlpysUkBLmTU/view?usp=sharing</Image4>
+	</ProjectDetails>
 </Project>
