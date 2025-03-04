@@ -2674,4 +2674,76 @@ AIをリアルタイムで学習し、戦略を変化させることでプレイ
 		<Image3>https://drive.google.com/file/d/1MpjtP41ib0meOG8skmRIBJ15xlR4EkYm/view?usp=drive_link</Image3>
 		<Image4>https://drive.google.com/file/d/13I1KDTBTJwMYpQGtJlqWvUOQQ4afGYkh/view?usp=drive_link</Image4>
 	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3120</ExhibitCode>
+		<ClassId>AT13A430</ClassId>
+		<ClassNo>20</ClassNo>
+		<Surname>廣垣</Surname>
+		<FirstName>風哉</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>プランナー志望　ポートフォリオ</Title>
+		<Thumbnail>https://drive.google.com/file/d/11xOMH5nZXg7poouZH4DiU3BGWT7c-grl/view?usp=drive_link</Thumbnail>
+		<Description>本作はAT学科からプランナーとなる為、奔走したプランナー志望のポートフォリオ作品です。専科の受講が多いのでその情報や学んだ知識についてや、意識しているポイントなど分かりやすくまとめるようにしました。</Description>
+		<Video>https://drive.google.com/file/d/1rVxL82kOh9rWfpIhWK8mCBvxZmjuHlff/view?usp=sharing</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1urTw0L9XhEAXUdxYCevEVuERT5PeZ0Xg?usp=sharing</GDriveURL>
+		<AppealPoint>こだわりは、見る人視線を意識したページ構成です。
+何処に目を向けさせるか、何から頭に残させるようにするのかを考え作成しました。
+色味が暗くなりすぎないように意識しました。
+
+チーム制作での経験や反省点を踏まえ、気を付けているポイントも掲載しています。</AppealPoint>
+		<Profile>こんにちは！ゲーム4年制学科の廣垣風哉です。
+趣味は音楽を聴くことやテーマパークに行く事です。
+
+私は1年の頃サブリーダーを経験しそこで、プランナーの楽しさを知りりました。
+その後、プログラマーとして勉強をしていましたが、チーム制作をするたび、プランナーの作業をすることが多く。
+気が付けば、プランナーの道を志していました。
+
+どうぞよろしくお願いいたします。</Profile>
+		<Image1>https://drive.google.com/file/d/1nqp_rOZK5eobhdi0fNjAm7Cgk0z5_gaK/view?usp=sharing</Image1>
+		<Image2>https://drive.google.com/file/d/1D6PAVltQ5YicI-OKnH0UWzkFIPVQQKvQ/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1ykC4sqztokmAU1gcfQe4qhW9Lg9jeH6G/view?usp=sharing</Image3>
+		<Image4>https://drive.google.com/file/d/1aqitu_7p3X61wVrnHlMmyy-Pw7J1Li4L/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3203</ExhibitCode>
+		<ClassId>AT13B430</ClassId>
+		<ClassNo>3</ClassNo>
+		<Surname>上田</Surname>
+		<FirstName>翔太</FirstName>
+		<Location>121教室</Location>
+		<Title>対戦シューティング</Title>
+		<Thumbnail>https://drive.google.com/file/d/146_mcYXhVEqTwo_K0JnElUEuFe3j-UQL/view?usp=drive_link</Thumbnail>
+		<Description>通信対戦ができる２Dシューティングゲームになっています。最大２人プレイが可能で弾が出る機能と通信機能、各プレイヤー移動の３つが実装されています</Description>
+		<Video>https://drive.google.com/file/d/1dfYNFT-A_h15zC6IojU26aPwK6hzyRsC/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1QsyEy60ce6HJFr6GHdFIUkMgcfDiXrkO?usp=drive_link</GDriveURL>
+		<AppealPoint>peartopearを使った通信ゲームになっています今はまだ実装していないのですがHPと弾が当たった時のダメージ、リザルト画面が実装できればもっとゲームっぽく仕上がると思います非常に管理しやすく作りやすいものとなっています。</AppealPoint>
+		<Profile>AT学科Bクラス０３番、奈良県生まれ奈良県育ちです上田翔太です。使用言語C++、プログラミング自体は苦手ですがここまで作ることが出来来ました。趣味はゲーム、アニメ、音楽、旅です。最近はライブに行ったりするのが特に好きです。苦手なことは計画を立てることです。</Profile>
+		<Image1>https://drive.google.com/file/d/158lJPaW3ZCN5IvKSeIwkIOYErT2q1rmu/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/158lJPaW3ZCN5IvKSeIwkIOYErT2q1rmu/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1h5Kbet6kQ8vx0mbdCgImXT_epqbptOUr/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1Zerd2N5wT0vTsOsKMAUUPe-_SRjIexjo/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3312</ExhibitCode>
+		<ClassId>AT13C432</ClassId>
+		<ClassNo>12</ClassNo>
+		<Surname>中森</Surname>
+		<FirstName>柊志</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>Tarnished</Title>
+		<Thumbnail>https://drive.google.com/drive/folders/1LCzE6pBLjPTgHyvH6Vo0oOH_HwYlVsGk</Thumbnail>
+		<Description>武器を振る楽しさを追求したゲームです。ボーン名で参照可能な機構を実装し、武器の描画を制御することで、キャラクターが直感的に武器を扱える仕組みを構築しました。また、主成分分析（PCA）を用いてボーンごとにOBB（Oriented Bounding Box）を生成し、モデルの空間的な情報を把握しやすくしています。
+</Description>
+		<Video>https://drive.google.com/drive/folders/1KMA0OB54n3nlirxid6PrtyjwRY9ji3eX</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1TKV_5rBg43gEpZzxitRcyV4onlJ-4SlJ</GDriveURL>
+		<AppealPoint>また、ボーン関連の計算にも取り組んでおり、主成分分析（PCA）を活用してボーンごとにOBB（Oriented Bounding Box）を生成する仕組みを構築。さらに、ボーン名を参照できるシステムを実装し、キャラクターに武器を持たせる機能を開発しました。これにより、装備システムの拡張性を高め、直感的にアセットを管理できる環境を実現しています。
+</AppealPoint>
+		<Profile>私は3Dプログラマーとして、アクションゲームの開発に取り組んでおり、戦闘の楽しさをゲームにしようと思い作成しています。過去には、東京ゲームショウに出展されたゲームのマップ制作を担当し、クオリティの高い環境デザインを実現しました。
+
+現在は、C++とDirectX11を用いたゲーム開発を進めており、特にモデルデータの最適化と独自フォーマットの構築に挑戦中です。FBXの読み込みにおける課題を解決するために、効率的なバイナリ形式の導入を試み、ロード時間の短縮とデータ管理の最適化を図っています。</Profile>
+		<Image1>https://drive.google.com/drive/folders/1LCzE6pBLjPTgHyvH6Vo0oOH_HwYlVsGk</Image1>
+		<Image2>https://drive.google.com/drive/folders/1LCzE6pBLjPTgHyvH6Vo0oOH_HwYlVsGk</Image2>
+		<Image3>https://drive.google.com/drive/folders/1LCzE6pBLjPTgHyvH6Vo0oOH_HwYlVsGk</Image3>
+		<Image4>https://drive.google.com/drive/folders/1LCzE6pBLjPTgHyvH6Vo0oOH_HwYlVsGk</Image4>
+	</ProjectDetails>
 </Project>
