@@ -276,10 +276,10 @@ JSON形式での編集とバイナリ形式での運用を切り替えられる�
 私の強みは、授業中に不明な点があればその場で放置せずに自分で調べて解決できることです。私は小学生の頃にまだ未知だった単語はすぐに辞書などで調べる癖がありましたが、結果的にはその成果をテストで発揮でき、高得点に繋げることができました。
 
 そこから今でもこの経験は継続して活きており、特にゲーム制作でのコーディングで苦しくなってもインターネットの情報を見て理解を深めることができるように日々精進しています。</Profile>
-		<Image1>https://drive.google.com/file/d/1ve9q5MZNJGv7rlC988xVaL2MqwLGNCJT/view?usp=drive_link</Image1>
-		<Image2>https://drive.google.com/file/d/161XN7rmlcBmjju3FX3vi8CpCNkLyhfI_/view?usp=drive_link</Image2>
-		<Image3>https://drive.google.com/file/d/19fZXGsZfgL0iK0tYV_kvvRICiOgID0_e/view?usp=drive_link</Image3>
-		<Image4>https://drive.google.com/file/d/1dtGNCbirYzrWVCC5BiLw6PDIgbkRPXiY/view?usp=drive_link</Image4>
+		<Image1>https://drive.google.com/file/d/1TI9KMtp4g6nSTSBrSFDZkqNyzeVPh0pA/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1MywYbYPzq0C65KkjNn1L7U9SSbCwH7oV/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1RxThST91VVIy4aPgCKXI8-NjZqf5U_T6/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1f9Se-sE3q39G99hUG1H17KX8jpIgvpG-/view?usp=drive_link</Image4>
 	</ProjectDetails>
 	<ProjectDetails>
 		<ExhibitCode>AT3112</ExhibitCode>
@@ -556,7 +556,7 @@ HEW当日は、ソースコード付きフレームワークを配布予定で�
 		<Thumbnail>https://drive.google.com/file/d/1JpHSeDA_I-Q_1zlsypt7VZWhrzbIMVd6/view?usp=drive_link</Thumbnail>
 		<Description>この射撃RPGでは、プレイヤーは主人公となり、謎の迷宮へ足を踏み入れ、行方不明の姉に関する手がかりを探します。迷宮の奥深くには、危険と未知が潜んでいます。探索を進める中で、様々なモンスターと戦い、財宝を集め、重なる謎を解き明かしていきます。</Description>
 		<Video>https://drive.google.com/file/d/1BuMthdR7qGCjQut7I75dG3B-xFjkQ-VL/view?usp=drive_link</Video>
-		<GDriveURL>https://drive.google.com/file/d/1Pzz-2z8iMIUBJltbCzmlAyo88PfgYFL4/view?usp=drive_link</GDriveURL>
+		<GDriveURL>https://drive.google.com/file/d/1Fic4_WLXTe6EkRVLzCWUWd2T1ytwE4Ex/view?usp=drive_link</GDriveURL>
 		<AppealPoint>遠距離武器の多形態変化（通常形態、狙撃、剣など）。
 RPGスキルツリーと自由なポイント配分システム。
 動的なストーリーとサブクエストによりエンディングが変化。
@@ -1495,7 +1495,7 @@ GUI表示に使用したImGuiライブラリでは、参照渡しに対応して
 		<FirstName>空</FirstName>
 		<Location>121教室</Location>
 		<Title>ガンバンban</Title>
-		<Thumbnail>https://drive.google.com/file/d/1VpxLsg9X9R_zr_aLjSk7Rxh1_GpS_jkw/view?usp=drive_link</Thumbnail>
+		<Thumbnail>https://drive.google.com/file/d/1ssiesBW-aOYWffU2-2dA9uhPzRKWvV0_/view?usp=drive_link</Thumbnail>
 		<Description>プレイヤーが銃を操作し、次々と出現する的を撃ってスコアを競うシューティングゲーム。素早い判断と正確なエイムが求められ、連続ヒットで高得点を狙える。シンプルながら爽快感のあるゲーム性が特徴。</Description>
 		<Video>https://drive.google.com/file/d/1re-U3pksmX-JpNpLe7_BrYGnNZBQIwQS/view?usp=drive_link</Video>
 		<GDriveURL>https://drive.google.com/drive/folders/1A5D63eUmcj8FoTLETiK7u5e77zzoqXC1?usp=drive_link</GDriveURL>
@@ -1699,10 +1699,10 @@ IT業界志望で就活中です。</Profile>
 		<Description>ジャンルは３Ｄシューティングゲーム。敵が城に到達する前に倒すとゲームクリア。到達するとゲームオーバー。プレイヤーは複数の大砲を切り替え、より多くの大砲の弾が敵に当たるように狙い、すべての大砲を起動し、撃つ。</Description>
 		<Video>https://drive.google.com/file/d/1uPelxuuWgRuiA8nrtHmTj1qhEoHGUiOf/view?usp=drive_link</Video>
 		<GDriveURL>https://drive.google.com/drive/folders/1vPYb_yeAbZXpmHTjmSSJbk-TPj20fXCf?usp=drive_link</GDriveURL>
-		<AppealPoint>大砲を気持ち良く撃つために威力の可視化が大事だと考え発射した時の煙を実装しました。
-等速だと撃った瞬間の威力を感じにくかったため、減速率や減速する時間を調整できるように実装することで、初速度を早くし、一定時間徐々に減速させ、最後に等速にすることが可能になり、撃った瞬間の威力を感じるようにできました</AppealPoint>
+		<AppealPoint>大砲を気持ち良く撃つために威力を感じさせることが大事だと考え発射した時の煙を実装しました。
+等速だと撃った瞬間の威力を感じにくかったため、減速率や減速する時間を調整できるように実装することで、初速度を早くし、一定時間徐々に減速させ、最後に等速にすることが可能になり、撃った瞬間の威力を感じるようにできました。</AppealPoint>
 		<Profile>私の強みは面白さの軸がぶれないようにプログラムできる点です。
-コンセプトから段階的に分解し、何が大事かを理解し、それを元にプログラムすることができます。このゲームではコンセプトが集中砲火でプレイヤーに体験させるために大事なのが、複数の大砲で一点を撃つ狙いやすさと大砲を撃った時の気持ち良さ、大砲を撃った時の気持ち良さから、撃った瞬間の威力を感じるように工夫し煙を実装。</Profile>
+コンセプトから段階的に分解し、何が大事かを理解し、それを元にプログラムすることができます。このゲームではコンセプトが集中砲火でプレイヤーに体験させるために大事なのが、複数の大砲で一点を撃つ狙いやすさと大砲を撃った時の気持ち良さ、大砲を撃った時の気持ち良さから、撃った瞬間の威力を感じるように工夫し煙を実装しました。</Profile>
 		<Image1>https://drive.google.com/file/d/1oubrtxZ3mzZNl5KfniTnaYYD9Lze9TKF/view?usp=drive_link</Image1>
 		<Image2>https://drive.google.com/file/d/1Vm55L10xpjnm5BeGzZGYPa0jnn4YONK9/view?usp=drive_link</Image2>
 		<Image3>https://drive.google.com/file/d/1syrxEuA-vbfPD2Jh6aP87RqqUB8P7Und/view?usp=drive_link</Image3>
@@ -2101,7 +2101,7 @@ HAL入学当初はプログラミング知識が全くなかったため、先�
 		<Thumbnail>https://drive.google.com/file/d/1vYZNXcB0Q3odrmeJ1h5jur_8Tq_-ZKF4/view?usp=drivesdk</Thumbnail>
 		<Description>このゲームは、プレイヤーが同じ果物を合わせてスコアを競うアクションゲームです。果物はリアルな物理エンジンによって動き、プレイヤーはタイミングを見計らって果物を落としていく必要があります。ゲームの進行に伴い、難易度が上がり、プレイヤーはより高いスコアを目指していくゲームです。</Description>
 		<Video>https://drive.google.com/file/d/1Wy379Vaf5ZJVb_ZuBsQUwvCGH5NEcUf0/view?usp=drive_link</Video>
-		<GDriveURL>https://drive.google.com/drive/u/1/my-drive</GDriveURL>
+		<GDriveURL>https://drive.google.com/drive/u/1/folders/1j2o1GhrNjH9f7V57BzYvhmynGpF-w8CS</GDriveURL>
 		<AppealPoint>このゲームの魅力は、OpenSiv3Dを用いてゲームに熱狂出来るリアルでユニークな動きです。果物は重力の影響を受け、プレイヤーはその動きを予測して果物を動かし、落下させていく必要があります。
 また、特別なギミックとして「お邪魔フルーツ」が存在します。これらのフルーツは、通常の果物とは異なり、消せない障害物としてプレイヤーの行動を妨げます。お邪魔フルーツを避けながらスコアを稼がなければなりません。これにより、単なるキャッチゲームに留まらず、プレイヤーは思考を巡らせながら楽しむことができます。</AppealPoint>
 		<Profile>初めまして、田中翔と申します。
@@ -2286,5 +2286,355 @@ GUIでオブジェクトやコンポーネントのパラメータを編集す�
 		<Image2>https://drive.google.com/file/d/1Htkr19hgZnFVqesdDg8QKLvt70F64iXA/view?usp=drive_link</Image2>
 		<Image3>https://drive.google.com/file/d/13RZX9mTAzxs-uiONiZUopzyAS1MWF7L9/view?usp=drive_link</Image3>
 		<Image4>https://drive.google.com/file/d/1Dk-S_XZmBCcbmW3Gfg2bELDBKQe8PTaG/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>GP1033</ExhibitCode>
+		<ClassId>GP11A423</ClassId>
+		<ClassNo>33</ClassNo>
+		<Surname>李</Surname>
+		<FirstName>維軒</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>ROBOTDEFENDER</Title>
+		<Thumbnail>https://drive.google.com/file/d/17exYVG831UppSOf3yIu6_-If6XwQhKsx/view?usp=drive_link</Thumbnail>
+		<Description>プレイヤーはロボットを操作し、襲来する敵を迎え撃ちます。ダッシュや射撃を駆使し、決められた波の敵を食い止め撃退します。武器は拳と銃のみで、近接攻撃と遠距離攻撃を使い分けながら戦います。</Description>
+		<Video>https://drive.google.com/file/d/1HhyCoRn3zwSZWQMSxZ7q8ORrLs5Jp0a2/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1U77hclK-aTcuEHac5dv5uKjbXkY0noQx?usp=drive_link</GDriveURL>
+		<AppealPoint>『ROBOTDENENDER』は、私の3Dゲーム開発スキルを示す作品です。DirectXを活用し、スムーズな機体の動き、リアルな物理演算、そして精密な射撃感覚を実現しました。武器システムでは、反動や火花のエフェクトを加え、遠距離攻撃の爽快感を強化。一方、近距離戦闘では拳の衝撃力を重視し、迫力のあるバトルを演出しました。さらに、機体の損傷表現として、コックピットのガラス破損や視界のぼやけを再現し、戦闘の緊張感を向上。私の開発力を存分に発揮した作品となっています。</AppealPoint>
+		<Profile>ゲーム開発の基礎を学ぶため、本作を制作しました。
+開発当初はオブジェクトの親子関係や座標計算の概念に不慣れで、キャラクターの武器の位置計算に苦戦しましたが、試行錯誤の末、行列を活用した回転処理を学び、適切に配置できるようになりました。
+また、本作の開発は基礎知識が不十分な状態から始めたため、授業のコード以外は独学で学びながら進める必要がありました。並行してアルバイトもあったため、限られた時間の中で効率よく学び、実装を進めることが大きな課題でした。
+このプロジェクトを通じて、オブジェクトの親子関係、ワールド座標の重要性、物理演算の基礎知識を習得し、ゲーム開発の基盤を築くことができました。</Profile>
+		<Image1>https://drive.google.com/file/d/1AVShZb0sC9cMHrC9JGLO2vV7UjBejHgZ/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1esbanuhpDuqcQx0CRhyCxJxNwHEmi1k6/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1Fq9Ag0cajYDchSDvPZSdQj9t4JG7t5tz/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/107oJ8JnhKQfBXgG_aHoEeHyUseEAsr2c/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3210</ExhibitCode>
+		<ClassId>AT13B430</ClassId>
+		<ClassNo>10</ClassNo>
+		<Surname>後藤</Surname>
+		<FirstName>良太</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>データベース連携</Title>
+		<Thumbnail>https://drive.google.com/file/d/1eACwTldAe4NzaoTpmtk_jHTDo-f14mfa/view?usp=drive_link</Thumbnail>
+		<Description>VSCODEで作成したプロジェクト。MYSQLを使用して、vscodeで作成したページからデータベースにデータを挿入することができ、データベースに登録した内容を編集、削除することが出来る。</Description>
+		<Video>https://drive.google.com/file/d/1VKJbBYHwVhI0Nd5j-5qyEN_CYqZmdAKy/view?usp=sharing</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1vKwGxlBbHCGW6GIojhKciz4Fo-YT1Y9c?usp=sharing</GDriveURL>
+		<AppealPoint>このプロジェクトのセールスポイントは、Node.js（Express）とMySQLを活用した、シンプルかつ効率的なユーザー管理システムです。ユーザーの登録・編集・削除が可能で、直感的なUIを備えた管理画面を提供。データベースと連携し、リアルタイムで情報を更新できるため、利便性が高い点が特徴です。また、非同期通信を用いたスムーズな操作性を実現し、ユーザーエクスペリエンスを向上させています。拡張性もあり、カスタマイズしやすい設計のため、さまざまな用途に適応可能です。</AppealPoint>
+		<Profile>私の強みは「挑戦力」です。授業では習っていないIT系の分野に対しても恐れずに前向きに取り組み、困難を乗り越えました。未知の分野でも積極的に学び、経験を積んでいく姿勢を大切にしています。どんな状況でも挑戦し続けることで、自分自身を成長させ、周囲にも良い影響を与えられると信じています。</Profile>
+		<Image1>https://drive.google.com/file/d/179OxpbnDK3OkUUDagLIp1xafLMMPs7IM/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1qg8bpSenO8dhBmpjGh8_cr3O9DZ-_wIG/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1qqw73gGWitSaRDtE9pWtze41VFznRMSQ/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1NkXEiVSoZeKON4IgCjsWTUXy04B2vmTZ/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3413</ExhibitCode>
+		<ClassId>AT13D432</ClassId>
+		<ClassNo>13</ClassNo>
+		<Surname>髙下</Surname>
+		<FirstName>大揮</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>ULTRAPID</Title>
+		<Thumbnail>https://drive.google.com/file/d/1aOhOgAdHokiBwzSwhwB6qMW-ke8jteuR/view?usp=sharing</Thumbnail>
+		<Description>スピード系の3Dアクションゲームです。 内容はトゲトゲしたキャラクターを操作して、ステージ上を駆け回り、ステージ内に散らばっているオブジェクトを壊しながら制限時間内により多くのスコアを稼ぐ内容です。キャラクターは徐々に速度がアップしていきます。スピードが速ければ速いほどより多くのスコアを獲得できる仕様となっています。高スピードを維持して最終的にハイスコアを目指すのがこのゲームの目的です。</Description>
+		<Video>https://drive.google.com/file/d/1ZVD8rqIZ8LJx1H0QvFbhpsLAmmYe4hho/view?usp=sharing</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1f1J1-AUzM6hUBtV5OTMeayrsVP_0Cdt7</GDriveURL>
+		<AppealPoint>セールスポイントは主に3つあります。
+1つ目はスピード感を演出するために工夫したことです。内容としては、プレイヤーにキャラクターが速く動いているという印象を持たせるための「カメラの視野角度操作」・スピード感を視覚的に見せるための「モーションブラーや火花などのエフェクト」・衝突した重みを与えるための「ヒットストップ」（低速ほどヒットストップがかかり、高速ほどヒットストップがかからない工夫）・ゲーム性を高めるための「ドリフト」（一旦減速からの急加速でさらにスピード感を見せる工夫）・現在の速度を表す「速度UI」などでこだわり、工夫しました。
+2つ目は処理負荷軽減において工夫したことです。スピード感あるゲームを作る上で特に気を付けていたのが、スピード感が損なわれないように絶対にFPSを下げないという工夫で、主にインスタンシング・フラスタムカリング・当たり判定面で工夫しました。
+3つ目はチーム制作を考慮した開発段階でのプログラム設計です。主な工夫点はマップデータの作成、読み込み・GUIによる直感的なパラメータ操作・デバッグ効率を上げるためのフレーム単位での一時停止機能です。セールスポイントは以上です。</AppealPoint>
+		<Profile>私の強みは向上心や学習意欲があり、確実に目的を達成させる力があることです。ゲーム制作において必ず完成させるという目標を持ちつつ、知らないことやできないことがあれば自ら調べ理解し実装、知識や技術として身に付ける力があります。学生時代はこの強みを活かして学内のコンテストにおいて複数の賞を受賞することもできました。</Profile>
+		<Image1>https://drive.google.com/file/d/10vKnVEQrR277DdYK2O-4Rp8QKIlSfIuW/view?usp=sharing</Image1>
+		<Image2>https://drive.google.com/file/d/1AE3RbuZ96E7zgjk1vOA-YLbT-iLmlmrc/view?usp=sharing</Image2>
+		<Image3>https://drive.google.com/file/d/1AT2FpeS_SFs26OawHQtD0F8z41ckh7gY/view?usp=sharing</Image3>
+		<Image4>https://drive.google.com/file/d/1pbYFXfxYmfO2WlR1jtqF8oyj-xnnwi4J/view?usp=sharing</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>GP1026</ExhibitCode>
+		<ClassId>GP11A423</ClassId>
+		<ClassNo>26</ClassNo>
+		<Surname>春山</Surname>
+		<FirstName>翔</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>ハンターリディング</Title>
+		<Thumbnail>https://drive.google.com/file/d/1H-wGEJosCtcIz_BOqqh2uMZAdPc74wfB/view?usp=drive_link</Thumbnail>
+		<Description>依頼達成を目的とした達成型アクションゲームです。あなたは、狩者として覚醒しました。住民の頼みを受け、武器を手にして、危険なモンスターや環境に身を投げだし、住民の依頼達成を目指してください。</Description>
+		<Video>https://drive.google.com/file/d/12RZhlti5sLwxSMm4YQxv8JHD_oSqR9Sf/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/12SDBb7YghzafUzFYKbiy79WizkPCsCXu?usp=drive_link</GDriveURL>
+		<AppealPoint>当たり判定の最適化とオブジェクトに一括管理できるマネージャーです。当たり判定は条件を追加して当たり判定の複雑な処理を減らすことでを高速化を図りました。そして、それらをまとめて適応さらに実行などを管理できるようにマネージャーを作りました。</AppealPoint>
+		<Profile>私の強みは、何事にも挑戦し続けることです。学業や独自で学んだことを実践したり、それを基に応用したものに挑戦し、失敗しても私自身納得がいくまで挑戦し続けるからです。私は、HAL大阪に入学するまで、プログラミングに触れたことはありませんでした。そんな中HAL大阪で学んだことを活かして今回の作品をつくりました。</Profile>
+		<Image1>https://drive.google.com/file/d/1seiT-zO8avxW9pSz5RYtrZ-PybR_bGNV/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1ApkKOIkNqQD35GqZZwxPW7lKBq4D9xGb/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1jPaWlTVBizV8ptdRzfTcPDxoK9f3hCyY/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1MafwNSpvAaPB6WxdOcMFHLyAjuVznOI0/view?usp=sharing</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3306</ExhibitCode>
+		<ClassId>AT13C432</ClassId>
+		<ClassNo>6</ClassNo>
+		<Surname>関</Surname>
+		<FirstName>孝治</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>ClimbCloud</Title>
+		<Thumbnail>https://drive.google.com/file/d/1IKtxh4SSWSXiE0au2UhBhkxpCMY_QmGI/view?usp=drive_link</Thumbnail>
+		<Description>プレイヤー（猫）を操作して、一番上にあるフラッグを目指そう！雲は常に動いているので、落ちないように気をつけながら進もう。足場の動きをよく見て、タイミングよくジャンプすることが攻略のカギだ！操作方法：左右キーで移動、スペースキーでジャンプ。うまくバランスを取りながら、ゴールを目指して頑張ろう！</Description>
+		<Video>https://drive.google.com/file/d/1iBLVgVOYA1b0zy0MFjis5aYnexTC2dkM/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1_XGZHn5b5yKAGCLyp0X8U_HfIGpmga6L?usp=drive_link</GDriveURL>
+		<AppealPoint>※ソースコードのセールスポイント
+&lt;CameraController.cs&gt;
+・ コードの可読性が向上
+・ クラス継承を活用し、拡張しやすい設計
+・ インスペクターから対象を変更可能
+
+&lt;ClearDirector.cs&gt;
+・コードの可読性・拡張性が向上
+・クラス継承でシーン遷移の処理を共通化
+・インスペクターから遷移先を自由に変更可能
+
+&lt;CloudMovement.cs&gt;
+・コードの可読性が向上
+・クラス継承により、他の動くオブジェクト（例えば縦移動の雲）を簡単に追加可能
+・インスペクターからパラメータ調整が可能で、柔軟なカスタマイズが可能
+
+&lt;JumpSound.cs&gt;
+・コードの可読性・拡張性が向上
+・クラス継承により、異なる音を鳴らすスクリプトを簡単に追加可能
+・インスペクターから効果音を変更できるので、柔軟な調整が可能
+
+&lt;PlayerController.cs&gt;
+・コードの可読性が向上し、どこで何をしているか分かりやすくなる
+・クラス継承により、敵キャラなどの新しいキャラクターも BaseCharacterController を継承することで簡単に作れる
+・インスペクターからパラメータを変更できるため、調整が楽になる</AppealPoint>
+		<Profile>名前
+関孝治(セキコウジ)
+
+学歴・出身地
+・群馬県出身
+・共愛学園高等学校　中退
+・中央高等専修学校(クラーク記念国際高等学校)　卒業
+・東洋医療専門学校歯科技工士学科　中退
+・HAL大阪　在籍
+
+経歴・職歴
+・英検２級を取得
+
+今後のビジョン
+残り少ない学校生活の中で得意分野を伸ばしていって、将来就職したときに強みになれるように精一杯尽くしていきたいです！
+
+趣味
+カラオケ、オタク活動、ゲーム(特にウマ娘)</Profile>
+		<Image1>https://drive.google.com/file/d/1PN55AF41kwzs34-7yvga3t2Uu8nkILvI/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1_HTjyv8IQo_TcRinHTsJmXbKeG_oMFaZ/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1MY7GpGfFNlzwaN14rQoa1XqCjGsE_ahm/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1e3jj8Pnhr7FoXMWK1Duy4xJ7SzyM0E_6/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3420</ExhibitCode>
+		<ClassId>AT13D432</ClassId>
+		<ClassNo>20</ClassNo>
+		<Surname>藤本</Surname>
+		<FirstName>一樹</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>HAL LEAGUE</Title>
+		<Thumbnail>https://drive.google.com/file/d/1_ZE1viUP3ukU5eUaCJW-Zf3tm18hfPSD/view?usp=drive_link</Thumbnail>
+		<Description>3Dオブジェクトを回転させて見本の角度に合わせるゲームです。イージーモードでは回転角度だけですが、ノーマルで大きさの変化が加わりハードでは見本を見えなくする円が動き回ります。</Description>
+		<Video>https://drive.google.com/file/d/1v7gz86PIn1GnYlQa4THVb7USaFaXAtlS/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/file/d/1eo0SrB2705EMYXw1kGhco6-0E7lioHCd/view?usp=drive_link</GDriveURL>
+		<AppealPoint>簡単な操作。スムーズなゲームの起動</AppealPoint>
+		<Profile>男。23歳。身長173センチ。体重45キロ</Profile>
+		<Image1>https://drive.google.com/file/d/1V-bQ7K1Uv9nNnuivREhpXCCWW8lu3dqu/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1N59kXD-SpNdGj7hID9GT77ru6Krb6u0F/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1pUYaIdg1Uubvmsm7243b6dhuVMfFwZkZ/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1N59kXD-SpNdGj7hID9GT77ru6Krb6u0F/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3403</ExhibitCode>
+		<ClassId>AT13D432</ClassId>
+		<ClassNo>3</ClassNo>
+		<Surname>井戸本</Surname>
+		<FirstName>一輝</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>ハイランナー</Title>
+		<Thumbnail>https://drive.google.com/file/d/1qjpLdmw7q-OpzWSA32uXVhkGxkA7XVT_/view?usp=drive_link</Thumbnail>
+		<Description>進めば進むほどだんだんと早くなっていくキャラクターを操作してゴールを目指して行くハイスピードアクションゲームです。道中にあるコインを拾うとスピードの上限が上がっていくことで高速では走ることができます。</Description>
+		<Video>https://drive.google.com/file/d/1XmYjjwtU7Wwzf7vHnnivGRldcMvOX7OW/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/16oBQeALeZR8jVIyAIgAqeE0jvBFURnob?usp=drive_link</GDriveURL>
+		<AppealPoint>「疾走感」を感じてもらえるように制作していました。
+操作面では、「ボタンを長押しでスピードが加速する、アイテムを獲得することで
+スピードの上限が上がっていく、キャラの操作をやめた後少し滑る」
+演出面では、「残像表現、風切り音、カメラと自キャラの距離を離して追従」などの実際に現実で起こせる事と現実で起こすことができなさそうな事を実装することでゲーム的な表現になるように行いました。またキャラクターがただ滑るのではなく操作をやめるまでに動いていたキャラクターのスピードの速さの分だけ滑る量が多くなるようにしたり、カメラも
+ずっと離れるのではなく、自キャラのスピードがある一定までに達すると距離ができ、操作をやめると元に戻るようにしてゲームとしてのメリハリをつけることで「疾走感」がより
+感じやすいようにしています。</AppealPoint>
+		<Profile>私の強みは、作品を作るにあたっての挑戦的な意欲と負けず嫌いなところです。一年生の時に学内コンテストがあり2か月余りの期間の中で、Unityで作品を作り上げ発表するのですが、授業では夏休みに入るまでの約３か月間教えてもらいましたが、授業の範囲だけでは自分がしたい表現を表すのは難しいため、自主的に実装の仕方をサイトやYoutubeなどで調べてゲームを制作し提出したところ、意欲賞を受賞することができました。また基本情報技術者試験を取得する際に学校の授業のカリキュラムで午前免除試験を受けることができるのですが１年の間に取得し、午後試験のみを受かるまで何度も受け続けて取得することができました。午前免除試験や午後試験を無事成功に収めたのは負けず嫌いな性格が功を奏したのではないかと思います。</Profile>
+		<Image1>https://drive.google.com/file/d/1889OJ0LeglIqqX61Pvcd_N_foUuIvSEn/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1K-cl7V7LMkx-oS5RhHRYIYKNCuqglJSs/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/11L11WZy6cRJixCnfSqTstfHu9tZrW8Ns/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1HiDoux8OLDjE0ojLltQ5e487JeA1-Oi7/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3314</ExhibitCode>
+		<ClassId>AT13C432</ClassId>
+		<ClassNo>14</ClassNo>
+		<Surname>濵田</Surname>
+		<FirstName>秀一</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>スペースシューティング</Title>
+		<Thumbnail>https://drive.google.com/file/d/1RqyOpPH-H1sSJoZZkMEpfIdYO23vg5-v/view?usp=drive_link</Thumbnail>
+		<Description>3D空間を自由に飛び回りながら敵機を撃破するシューティングゲームです。プレイヤーは戦闘機を操作し、迫りくる敵をミサイルで迎撃しながらスコアを稼ぎます。爆発エフェクトや群れ行動をする敵の挙動など、視覚的にも楽しめる要素を取り入れています。シンプルな操作性ながらも戦略的な立ち回りが求められる作品です。</Description>
+		<Video>https://drive.google.com/file/d/1TiBmUY9VZZd93owuvDSoGNrdS9CFKEJr/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1ox19dWWXUGCmCOunH2pQ8sjsT6puAxzH?usp=drive_link</GDriveURL>
+		<AppealPoint>本作の魅力は、ダイナミックな爆発エフェクトと直感的な操作性にあります。プレイヤーは自機の動きと攻撃を駆使しながら、迫力のある戦闘を体験できます。さらに、敵機は単純な動きではなく、群れ行動を取るため、戦略的な攻撃が求められます。シンプルながらも奥深いゲーム性と爽快感あふれるアクションが楽しめる作品です。</AppealPoint>
+		<Profile>HAL大阪のゲーム4年制学科でプログラマー専攻をしています。ゲーム開発の知識やスキルを磨きながら、実践的なプロジェクトにも取り組んでいます。取得資格はJ検情報活用試験1級、J検情報システム試験システムエンジニア、J検情報システム試験基本スキルなど。プログラミングの技術向上を目指し、ゲーム制作を通じてクリエイティブな表現を追求しています。将来的には、オリジナルゲームの開発や、業界での活躍を目指しています</Profile>
+		<Image1>https://drive.google.com/file/d/1aRB5S9TuaBQ1FaeaQ1XY-qFPCo8bOKfQ/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/16eZYf6X-CDmPBuKIrv8SqD6fflKT3JfJ/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1-N8xCFeBHa-zgb_ustTSaj1M4xwEEG6p/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1IGv6LQbV_KnIXZpAs94C08Ap26cmHLFM/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3129</ExhibitCode>
+		<ClassId>AT13A430</ClassId>
+		<ClassNo>29</ClassNo>
+		<Surname>楊</Surname>
+		<FirstName>晨</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>捕まえ!!</Title>
+		<Thumbnail>https://drive.google.com/file/d/1dA1yo_ElR6RY529roio--M7hqtDq8hYi/view?usp=drive_link</Thumbnail>
+		<Description>逃げ出した敵を捕まってください</Description>
+		<Video>https://drive.google.com/file/d/1f8gGDEaeIRFE-1DDNR13USLpW-eA1lvv/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/101pFy9kjL0fxZKZqsqW0_TePh2oNDmek?usp=drive_link</GDriveURL>
+		<AppealPoint>左上の人の指示に従て逃げ出した敵を捕まってください</AppealPoint>
+		<Profile>特にないです。</Profile>
+		<Image1>https://drive.google.com/file/d/1ZbRnPLPK4DojR7qYUdKksXU7oWJyp5Hq/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1ZbRnPLPK4DojR7qYUdKksXU7oWJyp5Hq/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/16aWCjLDXIAktVvvA-Xnh_SAkKuVr7l7F/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/16aWCjLDXIAktVvvA-Xnh_SAkKuVr7l7F/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3329</ExhibitCode>
+		<ClassId>AT13C432</ClassId>
+		<ClassNo>29</ClassNo>
+		<Surname>李</Surname>
+		<FirstName>昕竺</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>DirectX12レンダリング</Title>
+		<Thumbnail>https://drive.google.com/file/d/1I6VYe90QMRpj4DfzHpspB8oKWyeVkfEl/view?usp=sharing</Thumbnail>
+		<Description>独学でCmakeファイルとDirectX12を作成したのプロジェクトです、Imguiの導入とassimpでモデルの読み込みから描画、水面、鏡面などのレンダリング効果を実装しています。</Description>
+		<Video>https://drive.google.com/file/d/126HzlIJuw2uUc8V33yqBoftsFSM5Y2fJ/view?usp=sharing</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1jiIyHsiSlqXJH-ol0wi_ZGjbDdciPkmm?usp=sharing</GDriveURL>
+		<AppealPoint>セールスポイントとは、Cmakelistを通じて作成されたプロジェクトで、非常に優れた移植性と拡張性を持っています。また、独自開発されたDirectX12レンダリングシステムフレームワークは、将来的に使いやすいエンジンに統合される予定します。</AppealPoint>
+		<Profile>2年次にDirectX11に触れた後、3年次からDirectX12の開発を学び始め、シェーダーやレンダリング関連の知識に興味があるし、レンダリング関連のプロジェクトをやりたいと思っています。</Profile>
+		<Image1>https://drive.google.com/file/d/1I6VYe90QMRpj4DfzHpspB8oKWyeVkfEl/view?usp=sharing</Image1>
+		<Image2>https://drive.google.com/file/d/1T7j2Qj2QKnTd5TSZW-D_puKoJhRhYteJ/view?usp=sharing</Image2>
+		<Image3>https://drive.google.com/file/d/1e7GlYsrpYFVQ85qtrIkFTDIy-qKWBxuQ/view?usp=sharing</Image3>
+		<Image4>https://drive.google.com/file/d/1-cT0BafdqCuXZSiMGnPoDUyZKV6O75tO/view?usp=sharing</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3205</ExhibitCode>
+		<ClassId>AT13B430</ClassId>
+		<ClassNo>5</ClassNo>
+		<Surname>榎本</Surname>
+		<FirstName>竣介</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>BLACKOUT</Title>
+		<Thumbnail>https://drive.google.com/file/d/1wIXJjxvpS2Ln2NMDEARKrcSBc2GZF3Oo/view?usp=drive_link</Thumbnail>
+		<Description>探索型ホラーゲームです。ステージ内の電気を全て点灯させることがクリアの条件です。徘徊する敵に見つかると、追跡されてしまうので敵に見つからないように足音を立てずに歩いたり、敵から身を隠すことができる箱に隠れながらクリアを目指します。</Description>
+		<Video>https://drive.google.com/file/d/1dk43vDW5NWgVcwWi_8EPwnAxkl-2P_mm/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1IJUCN1Fq-jrgiv1YWsRQI-xq29c0aiNS?usp=drive_link</GDriveURL>
+		<AppealPoint>ユーザーが敵の動きに違和感を覚えるとゲームの没入感を損なってしまうと考えたため、敵のリアルな動きに必要な、2つのポイントを実装しました。
+
+一つ目は、ビヘイビアツリーとステートマシンの併用です。
+徘徊状態、追跡状態などの大枠の状態をステートで管理し、ビヘイビアツリーで詳細な行動の意思決定を行うことで、複雑な行動を簡易的に制御できると考えました。
+
+二つ目は、人間の感覚をシュミレーションした処理です。
+知能を持った敵であることを示すために、視野、聴覚の実装は必須だと考えました。
+視野判定は、視野内に入ったプレイヤーと敵との間の障害物を考慮した実装を行っております。
+聴覚の判定は球の判定で取ってしまうと壁の向こう側にも音が届いてる判定になってしまうため、私のゲームではより現実的な音の伝搬を再現するためにA＊アルゴリズムを使用し、経路検索による聴覚判定処理を実装しました。
+
+これらの実装により、没入感を損なうことがないような敵に近づけたと考えています。</AppealPoint>
+		<Profile>AT学科の榎本竣介と申します。
+私は2年次まであまりプログラムの勉強をまともにしてこなかったので、就職作品の作り始めはクソコードしか書けなかったのですが、なんとかやり続けてゲームの形としては完成したと思っています。まだアピールできる部分も少なく、改善点が山ほどある作品ですがどうぞよろしくお願いいたします。</Profile>
+		<Image1>https://drive.google.com/file/d/1fjrcEu8uyNyjl_HxRMKSHyMYii1fM78p/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/16qhInbgtiNu5YWL-cLNJZlvYiI855sJ4/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1BugOK2CC5A3ikofz46OpMj8QkX6WS0uM/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1S1IQNjx6mgvVVkgL_droNx42WUlm8zyb/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>GP1004</ExhibitCode>
+		<ClassId>GP11A423</ClassId>
+		<ClassNo>4</ClassNo>
+		<Surname>岡村</Surname>
+		<FirstName>撞璃</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>ブロック崩し</Title>
+		<Thumbnail>https://drive.google.com/drive/folders/1lQ0oWf6Z3omkxUYFQlgmjEVvkz0j1yfV?usp=drive_link</Thumbnail>
+		<Description>弾むボールを棒を操作してブロックを消していく全てのブロックを消そう！とてもシンプルなゲーム。すべてのブロックを崩したくなるようなゲームです。操作も簡単。すべてのブロックを消すと気持ちがいい。</Description>
+		<Video>https://drive.google.com/file/d/1MisadLspiafXy61muEz7YRZL_u--QiQ_/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/file/d/1IIgiD5HLP1r2B93x6rqP59lvy50zh30F/view?usp=drive_link</GDriveURL>
+		<AppealPoint>このゲームは自分が操作する棒を使ってボールを反射させてブロックを崩していくゲームです。シンプルなルールで操作も十字キーのみで簡単です。ブロックをすべて消したくなるような気持ちになります。ゲームが苦手な人でもシンプルなルールで簡単に操作できるゲームです。</AppealPoint>
+		<Profile>2005年生まれの19歳。趣味はゲーム、バイク、車、kpopを聞くのが好きです。HALに入学してからC＋＋やC#を学びゲームを作る大変さを実感しました。現在はC++を使ったゲームを徐々に製作中で、プログラミングの技術をさらに磨いていきたいと思っています。
+自分はさぼり癖や後回しにしてしまう性格なので、これからはもっと本気で取り組みたいと思っています。</Profile>
+		<Image1>https://drive.google.com/drive/folders/1lQ0oWf6Z3omkxUYFQlgmjEVvkz0j1yfV?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/drive/folders/1lQ0oWf6Z3omkxUYFQlgmjEVvkz0j1yfV?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/drive/folders/1lQ0oWf6Z3omkxUYFQlgmjEVvkz0j1yfV?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/drive/folders/1lQ0oWf6Z3omkxUYFQlgmjEVvkz0j1yfV?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3328</ExhibitCode>
+		<ClassId>AT13C432</ClassId>
+		<ClassNo>28</ClassNo>
+		<Surname>吉本</Surname>
+		<FirstName>智哉</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>Chrono Trigger Shooter</Title>
+		<Thumbnail>https://drive.google.com/file/d/1sdF6-Uh6DG5LTZ42mTW9PlQkL31N9z2w/view?usp=sharing</Thumbnail>
+		<Description>学習AIを使ったレトロ2Dシューティングゲームです。Playerの行動(回避、攻撃)をリアルタイムで分析して戦闘スタイルを学習するAIを実装しました。敵の動きを測定して撃つタイミングや回避などを自動で行う特徴を持っています。こだわりは、戦闘中にあえて弾を少し外す事によりPlayerの動きをより自然に補助する事ができる事ができます。</Description>
+		<Video>https://drive.google.com/file/d/1gwHsXnOMYOyAdIbip4tfYvsx9m4LcoxS/view?usp=sharing</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/17wTeYVjID1IqktNuuchMvajGnvNn31DW?usp=sharing</GDriveURL>
+		<AppealPoint>①DirectX12でのマルチスレッド最適化やリソース管理の効率化
+DirectX12はマルチスレッドの対応が強化され、複数のコアを効率的に活用できます。そうすることによりCPUの負担が大幅に軽減され快適にプレイできます。
+リソース管理はステージ進行に応じて、必要なリソースだけをロードし、メモリの消費を抑えることができます。(ゲーム処理落ちしてしまうとユーザーが離れていく恐れがある)
+②XBOX360コントローラーの実装
+なぜコントローラーの実装をしたのかというと、コントローラーならではのアナログスティック操作により、キーボード操作では難しい滑らかな動きができるのとフォースフィードバック(振動機能)を加えることによりより没入感のあるゲーム体験ができるからです。
+こだわりは、接続確認の処理をフレームごとに分けて分散することで、負担を軽減することができるので、接続に時間をかけずに、すぐにIDを取得してすぐにプレイできます。
+③レトロ2Dシューティングに新しい体験
+AIをリアルタイムで学習し、戦略を変化させることでプレイヤーは飽きることなくスリリングな体験を楽しめます。PlayerAIのこだわりは、AIが発射する弾をあえて少し外す事(作品概要を確認)と、敵の座標に近づきすぎないようにある程度距離を空けて自然な感じで動くように作成しています。
+</AppealPoint>
+		<Profile>ゲームプログラマー志望の吉本智哉と申します。私の趣味はゲーム、アニメです。5歳の時にお父さんから貰ったDSをプレイしてゲームが好きになりました。中学生の時部活のパソコン部で2D格闘ゲームエンジン「MUGEN」という格闘ゲームを使い海外のサイトに入りMUGENに追加できるキャラクターやステージなどをダウンロードしてそのデータを少し改造して中学生の友達にプレイしてもらいました。BGMはあえて著作権のあるBGMを使いデータに書き込んで遊んでいました。キャラクターは攻撃モーションのスピードや攻撃オブジェクトを増やしたりしてました。
+最近IT系のプログラミングも学んでいます。HTML,CSS,CursorAIアプリケーションを使ったwebサイトの作成。ヘッター、ナビゲーション、ログイン画面を作成など
+
+3年のチーム制作でサブリーダーとしてチーム制作をしていました。受賞は出来なかったのでがとてもやりがいを感じれる事ができたのでいい経験ができました。
+私の強みは「分析力」です。
+過去のチーム制作でも初めてやるシステムや新しいツールなどを使用する事が多かったので、それに関する情報を調べて色んなゲームに必要な処理を作成しました。
+
+良かったら見に来てください。
+</Profile>
+		<Image1>https://drive.google.com/file/d/1sdF6-Uh6DG5LTZ42mTW9PlQkL31N9z2w/view?usp=sharing</Image1>
+		<Image2>https://drive.google.com/file/d/1T0MhbgFuC0T76fEnKyN0P1J4-NU_IL6n/view?usp=sharing</Image2>
+		<Image3>https://drive.google.com/file/d/1LIxmR-_qVCYnCZ81mzuZJoVkt6bvSPnT/view?usp=sharing</Image3>
+		<Image4>https://drive.google.com/file/d/1Ec5VrEJXsAPfbWGtpXuDHMYC0xpausGy/view?usp=sharing</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3417</ExhibitCode>
+		<ClassId>AT13D432</ClassId>
+		<ClassNo>17</ClassNo>
+		<Surname>二貝</Surname>
+		<FirstName>天望</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>ReleaseBox</Title>
+		<Thumbnail>https://drive.google.com/file/d/1m7oi27C8OWJEhnKET1w3YuTFiqysR7b4/view?usp=sharing</Thumbnail>
+		<Description>３Ⅾのパズルゲーム。ステージ全体を回転させて、中にある赤色のBoxを外に出すことが出来ればステージクリア。</Description>
+		<Video>https://drive.google.com/file/d/1dyjJYEOSlTCGGpoWLcGbkzaF01SnwqcL/view?usp=sharing</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1VgusSeIqgCfcLkP-fY8Oh09h7dqv1RQT?usp=sharing</GDriveURL>
+		<AppealPoint>この作品は３Ⅾのパズルゲーム、スマートフォンで遊べる物にするという２つのやりたいことを実現するために作成しました。
+２Ⅾではなく３Ⅾにした理由は新しいジャンルへの挑戦です。現状において、３Ⅾのパズルゲームは２Ⅾのものに比べて圧倒的に少ないです。また、３Ⅾは２Ⅾに比べて制作難易度が大きくなります。以上のことから、このジャンルには挑戦するだけの価値があると考えました。
+こだわった点の１つ目は操作の容易化です。カメラを動かすことによる操作の複雑性を排除し、マウスクリックのみのシンプルな操作にしました。
+２つ目はステージ制作の容易化です。スクリプトにサイズを打ち込むだけで、ステージの枠組みを作成してくれるシステムを実装しました。これにより、オブジェクトの配置をほとんど自身で行うことなくステージを作成する事が出来ました。</AppealPoint>
+		<Profile>パズルゲームやアブストラクトゲームを好んでプレイしています。
+最近はAtCoderでプログラミングの問題を解いています。</Profile>
+		<Image1>https://drive.google.com/file/d/1O_xnEEbr71hIG8-y0ozM0u3_6z7WNVXW/view?usp=sharing</Image1>
+		<Image2>https://drive.google.com/file/d/121FHauYPjHlJbR89t0ZOW0XPoevrY1Ox/view?usp=sharing</Image2>
+		<Image3>https://drive.google.com/file/d/1RPBwWC9e_blMsxbHB6go2xR3qtFNQd3l/view?usp=sharing</Image3>
+		<Image4>https://drive.google.com/file/d/1innSunEf651GKkI7txjohSTP71xZqnK7/view?usp=sharing</Image4>
 	</ProjectDetails>
 </Project>
