@@ -1367,7 +1367,7 @@ GUI表示に使用したImGuiライブラリでは、参照渡しに対応して
 		<Thumbnail>https://drive.google.com/file/d/1a_AT101IOw6euqamT9-85b_qkqYetTWg/view?usp=drive_link</Thumbnail>
 		<Description>「ホワイトアビス」 は、敵のスポーンポイントを破壊しながら 60秒間逃げ切る サバイバルゲーム。 WASD で移動、スペース でジャンプ、左Shift でダッシュ。 TAB で時間経過後にキャラを一定時間変化させ、一気に敵を一掃できる爽快感。 銃で敵を撃ち、紫のスポーンを破壊して生き残れ！</Description>
 		<Video>https://drive.google.com/file/d/1zG35hBhXb4Nycx8lkCluwmRAIApFK1Co/view?usp=drive_link</Video>
-		<GDriveURL>https://drive.google.com/file/d/1ZyfKWVyAqRUq6oWPVyg_AVmSYY15Vc-j/view?usp=drive_link</GDriveURL>
+		<GDriveURL>https://drive.google.com/drive/folders/1QOOvz4a5ULMRst6HuwPlq4VJ5fOgIGZh?usp=drive_link</GDriveURL>
 		<AppealPoint>Unity を使い、約 1 カ月半で制作 しました。1 つのシーンで さまざまなマップを楽しめるように、障害物となる建物をランダム生成 する仕組みを実装。敵の出現場所を探す楽しさ を感じてもらえるよう工夫しました。キャラを 一時的に変化させる機能 では、追いかけてくる敵を一瞬で倒せる爽快感 を演出しました。</AppealPoint>
 		<Profile>平成17年生まれの19歳。趣味はゲーム。HALで C++やC#、DirectX を学び、ゲーム制作の基礎を習得。現在は C++を使った作品を平行して制作中で、プログラミングの技術をさらに磨いています。将来的には より高度なゲーム開発 に挑戦したいと考えています。</Profile>
 		<Image1>https://drive.google.com/file/d/1p2J4pt5exCKDwWSc397emlPTBs5EN2Mq/view?usp=drive_link</Image1>
@@ -2031,7 +2031,7 @@ UniTaskによる処理負荷の軽減…顔認識に必要な画像処理を別�
 		<Thumbnail>https://drive.google.com/file/d/1fc8XRErM1fj9xDGdKpYvDghXlGxSrFKp/view?usp=sharing</Thumbnail>
 		<Description>ゴール地点までアスファルトタイヤを切り付けながら高速道路を走ろう！しかし、後ろから　とんでもない速さで暴走トラックが突っ込んでくる！車を避けながらゴールまで逃げ切れ！
 クリア率0.003%と言われた難ゲーム君はクリアできるか！</Description>
-		<Video>https://drive.google.com/file/d/108w11wC9vUHWStGtEzVLGIze_eeN-_mr/view?usp=sharing</Video>
+		<Video>https://drive.google.com/file/d/13F5mN3_zXTO9RS7C1toFeU8AKVYrGfAz/view?usp=sharing</Video>
 		<GDriveURL>https://drive.google.com/drive/folders/19GQhWBGobOEdpJTFIGrqL73BigPbVg_-?usp=sharing</GDriveURL>
 		<AppealPoint>車の疾走感（慣性と摩擦力を使った動き）と車を避けるスリリングなワイルドアクションが体験できます。
 車の追い越しをしてトラックから逃げ切る、N天堂の某カーレースゲームのスターに常に追いかけられる感じを表現しております
@@ -2992,5 +2992,65 @@ P2Pを使うことで相手の操作を受け取り
 		<Image2>https://drive.google.com/file/d/1Eu5pg0Hf7zmvm3RBCI9v3B2atfo-kV7M/view?usp=drive_link</Image2>
 		<Image3>https://drive.google.com/file/d/1UQYwN0L4BxnMA4sids7GTQ6wQLuo3ADE/view?usp=drive_link</Image3>
 		<Image4>https://drive.google.com/file/d/1GTLeHwFnYdpt4ElYSyFl3ZAAu_88cn2L/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>GP1005</ExhibitCode>
+		<ClassId>GP11A423</ClassId>
+		<ClassNo>5</ClassNo>
+		<Surname>小倉</Surname>
+		<FirstName>諄己</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>SpaceShooting</Title>
+		<Thumbnail>https://drive.google.com/file/d/1XQQt3ouqVR_IQGV7UGeIIRSubwt0XHRF/view?usp=drive_link</Thumbnail>
+		<Description>このゲームは宇宙船を操作して、敵を撃つ2D射撃ゲームになります。WASDでの移動とEnterキーでの射撃が基本操作になります。敵の体力をすべて削り、倒したらゲームクリアになります。</Description>
+		<Video>https://drive.google.com/file/d/1nDjWj-NZX59p5K3lRv3jCxPYGxhHkSd9/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1-2qr2ifIClcd-yLNndmrKfvl3CsVYJHl?usp=drive_link</GDriveURL>
+		<AppealPoint>一週間という短い期間で仕上げた作品です。先生からいただいているサンプルからではなく1から自作したものになります。弾丸のテクスチャを作成し、ウィンドウサイズの変更に対応しました。フルスクリーンにも対応しています。操作のしやすさに重点を置きました。</AppealPoint>
+		<Profile>私は何かを学んだとき応用できるところが強みだと考えています。数学においても学んだ公式をただ覚えて使うだけでなく自分で考えてほかの場面にも使えないかどうかなど考えることが出来ます。今回行った作品作りにおいてもいただいたサンプルを参考にしつつも自分なりに考えて作成しました。</Profile>
+		<Image1>https://drive.google.com/file/d/1mw5CerqjYNecYxe-hRdFrTj-RURD4H_T/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1YI2QzpiI4knlMzdIYBEfyWYk2FTrjHbo/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/11GM6RxAFos74TjS1k9jSzMmbE5cucnOX/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/17PjatzumHJ2ZexzZyZOnfJY84iba1IH0/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>GP1018</ExhibitCode>
+		<ClassId>GP11A423</ClassId>
+		<ClassNo>18</ClassNo>
+		<Surname>田中</Surname>
+		<FirstName>寛人</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>君はただ当たればいい</Title>
+		<Thumbnail>https://drive.google.com/file/d/16VqrmPtocvi__1Dsnt4BMiNnfBfM37AL/view?usp=sharing</Thumbnail>
+		<Description>真ん中の車から小さい車が出てきてどこかに行くので当たりに行くだけです。30秒以内にポイントをゲットしてクリアを目指すゲームです。操作が難しいのでもどかしさ満載です。</Description>
+		<Video>https://drive.google.com/file/d/1_ofkGirs4Q1jkEWWqqq9tgFCyXyLwQ-U/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1YJNdUlOpFjolr0od6FqEFsRay4dNSc3p?usp=sharing</GDriveURL>
+		<AppealPoint>真ん中から出てくる車は出てくる瞬間は重いです。他にも制限時間や、スコアでクリアやゲームオーバーなどです。ハンドルもつけてみたのですがなんか違和感が凄いです。</AppealPoint>
+		<Profile>私の名前は田中寛人です。新潟県出身で、多分オタクです。好きなゲームはStrinovaで、曲はボカロが好きです。推しとかできないだろとか思ってたらできて自分でもびっくりした出来事を持ってます。</Profile>
+		<Image1>https://drive.google.com/file/d/1sJtD4JftYvhP_JVYyyU3vu1Ep1MqCWE3/view?usp=sharing</Image1>
+		<Image2>https://drive.google.com/file/d/1BkQceddJIxSx1DmXqQDLb-jaOUJI-H2V/view?usp=sharing</Image2>
+		<Image3>https://drive.google.com/file/d/1zfOojQcdH25AUuC2YovW9kK862no23YF/view?usp=sharing</Image3>
+		<Image4>https://drive.google.com/file/d/190gDROJDuyP57HDXfvHYA2j5QG45vXQ-/view?usp=sharing</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>GP1009</ExhibitCode>
+		<ClassId>GP11A423</ClassId>
+		<ClassNo>9</ClassNo>
+		<Surname>慶野</Surname>
+		<FirstName>翔馬</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>RGBシューティング</Title>
+		<Thumbnail>https://drive.google.com/file/d/1GgaZTGwt7J9DwUOtdXJZs8SgG4Sat2Nc/view?usp=drive_link</Thumbnail>
+		<Description>赤、青、緑、黄色、紫、水色、白の合計7種類の敵が出てくるので、赤の敵には赤い弾、紫の敵には赤と青の弾といったようにRGBの表に従って倒していくゲームです。</Description>
+		<Video>https://drive.google.com/file/d/16igtFdSgtyM9QD2L5tQBqBqc8j3A6D0W/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/file/d/1qjqco0PJc1RKMFl2GBrdOPQkcy75tR0D/view?usp=drive_link</GDriveURL>
+		<AppealPoint>このゲームのセールスポイントは、ただ敵に弾を撃つのではなく、敵にあった種類の弾を当てないと倒せないようにすることで普通のシューティングとは少し違った遊びができることです。</AppealPoint>
+		<Profile>GP11A423
+名前 慶野翔馬
+作品について
+この学校に入学してから初めてゲーム制作を開始したので不具合や未完成な部分が多いと思いますが楽しんで貰えると嬉しいです。</Profile>
+		<Image1>https://drive.google.com/file/d/12OLpWNz98b1wOpbbLudgBNi137pqfwNp/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1GgaZTGwt7J9DwUOtdXJZs8SgG4Sat2Nc/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1K3Bq0uOvFw_r0Ui5qPSygeIuOJ8CtEXi/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/18yxdm5rJ44pdg0MEB6Tw3ZBsj_oFUS_V/view?usp=drive_link</Image4>
 	</ProjectDetails>
 </Project>
