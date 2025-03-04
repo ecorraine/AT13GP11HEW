@@ -2766,4 +2766,70 @@ AIをリアルタイムで学習し、戦略を変化させることでプレイ
 		<Image3>https://drive.google.com/file/d/1jR9Z0FjjMY1MquSuUdhg0sXbfghHePuK/view?usp=sharing</Image3>
 		<Image4>https://drive.google.com/file/d/1xv5c5IzGNNDso_y7R6UbCdfGUD_FCbmr/view?usp=sharing</Image4>
 	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3418</ExhibitCode>
+		<ClassId>AT13D432</ClassId>
+		<ClassNo>18</ClassNo>
+		<Surname>西田</Surname>
+		<FirstName>悠人</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>ネットワーク通信</Title>
+		<Thumbnail>https://drive.google.com/file/d/1jzKpUmW32It2Ym3tUGwsm6UAj5YKJi8l/view?usp=drive_link</Thumbnail>
+		<Description>ネットワーク通信のゲーム</Description>
+		<Video>https://drive.google.com/file/d/1JKuHVg6KjhWRYthZfEYKkNdRZrCunFdY/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1ekO5TMZkesYLKtIup5uvlBI8XiH6RHWF</GDriveURL>
+		<AppealPoint>通信対戦ゲームを制作</AppealPoint>
+		<Profile>AT13D西田悠人です。
+ネットワークや基本情報の勉強中です。</Profile>
+		<Image1>https://drive.google.com/file/d/1z6LLKClPaIUPNTxKLhuHySaF6UdniWo5/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1LS65FIg1rNRp-K0Y_EdEUTUM_scTCu4w/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1LS65FIg1rNRp-K0Y_EdEUTUM_scTCu4w/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1_skm_TWyA0OXUIj4khizvgDS9xqVGjjK/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3421</ExhibitCode>
+		<ClassId>AT13D432</ClassId>
+		<ClassNo>21</ClassNo>
+		<Surname>藤原</Surname>
+		<FirstName>宥壮</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>Rolling Ball!</Title>
+		<Thumbnail>https://drive.google.com/file/d/1mGR3s2i0ap13-GVWBN88_eGqEDureTZK/view?usp=drive_link</Thumbnail>
+		<Description>無限に生成される障害物をよけるゲーム
+Aキー：左移動、Dキー：右移動
+やりたいこと
+速度によって回転度が変化する（優先度：低）​
+テストステージの実装（優先度：高）​
+スコアの実装（優先度：中）​
+タイムの実装（優先度：中）​
+プレイヤーモデルの自由変更ができる（優先度：低）​
+当たり判定（優先度：高）​
+障害物等のギミック（優先度：高）​
+ポストエフェクト（優先度：中）</Description>
+		<Video>https://drive.google.com/file/d/1Ov8vtUHo1WjhEl6P_mw1FgW2NYvuCqbG/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1JCPEKxXuR4yWlg6lzEkscGyVgfDnrart?usp=drive_link</GDriveURL>
+		<AppealPoint>セールスポイントは特にないため進捗状況を書きます
+２月下旬から制作をはじめたため、進捗状況は最低限
+
+サンプルから変えたこと
+モデルの変更
+音楽再生クラスの実装
+シーンの実装
+フィールド無限生成クラスの実装</AppealPoint>
+		<Profile>名前：藤原宥壮
+趣味：映画鑑賞
+特技：タイピング（高校時全国大会に出場経験あり）
+・資格
+J検定情報システム試験プログラマ認定
+J検定情報システム試験システムエンジニア認定
+J検定情報活用試験１級
+第一種普通自動車
+・スキル
+Unity,UnrealEngine,
+C,C#,C++,DirectX11</Profile>
+		<Image1>https://drive.google.com/file/d/1jw8cHL9BNanWrPlVsRHvSnzRwRUv7ACg/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1a_Pn6c_Q7-A9nSmLb-dK9vJPQsBY2nXH/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1DkfVHEY62IzGIeAAbS5kysH2xIxF40gO/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/19ioVZaXC9EGy_ykNAiU8-rlyQYIeWeeg/view?usp=drive_link</Image4>
+	</ProjectDetails>
 </Project>
