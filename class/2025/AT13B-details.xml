@@ -556,7 +556,7 @@ HEW当日は、ソースコード付きフレームワークを配布予定で�
 		<Thumbnail>https://drive.google.com/file/d/1JpHSeDA_I-Q_1zlsypt7VZWhrzbIMVd6/view?usp=drive_link</Thumbnail>
 		<Description>この射撃RPGでは、プレイヤーは主人公となり、謎の迷宮へ足を踏み入れ、行方不明の姉に関する手がかりを探します。迷宮の奥深くには、危険と未知が潜んでいます。探索を進める中で、様々なモンスターと戦い、財宝を集め、重なる謎を解き明かしていきます。</Description>
 		<Video>https://drive.google.com/file/d/1BuMthdR7qGCjQut7I75dG3B-xFjkQ-VL/view?usp=drive_link</Video>
-		<GDriveURL>https://drive.google.com/file/d/1Fic4_WLXTe6EkRVLzCWUWd2T1ytwE4Ex/view?usp=drive_link</GDriveURL>
+		<GDriveURL>https://drive.google.com/file/d/1kvbU6ffQWSS-6PHJbGlHI0QvMv2ngzK0/view?usp=drive_link</GDriveURL>
 		<AppealPoint>遠距離武器の多形態変化（通常形態、狙撃、剣など）。
 RPGスキルツリーと自由なポイント配分システム。
 動的なストーリーとサブクエストによりエンディングが変化。
@@ -3113,5 +3113,71 @@ P2Pを使うことで相手の操作を受け取り
 		<Image2>https://drive.google.com/file/d/1XFgKy9zjqScabPotetjLtPy1jITT4Z2w/view?usp=sharing</Image2>
 		<Image3>https://drive.google.com/file/d/1YfVHbc6DXrCpMu2Hjb9LIXV9FS9d1nax/view?usp=sharing</Image3>
 		<Image4>https://drive.google.com/file/d/1wUol0CH4WzP6Rjdw3LeJMlpysUkBLmTU/view?usp=sharing</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3320</ExhibitCode>
+		<ClassId>AT13C432</ClassId>
+		<ClassNo>20</ClassNo>
+		<Surname>松永</Surname>
+		<FirstName>悠哉</FirstName>
+		<Location>121教室</Location>
+		<Title>3Dシューティング</Title>
+		<Thumbnail>https://drive.google.com/file/d/1QGcPM-CpdQ_M011KnbHwoOJfTRPAzhbO/view?usp=sharing</Thumbnail>
+		<Description>プログラミングが苦手なのでUnityを使用してゲームを作りました。
+３年はコロナになったり、腰を壊したりで多少散々でしたが、どうにかやりきる気持ちで作りました。</Description>
+		<Video>https://drive.google.com/file/d/1nLRHDQDQCNZJKUn06PSFaiIx0P3zeNdE/view?usp=sharing</Video>
+		<GDriveURL>https://docs.google.com/presentation/d/1iXrsrGaTY1a5V10hJ-xZ5a2SRpiU5yKc/edit?usp=sharing&amp;ouid=104019891104483267461&amp;rtpof=true&amp;sd=true</GDriveURL>
+		<AppealPoint>Unityを使用しているのでのカメラ制御を3Dゲームといえば、という挙動をさせて動かすことを目指して作りました。カメラ制御や動き重視なのでかなりチープに感じることが難点でしょうか。</AppealPoint>
+		<Profile>ゲーム4年制学科・プログラマー専攻３年　松永　悠哉
+
+UnityとUE5が使える
+作るならUE5でゲームを作りたかったがPCの容量問題により削除。
+結果、容量問題は改善されたが何故か１、２週間でまた容量が圧迫されている。
+残り15GB切った。容量の重そうなデータを消してこれなので意味不明。
+更に急にカメラが壊れたり直ったりでもう怖い。</Profile>
+		<Image1>https://drive.google.com/file/d/1GdEZPmIH6JfXMxb0BVg3E1BnFFR2Kb1X/view?usp=sharing</Image1>
+		<Image2>https://drive.google.com/file/d/1uSb8DU5mlO58kKSCSbO_5LVWhs5rxQP7/view?usp=sharing</Image2>
+		<Image3>https://drive.google.com/file/d/1cLK9Bnsz-0H-pxvBlF_cKM4KAQW5fuFx/view?usp=sharing</Image3>
+		<Image4>https://drive.google.com/file/d/1uSb8DU5mlO58kKSCSbO_5LVWhs5rxQP7/view?usp=sharing</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3111</ExhibitCode>
+		<ClassId>AT13A430</ClassId>
+		<ClassNo>11</ClassNo>
+		<Surname>澤田</Surname>
+		<FirstName>陽</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>slot</Title>
+		<Thumbnail>https://drive.google.com/file/d/1CcYs89EBHUxcN3Ow0MiDZ-fAmNfe2YDH/view?usp=drive_link</Thumbnail>
+		<Description>スロットを作りました。Aを押すと左リールが、Sを押すと中リールが、Dを押すと右リールが停止します。SPACEを押すと再遊戯ができます。</Description>
+		<Video>https://drive.google.com/file/d/1ReqtwyaGrCJI41aeIY9XMoTHItHpn-Fc/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/11-Oavc1wg_cbR_5up_XbGSlxqFZK9e6j</GDriveURL>
+		<AppealPoint>ビタ押しすることで図柄をそろえることができます。</AppealPoint>
+		<Profile>AT１３Aの澤田陽と申します。どうぞよろしくお願いいたします。</Profile>
+		<Image1>https://drive.google.com/file/d/1eYpLg6Yoyyj2z6g5vuzpxsV6DnrM11eB/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1uqRvulcZh94ynZRsVrIEO6L_3cvg4cEW/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/1-P5MmMxyj4c7z4vnXngKH4GJFlJe8ujD/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/13KBhGd91xs44SuMB2trxOo9TSoVfSQzs/view?usp=drive_link</Image4>
+	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>GP1020</ExhibitCode>
+		<ClassId>GP11A423</ClassId>
+		<ClassNo>20</ClassNo>
+		<Surname>張</Surname>
+		<FirstName>子玉</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>サメサメ 喰いまくり!</Title>
+		<Thumbnail>https://drive.google.com/file/d/1EY6wgRP4QvZF2yryljgvHjv_UuUCYjG4/view?usp=sharing</Thumbnail>
+		<Description>『サメサメ 喰いまくり!』は、深海を舞台にしたサメの捕食ゲームです。プレイヤーは小さなサメを操作し、大きなサメに捕食されないよう注意しながら、小魚を食べてお腹を満たします。</Description>
+		<Video>https://drive.google.com/file/d/1Gzb9VuLqzyloWzWT_Mk2ZjkzvrDQEVDt/view?usp=sharing</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1jUbNafIb-lVYzD_voxh1LldYX3LHAhDK?usp=sharing</GDriveURL>
+		<AppealPoint>『サメサメ 喰いまくり!』は、深海の神秘的な世界観を舞台にしたサメの捕食ゲームですが、リアルな恐怖感ではなく、かわいらしいデザインでプレイヤーを魅了します。主人公である小さなサメは、丸みを帯びたフォルムと愛らしい表情で、親しみやすさを演出。ゲーム内のモデリングも柔らかな色合いとデフォルメされたデザインを採用し、誰でも気軽に楽しめる雰囲気になっています。また、タイトル画面やゲームオーバー画面にもこだわり、サメの愛嬌ある動きや表情を描くことで、プレイヤーが最後まで「かわいい！」と感じられるよう工夫しました。</AppealPoint>
+		<Profile>中国からの留学生です。中国の大学でUnityを学び、当時の課題的なゲームを開発した経験があります。ぬいぐるみや可愛いものに目がありません。趣味はホラーゲームとUnityを使ってゲームを作ることです。
+
+今回はUnityではなく、DirectXを用いたC++のゲーム開発に挑戦しています。しかし、C++に触れるのは約5年ぶりのため、試行錯誤しながら制作を進めています。難しさを感じつつも、新たな技術を学ぶことにやりがいを感じ、日々成長を目指しています！</Profile>
+		<Image1>https://drive.google.com/file/d/1M8NvuEdxhJM-ACtTYkofvQXZnrvmNg2y/view?usp=sharing</Image1>
+		<Image2>https://drive.google.com/file/d/1hrP9R93h1yqQcpvzsnHINHs8zXpTd_8H/view?usp=sharing</Image2>
+		<Image3>https://drive.google.com/file/d/1Sop-5aymBFFSWDba23vY0lvcim8scnVj/view?usp=sharing</Image3>
+		<Image4>https://drive.google.com/file/d/1k6hDwGmtVAIjhKRwkNQ2-g2f6TO7LosS/view?usp=sharing</Image4>
 	</ProjectDetails>
 </Project>
