@@ -20,7 +20,7 @@
 		<FirstName>礼葉</FirstName>
 		<SurnamePhonetic>ｲｶﾞ</SurnamePhonetic>
 		<FirstNamePhonetic>ｱﾔﾊ</FirstNamePhonetic>
-		<Status>1</Status>
+		<Status>0</Status>
 		<MachineName>12WGCG1_027</MachineName>
 	</StudentInfo>
 	<StudentInfo>
@@ -64,7 +64,7 @@
 		<FirstName>葵</FirstName>
 		<SurnamePhonetic>ｵｵﾆｼ</SurnamePhonetic>
 		<FirstNamePhonetic>ｱｵｲ</FirstNamePhonetic>
-		<Status>1</Status>
+		<Status>0</Status>
 		<MachineName>12WGCG1_017</MachineName>
 	</StudentInfo>
 	<StudentInfo>
@@ -97,7 +97,7 @@
 		<FirstName>周平</FirstName>
 		<SurnamePhonetic>ｺﾏﾂ</SurnamePhonetic>
 		<FirstNamePhonetic>ｼｭｳﾍｲ</FirstNamePhonetic>
-		<Status>1</Status>
+		<Status>0</Status>
 		<MachineName>12WGCG1_023</MachineName>
 	</StudentInfo>
 	<StudentInfo>
@@ -130,7 +130,7 @@
 		<FirstName>晴哉</FirstName>
 		<SurnamePhonetic>ｻﾄｳ</SurnamePhonetic>
 		<FirstNamePhonetic>ｾｲﾔ</FirstNamePhonetic>
-		<Status>1</Status>
+		<Status>0</Status>
 		<MachineName>12WSWI1_022</MachineName>
 	</StudentInfo>
 	<StudentInfo>
@@ -152,7 +152,7 @@
 		<FirstName>成琉</FirstName>
 		<SurnamePhonetic>ﾀﾃﾐｿﾞ</SurnamePhonetic>
 		<FirstNamePhonetic>ﾅﾙ</FirstNamePhonetic>
-		<Status>1</Status>
+		<Status>0</Status>
 		<MachineName>12WSWI1_034</MachineName>
 	</StudentInfo>
 	<StudentInfo>
@@ -174,7 +174,7 @@
 		<FirstName>蒼太</FirstName>
 		<SurnamePhonetic>ﾄﾘﾔﾏ</SurnamePhonetic>
 		<FirstNamePhonetic>ｿｳﾀ</FirstNamePhonetic>
-		<Status>1</Status>
+		<Status>0</Status>
 		<MachineName>12WGCG1_040</MachineName>
 	</StudentInfo>
 	<StudentInfo>

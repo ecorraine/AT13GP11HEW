@@ -42,7 +42,7 @@
 		<FirstName>楓雅</FirstName>
 		<SurnamePhonetic>ｶｼﾓﾄ</SurnamePhonetic>
 		<FirstNamePhonetic>ﾌｳｶﾞ</FirstNamePhonetic>
-		<Status>1</Status>
+		<Status>0</Status>
 		<MachineName>12WSWI1_019</MachineName>
 	</StudentInfo>
 	<StudentInfo>
@@ -240,7 +240,7 @@
 		<FirstName>智也</FirstName>
 		<SurnamePhonetic>ﾐﾔｻﾞｷ</SurnamePhonetic>
 		<FirstNamePhonetic>ﾄﾓﾔ</FirstNamePhonetic>
-		<Status>1</Status>
+		<Status>0</Status>
 		<MachineName>12WGCG1_044</MachineName>
 	</StudentInfo>
 	<StudentInfo>
