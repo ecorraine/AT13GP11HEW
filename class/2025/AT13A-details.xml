@@ -2710,7 +2710,7 @@ AIをリアルタイムで学習し、戦略を変化させることでプレイ
 		<ClassNo>3</ClassNo>
 		<Surname>上田</Surname>
 		<FirstName>翔太</FirstName>
-		<Location>121教室</Location>
+		<Location>12Fマシンルーム</Location>
 		<Title>対戦シューティング</Title>
 		<Thumbnail>https://drive.google.com/file/d/146_mcYXhVEqTwo_K0JnElUEuFe3j-UQL/view?usp=drive_link</Thumbnail>
 		<Description>通信対戦ができる２Dシューティングゲームになっています。最大２人プレイが可能で弾が出る機能と通信機能、各プレイヤー移動の３つが実装されています</Description>
@@ -3120,7 +3120,7 @@ P2Pを使うことで相手の操作を受け取り
 		<ClassNo>20</ClassNo>
 		<Surname>松永</Surname>
 		<FirstName>悠哉</FirstName>
-		<Location>121教室</Location>
+		<Location>12Fマシンルーム</Location>
 		<Title>3Dシューティング</Title>
 		<Thumbnail>https://drive.google.com/file/d/1QGcPM-CpdQ_M011KnbHwoOJfTRPAzhbO/view?usp=sharing</Thumbnail>
 		<Description>プログラミングが苦手なのでUnityを使用してゲームを作りました。
