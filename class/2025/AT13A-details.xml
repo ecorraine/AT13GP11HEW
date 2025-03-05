@@ -3180,4 +3180,23 @@ UnityとUE5が使える
 		<Image3>https://drive.google.com/file/d/1Sop-5aymBFFSWDba23vY0lvcim8scnVj/view?usp=sharing</Image3>
 		<Image4>https://drive.google.com/file/d/1k6hDwGmtVAIjhKRwkNQ2-g2f6TO7LosS/view?usp=sharing</Image4>
 	</ProjectDetails>
+	<ProjectDetails>
+		<ExhibitCode>AT3402</ExhibitCode>
+		<ClassId>AT13D432</ClassId>
+		<ClassNo>2</ClassNo>
+		<Surname>伊賀</Surname>
+		<FirstName>礼葉</FirstName>
+		<Location>12Fマシンルーム</Location>
+		<Title>イチゴダイボウケン</Title>
+		<Thumbnail>https://drive.google.com/file/d/1wXAKqs3jJKotq1jEyOe0iB34qd1-enKL/view?usp=drive_link</Thumbnail>
+		<Description>銃を使って襲い来るイチゴを撃ち倒すアクションシューティングゲームです。イチゴは撃たれるとHPが減少し、最初はプレイヤーを追いかけますが、ダメージを受けると逃げ出します。倒したイチゴはランダムな場所に再出現し、絶えず戦闘が続くスリリングなゲームプレイを提供します。プレイヤーは素早く狙いを定め、戦略的に立ち回ることで高スコアを目指します。</Description>
+		<Video>https://drive.google.com/file/d/1IaNZexPXPyK0LbhsYUhJNGdjNKxkVbkZ/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/file/d/1zbcIondeb9Iqa4Wjh3EL6LrFEHBPSiby/view?usp=drive_link</GDriveURL>
+		<AppealPoint>かわいらしいイチゴをモチーフにした、ふわっとした雰囲気のデザインです。女性らしい柔らかい色合いやポップな世界観が特徴で、シューティングゲームながらも親しみやすいビジュアルに仕上げました。また、敵となるイチゴは360度どこでもランダムに出現するため、常に臨機応変な対応が求められ、飽きのこない緊張感あるゲームプレイが楽しめます。可愛らしさとスリルが融合した、新感覚のアクションシューティングを体験できます！</AppealPoint>
+		<Profile>AT13Dクラスの伊賀礼葉です！プログラムはまだ得意ではないですが、女性らしい雰囲気を大切にしながら、試行錯誤しつつゲーム制作に励んでいます。資格が全然取れていないので、4年生では死ぬほど勉強してたくさん取得したいと思っています。好きなゲームはスプラトゥーンです。最近は麻雀にもハマり中で、勉強中です！</Profile>
+		<Image1>https://drive.google.com/file/d/17lK2Y6O-uV0uK8V4u98RYonyR4CsShX-/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1wJADyPAH__vsiYqi49T4giDKrerejwqT/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/15ujtVutwYemniD5Vrl_NzeXW_9bIpofS/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/1PsdwBkkXlJJLTQiqhZc4X1mkyCVmgPaf/view?usp=drive_link</Image4>
+	</ProjectDetails>
 </Project>
