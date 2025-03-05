@@ -2731,20 +2731,20 @@ AIをリアルタイムで学習し、戦略を変化させることでプレイ
 		<FirstName>柊志</FirstName>
 		<Location>12Fマシンルーム</Location>
 		<Title>Tarnished</Title>
-		<Thumbnail>https://drive.google.com/drive/folders/1LCzE6pBLjPTgHyvH6Vo0oOH_HwYlVsGk</Thumbnail>
+		<Thumbnail>https://drive.google.com/file/d/16sN2qw_hNnXbJr-IOz0hCYtJhlVeIkVu/view?usp=drive_link</Thumbnail>
 		<Description>武器を振る楽しさを追求したゲームです。ボーン名で参照可能な機構を実装し、武器の描画を制御することで、キャラクターが直感的に武器を扱える仕組みを構築しました。また、主成分分析（PCA）を用いてボーンごとにOBB（Oriented Bounding Box）を生成し、モデルの空間的な情報を把握しやすくしています。
 </Description>
-		<Video>https://drive.google.com/drive/folders/1KMA0OB54n3nlirxid6PrtyjwRY9ji3eX</Video>
-		<GDriveURL>https://drive.google.com/drive/folders/1TKV_5rBg43gEpZzxitRcyV4onlJ-4SlJ</GDriveURL>
+		<Video>https://drive.google.com/file/d/17RMIvE7hWN3SpRNBGjUOWglY5ss8ZwLT/view?usp=drive_link</Video>
+		<GDriveURL>https://drive.google.com/drive/folders/1zHr5yufJ0e1ZchR-_T8dzO185wr8mP7Y?usp=drive_link</GDriveURL>
 		<AppealPoint>また、ボーン関連の計算にも取り組んでおり、主成分分析（PCA）を活用してボーンごとにOBB（Oriented Bounding Box）を生成する仕組みを構築。さらに、ボーン名を参照できるシステムを実装し、キャラクターに武器を持たせる機能を開発しました。これにより、装備システムの拡張性を高め、直感的にアセットを管理できる環境を実現しています。
 </AppealPoint>
 		<Profile>私は3Dプログラマーとして、アクションゲームの開発に取り組んでおり、戦闘の楽しさをゲームにしようと思い作成しています。過去には、東京ゲームショウに出展されたゲームのマップ制作を担当し、クオリティの高い環境デザインを実現しました。
 
 現在は、C++とDirectX11を用いたゲーム開発を進めており、特にモデルデータの最適化と独自フォーマットの構築に挑戦中です。FBXの読み込みにおける課題を解決するために、効率的なバイナリ形式の導入を試み、ロード時間の短縮とデータ管理の最適化を図っています。</Profile>
-		<Image1>https://drive.google.com/drive/folders/1LCzE6pBLjPTgHyvH6Vo0oOH_HwYlVsGk</Image1>
-		<Image2>https://drive.google.com/drive/folders/1LCzE6pBLjPTgHyvH6Vo0oOH_HwYlVsGk</Image2>
-		<Image3>https://drive.google.com/drive/folders/1LCzE6pBLjPTgHyvH6Vo0oOH_HwYlVsGk</Image3>
-		<Image4>https://drive.google.com/drive/folders/1LCzE6pBLjPTgHyvH6Vo0oOH_HwYlVsGk</Image4>
+		<Image1>https://drive.google.com/file/d/1ggZ4I7BXoBlCNvZXJcV-_QtBt9qcNe6h/view?usp=drive_link</Image1>
+		<Image2>https://drive.google.com/file/d/1VyVkmObBrJkb18WMIx-BTMhMNvM3y7P5/view?usp=drive_link</Image2>
+		<Image3>https://drive.google.com/file/d/12wMvrG11KG2vVp_GjSOzlXhhu0i3vVNw/view?usp=drive_link</Image3>
+		<Image4>https://drive.google.com/file/d/16SCjwWNC67Oh-2f5QXi95gBvaBNnfMq4/view?usp=drive_link</Image4>
 	</ProjectDetails>
 	<ProjectDetails>
 		<ExhibitCode>AT3411</ExhibitCode>
