@@ -3120,12 +3120,12 @@ P2Pを使うことで相手の操作を受け取り
 		<ClassNo>20</ClassNo>
 		<Surname>松永</Surname>
 		<FirstName>悠哉</FirstName>
-		<Location>12Fマシンルーム</Location>
-		<Title>3Dシューティング</Title>
-		<Thumbnail>https://drive.google.com/file/d/1QGcPM-CpdQ_M011KnbHwoOJfTRPAzhbO/view?usp=sharing</Thumbnail>
-		<Description>プログラミングが苦手なのでUnityを使用してゲームを作りました。
-３年はコロナになったり、腰を壊したりで多少散々でしたが、どうにかやりきる気持ちで作りました。</Description>
-		<Video>https://drive.google.com/file/d/1nLRHDQDQCNZJKUn06PSFaiIx0P3zeNdE/view?usp=sharing</Video>
+		<Location>121教室</Location>
+		<Title>3Dシューティングラン</Title>
+		<Thumbnail>https://drive.google.com/file/d/1OVp5MKksYZ4jyzCrFr_W1KvNBsXnO-s4/view?usp=sharing</Thumbnail>
+		<Description>プログラミングが苦手故に時間がかかるのでUnityを使用してゲームを作りました。
+３年はコロナになったり、腰を壊したり、もともと提出予定だったデータが潰れたりで多少散々でしたがどうにかやりきる気持ちで作りました。</Description>
+		<Video>https://drive.google.com/file/d/1_Yuu38PJj9Ki9BgCyshTqAwbQRKa3RQp/view?usp=sharing</Video>
 		<GDriveURL>https://docs.google.com/presentation/d/1iXrsrGaTY1a5V10hJ-xZ5a2SRpiU5yKc/edit?usp=sharing&amp;ouid=104019891104483267461&amp;rtpof=true&amp;sd=true</GDriveURL>
 		<AppealPoint>Unityを使用しているのでのカメラ制御を3Dゲームといえば、という挙動をさせて動かすことを目指して作りました。カメラ制御や動き重視なのでかなりチープに感じることが難点でしょうか。</AppealPoint>
 		<Profile>ゲーム4年制学科・プログラマー専攻３年　松永　悠哉
